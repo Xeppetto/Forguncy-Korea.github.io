@@ -1,4 +1,4 @@
-/** 
+/** Forguncy 기본 색상표
   Forguncy Logo - 00A0E8
   Forguncy Ribbon UI - 009DE1
   Forguncy Korea Homepage theme - 7ed0ed
@@ -25,22 +25,22 @@ h4 {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  background-color: #248ec2;
+  background-color: #7ed0ed;
   color: white;
 }
 
-.nav li a:hover {
-  background-color: #7ed0ed;
-  color: #333;
+.nav li a:hover { /* 좌측 메뉴에 마우스 hover시 나타나는 색 */
+  background-color: #7ed0ed; 
+  color: #white;
 }
 
-.nav li.active > a{
+.nav li.active > a{ /* 좌측 메뉴 중 선택된 카테고리 색 */
   background-color: #00A0E8; 
 }
 
-.nav li.active li.active a{
-  background-color: #b8e7ff;
-  color: #333;
+.nav li.active li.active a{ /* 좌측 메뉴 중 선택된 세부 페이지 색 */
+  background-color: #b8e7ff; 
+  color: #fff;
 }
 
 .nav > li > a:hover {
