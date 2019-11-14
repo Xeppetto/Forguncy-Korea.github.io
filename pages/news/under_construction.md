@@ -4,7 +4,7 @@ sidebar: home_sidebar
 keywords: news, blog, updates, release notes, announcements
 permalink: under_construction.html
 folder: news
-summary: "Excel을 사용할 수 있는 사람이라면 누구나 웹개발자가 될 수 있는 도구 Forguncy의 v5.0.2가 출시되었습니다.
+summary: "Excel을 사용할 수 있는 사람이라면 누구나 웹개발자가 될 수 있는 도구 Forguncy의 v5.0.2가 출시되었습니다."
 
 ---
 
