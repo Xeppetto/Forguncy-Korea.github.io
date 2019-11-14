@@ -7,7 +7,7 @@ entries:
         output: web, pdf
         folderitems:
           - title: Forguncy 새로운 기능
-            url: /whatsnew_under_construction.html
+            url: /under_construction.html
             output: web
             type: homepage
           #- title: 2019 V12 Service Pack 1
