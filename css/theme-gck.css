@@ -1,3 +1,8 @@
+/** 
+  Forguncy Logo - 00A0E8
+  Forguncy Ribbon UI - 009DE1
+  Forguncy Korea Homepage theme - 7ed0ed
+**/
 @import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
 body { font-family: 'Nanum Gothic', sans-serif; }
@@ -25,12 +30,12 @@ h4 {
 }
 
 .nav li a:hover {
-  background-color: #fbe3eb;
+  background-color: #00A0E8;
   color: #333;
 }
 
 .nav li.active > a{
-  background-color: #7ed0ed;
+  background-color: #69c4e6; 
 }
 
 .nav li.active li.active a{
@@ -39,7 +44,7 @@ h4 {
 }
 
 .nav > li > a:hover {
-  background-color: #7ed0ed;
+  background-color: #00A0E8;
   color: #fff;
 }
 
@@ -60,7 +65,7 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse {
-  background-color: #7ed0ed;
+  background-color: #00A0E8;
   border: 0px;
   position: fixed;
   width: 100%;
