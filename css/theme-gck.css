@@ -30,7 +30,7 @@ h4 {
 }
 
 .nav li a:hover {
-  background-color: #00A0E8;
+  background-color: #7ed0ed;
   color: #333;
 }
 
@@ -39,7 +39,7 @@ h4 {
 }
 
 .nav li.active li.active a{
-  background-color: #e7f7ff;
+  background-color: #b8e7ff;
   color: #333;
 }
 
