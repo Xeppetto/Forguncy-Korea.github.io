@@ -35,16 +35,16 @@ h4 {
 }
 
 .nav li.active > a{
-  background-color: #69c4e6; 
+  background-color: #00A0E8; 
 }
 
 .nav li.active li.active a{
-  background-color: #fbe3eb;
+  background-color: #e7f7ff;
   color: #333;
 }
 
 .nav > li > a:hover {
-  background-color: #00A0E8;
+  background-color: #69c4e6;
   color: #fff;
 }
 
@@ -186,7 +186,7 @@ div#tg-sb-content h1 {
 }
 
 #download{
-  background-color: #7ed0ed;
+  background-color: #00A0E8;
   color: #fff;
   font-weight: bold;
 }
