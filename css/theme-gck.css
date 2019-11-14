@@ -95,7 +95,7 @@ a.navbar-brand:hover {
 
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
-  border-color: #fbe3eb !important;
+  border-color: #d0dee4 !important;
 }
 
 .btn-primary {
@@ -107,7 +107,7 @@ a.navbar-brand:hover {
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  color: #811e4d;
+  color: #206a88;
   background-color: #fff;
 }
 
@@ -161,11 +161,11 @@ li.sidebarTitle {
 
 .navbar-inverse .navbar-toggle:focus,
 .navbar-inverse .navbar-toggle:hover {
-  background-color: #b0dcec;
+  background-color: #badce9;
 }
 
 .navbar-inverse .navbar-toggle {
-  border-color: #fbe3eb;
+  border-color: #badce9;
 }
 
 div#tg-sb-content h1 {
