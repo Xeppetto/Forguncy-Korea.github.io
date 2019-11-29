@@ -3,7 +3,7 @@ title: "Welcome to Forguncy Manual & Tutorial"
 keywords: GrapeCity, 그레이프시티, Spread.Net, Excel, 엑셀, Web  Development, c# 엑셀, c# excel, .net 엑셀, .net excel, excel 컨트롤, excel 컴포넌트
 sidebar: forguncy5_sidebar
 permalink: index.html
-summary: 본 트레이닝 센터에서는 Forguncy의 라이선스 인증 방법부터 개발, 배포하여 웹개발을 하는 방법을 학습해 보실 수 있습니다.
+summary: 본 트레이닝 센터에서 Forguncy의 라이선스 설치/인증 방법부터 개발하고 배포하는 웹개발의 전체 과정을 학습해 보실 수 있습니다.
 ---
 
 **[Forguncy](https://www.grapecity.co.kr/solutions/forguncy) 트레이닝 센터**에 오신 **Forguncy 개발자**분들을 환영합니다.
