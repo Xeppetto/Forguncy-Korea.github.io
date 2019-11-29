@@ -3,7 +3,7 @@
 entries:
   - title: sidebar
     product: Forguncy
-    version: V5
+    version: News
     folders:
       - title: 새로운 기능
         output: web, pdf
