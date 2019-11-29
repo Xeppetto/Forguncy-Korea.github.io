@@ -21,7 +21,7 @@ entries:
       - title: Overview
         output: web, pdf
         folderitems:
-          - title: Welcome
+          - title: 환영합니다
             url: /index.html
             output: web, pdf
             type: homepage
