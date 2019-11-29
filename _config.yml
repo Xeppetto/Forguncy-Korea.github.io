@@ -100,7 +100,7 @@ defaults:
 
 sidebars:
   - home_sidebar
-  - mydoc_sidebar
+  - forguncy5_sidebar
   - product1_sidebar
   - product2_sidebar
   - other

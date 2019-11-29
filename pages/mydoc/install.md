@@ -1,7 +1,7 @@
 ---
-title: Spread.NET 설치 방법
+title: Forguncy 설치 방법
 tags: [설치, install]
-keywords: spread.net 설치, 스프레드 닷넷
+keywords: Forguncy 설치, Forguncy Builder 설치, Forguncy Server 설치
 last_updated: Aug 08, 2019
 summary: "Spread.NET 제품을 설치하는 방법입니다."
 sidebar: mydoc_sidebar

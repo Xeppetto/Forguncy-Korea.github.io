@@ -1,0 +1,89 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: sidebar
+    product: Forguncy
+    version: V5
+    folders:
+      - title:
+        output: pdf
+        type: frontmatter
+        folderitems:
+          - title:
+            url: /titlepage.html
+            output: pdf
+            type: frontmatter
+          - title:
+            url: /tocpage.html
+            output: pdf
+            type: frontmatter
+
+      - title: Overview
+        output: web, pdf
+        folderitems:
+          - title: Welcome
+            url: /index.html
+            output: web, pdf
+            type: homepage
+
+          - title: Forguncy 제품 소개
+            url: /product_introduction.html
+            output: web, pdf
+
+          - title: Forguncy 특징
+            url: /forguncy_characteristic.html
+            output: web, pdf
+
+      - title: Forguncy Builder
+        output: web, pdf
+        folderitems:
+          - title: Forguncy Builder 소개
+            url: /fgc5builder_intro.html
+            output: web, pdf
+
+          - title: Forguncy Builder 설치
+            url: /fgc5builder_installation.html
+            output: web, pdf
+
+          - title: 온라인 라이선스 인증 및 해제
+            url: /fgc5builder_online_license.html
+            output: web, pdf
+
+          - title: 오프라인 라이선스 인증 및 해제
+            url: /fgc5builder_offline_license.html
+            output: web, pdf
+
+          - title: Forguncy Builder 업그레이드
+            url: /fgc5builder_upgrade.html
+            output: web, pdf
+
+          - title: Forguncy Builder 제거
+            url: /fgc5builder_uninstallation.html
+            output: web, pdf
+
+      - title: Forguncy Server
+        output: web, pdf
+        folderitems:
+          - title: Forguncy Server 소개
+            url: /fgc5server_intro.html
+            output: web, pdf
+
+          - title: Forguncy Server 설치
+            url: /fgc5server_installation.html
+            output: web, pdf
+
+          - title: 온라인 라이선스 인증 및 해제
+            url: /fgc5server_online_license.html
+            output: web, pdf
+
+          - title: 오프라인 라이선스 인증 및 해제
+            url: /fgc5server_offline_license.html
+            output: web, pdf
+
+          - title: Forguncy Server 업그레이드
+            url: /fgc5server_upgrade.html
+            output: web, pdf
+
+          - title: Forguncy Server 제거
+            url: /fgc5server_uninstallation.html
+            output: web, pdf
