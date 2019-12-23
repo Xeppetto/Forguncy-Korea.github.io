@@ -18,16 +18,16 @@ folder: forguncy5_03_javascript_api
 
 **(1) 화면 내 특정 button을 불러오는 예제**
 
-```Javascript
+~~~javascript
     //현재 페이지를 네임스페이스에 지정하여 가져옵니다.
     var page = Forguncy.Page;
     //현재 페이지에서 button이라는 버튼을 가져옵니다.
     var cell = page.getCell("button");
-```
+~~~
 
 **(2) Database의 값을 Listview에 입력한 후 해당 ListView의 값을 가져오거나, 특정 Cell에 저장하는 예제**
 
-```Javascript
+```javascript
     //현재 페이지를 네임스페이스에 지정하여 가져옵니다.
     var page = Forguncy.Page;
 
