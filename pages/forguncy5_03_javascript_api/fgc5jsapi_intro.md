@@ -22,7 +22,7 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 ### Namespace
   
 | Namespace | 설명 |
-| - | - |
+| --- | --- |
 | Forguncy | Forguncy의 Namespace는 'Forguncy'라고 정의합니다. |
   
 
