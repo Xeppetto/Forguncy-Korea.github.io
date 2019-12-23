@@ -92,6 +92,6 @@ entries:
         output: web, pdf
         folderitems:
           - title: Forguncy JavaScript API 소개
-            url: /fgc5server_intro.html
+            url: /fgc5jsapi_intro.md
             output: web, pdf
 
