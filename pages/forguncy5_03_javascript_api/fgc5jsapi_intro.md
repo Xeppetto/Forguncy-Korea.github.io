@@ -19,10 +19,9 @@ Forguncy에 기본 탑재된 API는 JavaScript로 제공하고 있으며, 본 �
 
 Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링크를 누르면 세부 내용을 보실 수 있습니다.
 
-1. Namespace
------ | ------
-Namespace | 설명
-Forguncy | Forguncy의 Namespace는 'Forguncy'라고 정의합니다.
+### Namespace
+| Namespace | 설명 |
+| Forguncy | Forguncy의 Namespace는 'Forguncy'라고 정의합니다. |
 
 2. Page Variable
 Page 변수 | 설명
