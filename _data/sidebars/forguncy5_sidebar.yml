@@ -91,7 +91,10 @@ entries:
       - title: Forguncy API
         output: web, pdf
         folderitems:
-          - title: Forguncy JavaScript API 소개
+          - title: Forguncy API 소개
             url: /fgc5jsapi_intro.html
             output: web, pdf
 
+          - title: Forguncy API - Namespace
+            url: /fgc5jsapi_namespace.html
+            output: web, pdf

@@ -1,9 +1,9 @@
 ---
 title: Forguncy JavaScript API
-tags: [Forgunc, JavaScript, API]
+tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API
 last_updated: Dec 23, 2019
-summary: "Forguncy JavaScript API를 소개합니다."
+summary: "Forguncy API를 소개합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_intro.html
 folder: forguncy5_03_javascript_api
@@ -23,21 +23,21 @@ Forguncy에 기본 탑재된 API는 JavaScript로 제공하고 있으며, 본 �
 
 Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링크를 누르면 세부 내용을 보실 수 있습니다.
 
-### Namespace
+## Namespace
 
 | Namespace | 설명 |
 | --- | --- |
-| Forguncy | Forguncy의 Namespace는 'Forguncy'라고 정의합니다. |
+| [Forguncy](fgc5jsapi_namespace.html) | Forguncy의 Namespace는 'Forguncy'라고 정의합니다. |
 
 
-### Page Variable
+## Page Variable
 
 | Page 변수 | 설명 |
 | --- | --- |
 | Page | Forguncy는 웹개발 도구이며 결과 값이 페이지 단위로 표시되므로 Namespace에 Page 변수를 붙여 사용합니다. |
 
 
-### Method
+## Method
 
 | Method | 설명 |
 | --- | --- |
@@ -58,7 +58,7 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | updateTableData | Primary Key를 이용하여 Database Table의 특정 Row(행)의 데이터를 업데이트합니다. |
 
 
-### Class
+## Class
 
 | Class | 설명 |
 | --- | --- |
@@ -72,7 +72,7 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | SpecialPath | Forguncy내 특정 경로와 관련된 Class입니다. |
 
 
-### Interface
+## Interface
 
 | Interface | 설명 |
 | --- | --- |
@@ -92,7 +92,7 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | UserInfo | 사용자에 대한 정보와 관련한 Interface입니다. |
 
 
-### ListView
+## ListView
 
 | ListView | 설명 |
 | --- | --- |
