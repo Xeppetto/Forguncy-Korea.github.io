@@ -87,3 +87,11 @@ entries:
           - title: Forguncy Server 제거
             url: /fgc5server_uninstallation.html
             output: web, pdf
+
+      - title: Forguncy API
+        output: web, pdf
+        folderitems:
+          - title: Forguncy JavaScript API 소개
+            url: /fgc5server_intro.html
+            output: web, pdf
+
