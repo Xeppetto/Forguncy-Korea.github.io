@@ -21,13 +21,14 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 
 ### Namespace
 | Namespace | 설명 |
+|-------|--------|
 | Forguncy | Forguncy의 Namespace는 'Forguncy'라고 정의합니다. |
 
-2. Page Variable
+### Page Variable
 Page 변수 | 설명
 Page | Forguncy는 웹개발 도구이며 결과 값이 페이지 단위로 표시되므로 Namespace에 Page 변수를 붙여 사용합니다.
 
-3. Method
+### Method
 Method | 설명
 addTableData | Database의 table에 데이터를 추가할 수 있습니다.
 addUserToRole | 특정 사용자를 필요한 사용자 그룹/역할에 추가할 수 있습니다.
@@ -83,7 +84,7 @@ primaryKey 매개 변수는 업데이트 할 유일한 행을 지정합니다.
 기본Key 매개 변수는 업데이트에 대한 고유 행 레코드를 지정합니다.
 
 
-4. Class
-5. Interface
-6. ListView
+### Class
+### Interface
+### ListView
 
