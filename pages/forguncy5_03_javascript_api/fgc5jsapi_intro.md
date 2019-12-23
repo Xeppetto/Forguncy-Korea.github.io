@@ -13,11 +13,14 @@ Forguncy는 Excel과 비슷한 환경으로 사용하기 위해 Forguncy 개발�
 
 Forguncy에 기본 탑재된 API는 JavaScript로 제공하고 있으며, 본 문서는 JavaScript API 사용 방법에 대해 설명합니다. 혹은 사용자 스스로 Plug-in을 작성하여 API처럼 Forguncy에 추가하셔서 사용하실 수도 있습니다.
 
+
 > 알림 : 본 페이지는 초보자들을 위한 문서가 아니며 웹개발을 어느 정도 이해하고 있는 웹개발자들을 위한 문서입니다. 주요 개발 용어들을 번역하기 보다 실무에서 사용하는 언어들 그대로 두었습니다. 그러므로 웹개발 초보자분들은 Forguncy 기능 매뉴얼부터 보시면서 차근차근 실력을 쌓아 주세요.
+
 
 Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링크를 누르면 세부 내용을 보실 수 있습니다.
 
 1. Namespace
+----- | ------
 Namespace | 설명
 Forguncy | Forguncy의 Namespace는 'Forguncy'라고 정의합니다.
 
