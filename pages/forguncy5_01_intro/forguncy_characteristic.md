@@ -9,11 +9,34 @@ permalink: forguncy_characteristic.html
 folder: forguncy5_01_intro
 ---
 
-(작성 중)
-포건시의 특징
-엑셀과 비슷한 형태의 모양과 기능 제공으로 쉽게 배울 수 있다.
+<center><h1>Forguncy</h1></center>
+<center><h2>Web Application Development Tool</h3></center>
+
+<h3>Forguncy는 기업 정보 시스템의 혁신적인 솔루션입니다. 시각화된 Excel 기반 프로그램과 혁신적인 기술을 이용하여 HTML5 웹개발은 물론, 기업의 요구사항에 최적화된 시스템을 빠르게 구축할 수 있습니다.</h3>
+
+<br /><br /><br />
+
+Forguncy 화면 제작 도구는 Excel 스타일로 표시되어 Excel을 다룰 수 있으면 누구나 쉽게 학습할 수 있으며, HTML이나 CSS같은 웹개발 기술을 모르는 상태에서도 가시적으로 셀을 병합하고 배경색을 설정하는 등 상세 화면, 목록 화면을 유연하게 생성할 수 있습니다. 또한 기존에 사용하고 계시던 Excel 템플릿 파일이 있다면, 이를 그대로 불러와 사용할 수 있습니다. Excel에서 사용하던 수식과 서식이 호환되므로, 견적서 같은 레이아웃이나 특정 회계 계산 기능도 쉽게 개발할 수 있습니다. 
+
+## 엑셀과 비슷한 형태의 모양과 기능 제공
+Forguncy 디자인은 Excel과 유사한 모양과 인터페이스를 제공합니다. Excel을 사용해 본 사용자라면 누구나 쉽게 사용방식을 배울 수 있습니다.
+
+![]({{site.url}}/images/forguncy5/uiux_01_excel.png)<br />
+![]({{site.url}}/images/forguncy5/uiux_02_forguncy.png)<br />
+![]({{site.url}}/images/forguncy5/uiux_03_excel.png)<br />
+![]({{site.url}}/images/forguncy5/uiux_04_forguncy.png)<br />
+![]({{site.url}}/images/forguncy5/uiux_05_excel_forguncy.png)<br />
+
+## 엑셀의 수식을 자동으로 이식
+Forguncy는 Excel과 Access를 거의 완벽하게 지원합니다. 그 중 Excel의 
+
+Forguncy는 GrapeCity의 다른 제품인 Spread.JS를 기반 엔진으로 사용하고 있습니다. Spread.JS에서 지원하는 [https://help.grapecity.com/spread/SpreadSheets12/webframe.html#FormulaFunctions.html](Excel 함수 목록)은 다음과 같습니다.
+
+
+
+
+으로 쉽게 배울 수 있다.
 엑셀과 액세스를 거의 완벽하게 지원한다.
 여러 종류의 각종 데이터베이스를 지원하여 포건시와 연동할 수 있고, 데이터 관리를 쉽게 할 수 있다.
 웹페이지 개발에 대한 적은 지식으로도 가시적으로 웹개발을 할 수 있다.
 웹서버 배포가 용이하다.
-

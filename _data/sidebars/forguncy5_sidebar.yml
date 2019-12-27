@@ -30,7 +30,7 @@ entries:
             url: /product_introduction.html
             output: web, pdf
 
-          - title: Forguncy 특징
+          - title: Forguncy 특징과 장점
             url: /forguncy_characteristic.html
             output: web, pdf
 
