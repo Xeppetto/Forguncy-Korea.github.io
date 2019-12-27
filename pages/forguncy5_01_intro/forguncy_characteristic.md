@@ -22,11 +22,11 @@ Forguncy 화면 제작 도구는 Excel 스타일로 표시되어 Excel을 다룰
 
 Forguncy 디자인은 Excel과 유사한 모양과 인터페이스를 제공합니다. Excel을 사용해 본 사용자라면 누구나 쉽게 사용방식을 배울 수 있습니다.
 
-![]({{site.url}}/images/forguncy5/uiux_01_excel.png)<br />
-![]({{site.url}}/images/forguncy5/uiux_02_forguncy.png)<br />
-![]({{site.url}}/images/forguncy5/uiux_03_excel.png)<br />
-![]({{site.url}}/images/forguncy5/uiux_04_forguncy.png)<br />
-![]({{site.url}}/images/forguncy5/uiux_05_excel_forguncy.png)<br />
+![]({{site.url}}/images/forguncy5/uiux_01_excel.png)
+![]({{site.url}}/images/forguncy5/uiux_02_forguncy.png)
+![]({{site.url}}/images/forguncy5/uiux_03_excel.png)
+![]({{site.url}}/images/forguncy5/uiux_04_forguncy.png)
+![]({{site.url}}/images/forguncy5/uiux_05_excel_forguncy.png)
 <br /><br />
 
 ## 엑셀의 수식과 호환되며 자동으로 이식 가능합니다.
