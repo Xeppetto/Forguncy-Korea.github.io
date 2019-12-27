@@ -21,7 +21,7 @@ Forguncy의 기본 편집기는 Excel과 유사한 모양과 기능을 제공하
 
 Forguncy는 Builder와 Server로 이루어져 있으며, Builder에서 작성한 웹애플리케이션을 Server로 배포하여 사용합니다. Forguncy Server는 서버의 주소 혹은 도메인에서 Forguncy Server 프로그램을 웹서버로 이용하여 서비스를 제공합니다. Forguncy Builder에서 Forguncy Server로의 배포는 서버의 주소나 도메인만 알면 간단하게 할 수 있습니다. 프로그램을 배포하기 위한 여러가지 복잡하고 어려운 기술들을 모르셔도 쉽게 서비스를 고객들에게 제공할 수 있기 때문에 전문적인 프로그래밍 지식 없이도 웹서비스를 개발하실 수 있습니다.
 
-![]({{site.url}}/images/forguncy5/fgc_deploy.png width="800"x)
+![]({{site.url}}/images/forguncy5/fgc_deploy.png)
 
 전문적인 프로그래밍 지식을 갖춘 사용자라면 Forguncy에서 제공하는 인터페이스를 이용하여 복잡하고 정교한 웹서비스를 개발하실 수 있습니다. Forguncy에서 외부 JavaScript 라이브러리, CSS 라이브러리를 가져오기하여 이용하실 수 있고, 또 직접 개발해서 사용하실 수도 있으며, C# 기반으로 코딩한 Plug-in을 추가하여 웹에서 구현하기 어려운 기능들을 구현하실 수도 있습니다.
 
