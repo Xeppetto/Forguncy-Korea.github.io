@@ -11,41 +11,46 @@ folder: forguncy5_01_intro
 
 # Forguncy - Web Application Development Tool
 
-<br /><br /><br />
+<br /><br />
 
 Forguncy는 기업 정보 시스템의 혁신적인 솔루션입니다. 시각화된 Excel 기반 프로그램과 혁신적인 기술을 이용하여 HTML5 웹개발은 물론, 기업의 요구사항에 최적화된 시스템을 빠르게 구축할 수 있습니다.
 
 Forguncy 화면 제작 도구는 Excel 스타일로 표시되어 Excel을 다룰 수 있으면 누구나 쉽게 학습할 수 있으며, HTML이나 CSS같은 웹개발 기술을 모르는 상태에서도 가시적으로 셀을 병합하고 배경색을 설정하는 등 상세 화면, 목록 화면을 유연하게 생성할 수 있습니다. 또한 기존에 사용하고 계시던 Excel 템플릿 파일이 있다면, 이를 그대로 불러와 사용할 수 있습니다. Excel에서 사용하던 수식과 서식이 호환되므로, 견적서 같은 레이아웃이나 특정 회계 계산 기능도 쉽게 개발할 수 있습니다. 
+<br /><br />
 
-## 엑셀과 비슷한 형태의 모양과 기능을 제공합니다.
+## 엑셀과 비슷한 형태의 모양과 기능 제공
 
 Forguncy 디자인은 Excel과 유사한 모양과 인터페이스를 제공합니다. Excel을 사용해 본 사용자라면 누구나 쉽게 사용방식을 배울 수 있습니다.
 
 ![]({{site.url}}/images/forguncy5/uiux_01_excel.png)
 ![]({{site.url}}/images/forguncy5/uiux_02_forguncy.png)
-![]({{site.url}}/images/forguncy5/uiux_03_excel.png)
-![]({{site.url}}/images/forguncy5/uiux_04_forguncy.png)
 ![]({{site.url}}/images/forguncy5/uiux_05_excel_forguncy.png)
 <br /><br />
 
-## 엑셀의 수식과 호환되며 자동으로 이식 가능합니다.
+## 엑셀의 수식과 호환되며 자동으로 이식 가능
 
-Forguncy는 일반 사용자들이 사용하는 Excel의 주요 기능들을 거의 완벽하게 지원하며, Excel 수식들의 대부분을 Forguncy로 변환할 수 있습니다. 자동으로 Forguncy로 이식되는 Excel 수식의 기술은 GrapeCity의 다른 제품인 Spread.JS 기술력을 기반으로 합니다. Forguncy는 Spread.JS의 기술을 차용하여 이를 Excel과의 호환성을 확보하는 엔진으로 사용하고 있습니다. Spread.JS에서 지원하는 [https://help.grapecity.com/spread/SpreadSheets12/webframe.html#FormulaFunctions.html](Excel 함수 목록)은 다음과 같으며, 이 목록은 Forguncy에서도 그대로 적용됩니다.
+Forguncy는 일반 사용자들이 사용하는 Excel의 주요 기능들을 거의 완벽하게 지원하며, Excel 수식들의 대부분을 Forguncy로 변환할 수 있습니다. 자동으로 Forguncy로 이식되는 Excel 수식의 기술은 GrapeCity의 다른 제품인 Spread.JS 기술력을 기반으로 합니다. Forguncy는 Spread.JS의 기술을 차용하여 이를 Excel과의 호환성을 확보하는 엔진으로 사용하고 있습니다. Spread.JS에서 지원하는 [Excel 함수 목록](https://help.grapecity.com/spread/SpreadSheets12/webframe.html#FormulaFunctions.html)은 다음과 같으며, 이 목록은 Forguncy에서도 그대로 적용됩니다.
+
+![]({{site.url}}/images/forguncy5/formular01.png)
+![]({{site.url}}/images/forguncy5/formular02.png)
 <br /><br />
 
-## 손쉽게 모바일 화면을 작성할 수 있습니다.
+## 손쉽게 모바일 화면 작성 가능
 
-Forguncy 사용자는 언제 어디서나 PC, Tablet, Modile 등 모든 기기에서 접속하여 모바일 오피스를 실현할 수 있습니다.
+Forguncy를 이용하면 사용자는 언제 어디서나 PC, Tablet, Modile 등 모든 기기에서 접속 가능한 모바일 환경의 웹개발을 할 수 있습니다. Forguncy의 또 다른 강점인 기존 데이터베이스(Legacy Database)와의 연동 기능을 이용하여, 이미 사용하고 계시는 사내의 여러 시스템을 모바일 앱으로 개발하실 수 있습니다. 기존의 시스템 서비스를 건드리지 않은 상태에서 모바일 서비스를 새로 개발할 수 있는 획기적이고도 아름다운 기능을 제공합니다.
 
 ![]({{site.url}}/images/forguncy5/mobile1.png)
 <br /><br />
 
+## ODBC로 연동할 수 있는 여러 종류의 데이터베이스를 지원
 
+Forguncy에는 자체 내장 데이터베이스가 제공되어 별도의 데이터베이스 설치 없이도 데이터베이스를 이용한 개발을 수행할 수 있습니다. 또한, Forguncy는 ODBC 드라이버를 이용해 여러 종류의  데이터베이스를 지원합니다. 이 데이터베이스 관리 기술을 이용하여 외부 데이터베이스를 Forguncy와 연동하여 사용할 수 있습니다. 사내에서 사용하던 여러 개의 기존 시스템(Legacy System) 데이터들을 하나로 통합하여 새로운 솔루션, 새로운 시스템을 구성할 수 있습니다.
 
+![]({{site.url}}/images/forguncy5/database.png)
+<br /><br />
 
 
 <br /><br /><br /><br /><br /><br />
 엑셀과 액세스를 거의 완벽하게 지원한다.
-여러 종류의 각종 데이터베이스를 지원하여 포건시와 연동할 수 있고, 데이터 관리를 쉽게 할 수 있다.
 웹페이지 개발에 대한 적은 지식으로도 가시적으로 웹개발을 할 수 있다.
 웹서버 배포가 용이하다.
