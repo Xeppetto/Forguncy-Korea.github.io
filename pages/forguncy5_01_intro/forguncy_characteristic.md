@@ -38,7 +38,7 @@ Forguncy는 일반 사용자들이 사용하는 Excel의 주요 기능들을 거
 
 Forguncy 사용자는 언제 어디서나 PC, Tablet, Modile 등 모든 기기에서 접속하여 모바일 오피스를 실현할 수 있습니다.
 
-![]({{site.url}}/images/forguncy5/mobile1.png)<br />
+![]({{site.url}}/images/forguncy5/mobile1.png)
 <br /><br />
 
 
