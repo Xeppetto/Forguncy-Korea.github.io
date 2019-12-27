@@ -9,8 +9,7 @@ permalink: forguncy_characteristic.html
 folder: forguncy5_01_intro
 ---
 
-<center><h1>Forguncy</h1></center>
-<center><h2>Web Application Development Tool</h3></center>
+# Forguncy - Web Application Development Tool
 
 <br /><br /><br />
 
