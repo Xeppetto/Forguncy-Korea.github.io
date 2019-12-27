@@ -16,6 +16,11 @@ Forguncy의 가장 강혁한 기능 중 하나는 여러 데이터 관리 시스
 ![]({{site.url}}/images/forguncy5/whats_forguncy.png)
 
 
+Forguncy 플랫폼을 이용해서 업무 개선 애플리케이션을 개발하고, 운영까지 모든 단계를 관리하실 수 있습니다.
+
+![]({{site.url}}/images/forguncy5/flow4.png)
+
+
 Forguncy의 기본 편집기는 Excel과 유사한 모양과 기능을 제공하여 가시적인 레이아웃 개발을 가능하게 합니다. Forguncy를 활용하시면 개발 지식이 없는 사람 손쉽게 웹사이트를 개발하고 배포할 수 있습니다. 또한 전문적인 웹개발지식을 가진 개발자가 Forguncy를 활용하면 여러가지 복잡한 데이터의 웹사이트를 쉽게 구축할 수 있으며, 웹 개발 시 필수적으로 발생하는 반복적인 작업을 줄여 줍니다.
 
 ![]({{site.url}}/images/forguncy5/forguncy_excel_like.png)
@@ -40,7 +45,3 @@ Forguncy가 제공하는 풍부한 인터페이스와 강력한 플러그인 기
 
 ![]({{site.url}}/images/forguncy5/plugins.png)
 
-
-Forguncy 플랫폼을 이용해서 업무 개선 애플리케이션을 개발하고, 운영까지 모든 단계를 관리하실 수 있습니다.
-
-![]({{site.url}}/images/forguncy5/flow4.png)
