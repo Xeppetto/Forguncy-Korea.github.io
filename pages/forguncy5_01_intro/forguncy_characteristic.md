@@ -87,6 +87,7 @@ Forguncy는 전용 서버 소프트웨어에서 서비스가 구동되어, 서�
 Forguncy는 Builder에서 Excel과 비슷한 UI 화면으로 웹페이지를 개발하고, 이를 배포하여 Server에서 여러가지 API를 이용해 웹브라우저에서 기능을 사용할 수 있도록 환경을 제공합니다. 그렇지만 이렇보니 Forguncy Builder 자체의 기능은 웹에 한정된 기능을 제공하거나, 기본적인 기능들만 제공한다고 느껴지실 수도 있습니다. 웹에 한정된 기능 외 추가적인 기능을 사용하고 싶다면 Forguncy에 플러그인(Plug-in)을 더하면 더욱 편리한 기능을 사용할 수 있습니다. 사용자가 직접 플러그인을 만들어 빌드하셔서 Forguncy에 추가하실 수도 있습니다. 플러그인을 다운로드 하시려면 여기(준비 중)에 방문해 주세요.
 
 ![]({{site.url}}/images/forguncy5/plugins.png)
+![]({{site.url}}/images/forguncy5/js_css_import.png)
 <br /><br />
 
 
