@@ -11,8 +11,7 @@ folder: forguncy5_03_javascript_api
 
 ## 설명
 네임스페이스(이후 Namespace)는 변수 이름이나 함수 이름과 같이 명칭을 사용하는 공간으로 소속을 나타내며, Forguncy API를 사용할 때 Namespace는 'Forguncy'라고 선언합니다.
-
-\
+<br /><br />
 
 ## 예제
 아래 코드가 어떤 의미인지에 대해 지금은 자세히 아실 필요가 없습니다. 향후 해당 내용을 설명할 때 다시 자세히 설명할 예정입니다. 
