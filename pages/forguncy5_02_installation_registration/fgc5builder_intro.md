@@ -9,7 +9,7 @@ permalink: fgc5builder_intro.html
 folder: forguncy5_02_installation_registration
 ---
 
-Forguncy Builder는 Excel 혹은 모눈종이와 비슷한 화면 모양을 이용하여 웹페이지의 화면과 기능을 정의할 수 있는 개발 도구를 말합니다.
+Forguncy Builder는 엑셀(Excel) 혹은 모눈종이와 비슷한 화면 모양을 이용하여 웹개발에 대한 지식이 높지 않은 사용자도 웹페이지의 화면과 기능을 정의할 수 있는 개발 도구를 말합니다. 물론 웹개발을 잘 아는 전문가는 더 고급스러운 기능들을 제작할 수 있습니다.
 
 ![]({{site.url}}/images/forguncy5/forguncy_app_development.png)
 <br /><br /><br />
