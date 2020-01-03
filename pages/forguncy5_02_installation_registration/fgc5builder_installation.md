@@ -11,6 +11,7 @@ folder: forguncy5_02_installation_registration
 
 Forguncy Builder를 설치하시려면 먼저 [다운로드 사이트](https://www.grapecity.co.kr/download/forguncy)에서 양식에 맞게 내용을 기입하신 후 파일을 다운로드 받아주세요.
 
+<br /><br />
 
 1. [다운로드 사이트](https://www.grapecity.co.kr/download/forguncy)에서 Forguncy Builder를 다운로드 받기 위한 정보를 정확히 입력해 주세요. 다운로드 링크는 입력하신 이메일로 발송되며, 따로 링크로 제공하지 않습니다. 이메일을 정확히 입력해 주세요.
 
@@ -24,7 +25,7 @@ Forguncy Builder를 설치하시려면 먼저 [다운로드 사이트](https://w
     | --- | --- |
     | 운영체제 |  윈도우 7 SP1 <br /> 윈도우 8.1 업데이트<br /> 윈도우 10 <br /> 윈도우 서버 2008 SP2 <br /> 윈도우 서버 2008 R2 SP1<br /> 윈도우 서버 2012<br /> 윈도우 서버 2012 R2 업데이트 |
     | 하드웨어 |  CPU: 코어™ i3 2GHz 이상 <br /> 메모리: 4GB 이상<br /> HDD 남은 공간: 400MB 이상<br />(<font color="red">⚠</font> .NET Framework가 설치되지 않은 경우 HDD 2GB 이상 필요) |
-    | 프레임워크 |  .NET 프레임워크 4.6 이상 버전 <br />(font color="red">⚠</font> 해당 버전의 .NET 프레임워크가 설치되어 있지 않은 경우 별도로 설치하셔야 합니다.) |
+    | 프레임워크 |  .NET 프레임워크 4.6 이상 버전 <br />(<font color="red">⚠</font> 해당 버전의 .NET 프레임워크가 설치되어 있지 않은 경우 별도로 설치하셔야 합니다.) |
     | 브라우저 |  인터넷 익스플로러 11<br /> 마이크로소프트 엣지 최신<br /> 구글 크롬 최신<br /> Android Google Chrome 최신<br /> iPhone Safari (iOS 12 이상, 최신) |
 
 3. Forguncy Builder 설치 화면이 나타납니다.
@@ -38,6 +39,8 @@ Forguncy Builder를 설치하시려면 먼저 [다운로드 사이트](https://w
     (3) EULA(사용자 라이선스 동의서)에 동의하시면 "설치" 버튼이 활성화됩니다. 클릭하셔서 설치를 진행해 주세요.
 
     ![]({{site.url}}/images/forguncy5/installation_builder02.png)
+
+<br /><br />
 
 설치가 완료되면 Forguncy Builder를 실행해 주세요.
 
