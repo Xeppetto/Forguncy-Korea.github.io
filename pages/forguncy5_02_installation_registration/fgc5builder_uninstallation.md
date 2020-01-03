@@ -16,7 +16,6 @@ Forguncy Builder를 제거하시려면 프로그램 목록으로 이동하셔야
 
 1. 윈도우10의 시작버튼에 마우스 우 클릭하시면 나오는 메뉴 중 "앱 및 기능"을 선택하셔야 합니다.
 
-    ![]({{site.url}}/images/forguncy5/uninstallation_start_icon.png)
     ![]({{site.url}}/images/forguncy5/윈도우_우클릭메뉴.png)
 
 2. "앱 및 기능" 화면에 나타나는 설치된 앱 목록 중 "GrapeCity Forguncy Builder"를 선택하시고, 나타나는 "제거" 버튼을 클릭해 주세요.
@@ -27,7 +26,7 @@ Forguncy Builder를 제거하시려면 프로그램 목록으로 이동하셔야
 
     ![]({{site.url}}/images/forguncy5/uninstallation_builder02.png)
 
-<br /><br /><br />
+<br /><br />
 
 ### 윈도우7의 경우
 
@@ -40,7 +39,6 @@ Forguncy Builder를 제거하시려면 프로그램 목록으로 이동하셔야
 3. "프로그램 및 기능"에서 나타나는 "GrapeCity Forguncy Builder"를 선택하시고, 나타나는 "제거" 버튼을 클릭해 주세요.
 
     ![]({{site.url}}/images/forguncy5/uninstallation_builder03.png)
-    ![]({{site.url}}/images/forguncy5/uninstallation_builder01.png)
 
 4. 제거가 진행되는 동안 잠시 기다리시면 프로그램 제거가 완료됩니다.
 
