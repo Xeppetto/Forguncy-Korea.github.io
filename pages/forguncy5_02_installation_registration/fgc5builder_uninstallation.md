@@ -12,6 +12,12 @@ folder: forguncy5_02_installation_registration
 Forguncy Builder를 제거하시려면 프로그램 목록으로 이동하셔야 합니다. 본 페이지에서는 윈도우7과 윈도우10을 기준으로 설명드리겠습니다.
 <br /><br />
 
+### 주의사항
+
+* Forguncy Builder의 목적이 다른 컴퓨터로 이동하려고 하시나요? Forguncy Builder를 해당 컴퓨터에서 정품인증하여 사용하고 계셨던 경우, Forguncy Builder 정품인증 비활성화하기 내용을 먼저 확인하신 후 제거하시는 게 안전합니다.
+
+<br /><br />
+
 ### 윈도우10에서 Forguncy Builder 제거하기
 
 1. 윈도우10의 시작버튼에 마우스 우 클릭하시면 나오는 메뉴 중 "앱 및 기능"을 선택하셔야 합니다.
