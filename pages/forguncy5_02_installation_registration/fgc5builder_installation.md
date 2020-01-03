@@ -34,10 +34,12 @@ Forguncy Builder를 설치하시려면 먼저 [다운로드 사이트](https://w
 
     (2) 대상폴더는 기본으로 두셔도 되고, 사용자가 필요한 위치로 옮기셔도 됩니다.
 
-    (3) EULA(사용자 라이선스 동의서)에 동의하시면 "설치" 버튼이 활동화됩니다. 클릭하셔서 설치를 진행하여 주세요.
-    
+    (3) EULA(사용자 라이선스 동의서)에 동의하시면 "설치" 버튼이 활성화됩니다. 클릭하셔서 설치를 진행해 주세요.
+
     ![]({{site.url}}/images/forguncy5/installation_builder02.png)
 
 설치가 완료되면 Forguncy Builder를 실행해 주세요.
 
-설치 중, 설치 후 Forguncy Builder 실행 관련하여 문의사항이 있으신 경우 그레이프시티 코리아 기술지원([support-kor@grapecity.com](support-kor@grapecity.com))으로 연락주십시오. 특히 오류가 발생한 경우는 오류 상황을 스크린샷 찍어주시거나, 명확히 설명해 주시면 감사드리겠습니다.
+설치 중 오류, 혹은 설치 후 Forguncy Builder 실행 관련하여 문의사항이 있으신 경우 그레이프시티 코리아 기술지원([support-kor@grapecity.com](support-kor@grapecity.com))으로 연락주십시오. 특히 오류가 발생한 경우는 오류 상황을 스크린샷 찍어주시거나, 명확히 설명해 주시면 빠른 분석에 도움이 됩니다. 
+
+그레이프시티 제품을 사용해 주셔서 고맙습니다.
