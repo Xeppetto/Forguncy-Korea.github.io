@@ -11,7 +11,7 @@ folder: forguncy5_02_installation_registration
 
 Forguncy Builder를 설치하시려면 먼저 [다운로드 사이트](https://www.grapecity.co.kr/download/forguncy)에서 양식에 맞게 내용을 기입하신 후 파일을 다운로드 받아주세요.
 
-<br /><br />
+<br />
 
 1. [다운로드 사이트](https://www.grapecity.co.kr/download/forguncy)에서 Forguncy Builder를 다운로드 받기 위한 정보를 정확히 입력해 주세요. 다운로드 링크는 입력하신 이메일로 발송되며, 따로 링크로 제공하지 않습니다. 이메일을 정확히 입력해 주세요.
 
