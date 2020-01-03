@@ -29,11 +29,13 @@ Forguncy Builder를 설치하시려면 먼저 [다운로드 사이트](https://w
 
 3. Forguncy Builder 설치 화면이 나타납니다.
     (1) "사용자 라이선스 동의서를 확인하였으며 이에 동의함"에 동의하셔야 설치가 진행됩니다.
+
     ![]({{site.url}}/images/forguncy5/installation_builder01.png)
 
     (2) 대상폴더는 기본으로 두셔도 되고, 사용자가 필요한 위치로 옮기셔도 됩니다.
 
     (3) EULA(사용자 라이선스 동의서)에 동의하시면 "설치" 버튼이 활동화됩니다. 클릭하셔서 설치를 진행하여 주세요.
+    
     ![]({{site.url}}/images/forguncy5/installation_builder02.png)
 
 설치가 완료되면 Forguncy Builder를 실행해 주세요.
