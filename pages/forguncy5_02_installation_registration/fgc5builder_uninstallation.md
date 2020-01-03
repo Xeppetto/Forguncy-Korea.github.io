@@ -44,6 +44,8 @@ Forguncy Builder를 제거하시려면 프로그램 목록으로 이동하셔야
 
     ![]({{site.url}}/images/forguncy5/uninstallation_builder02.png)
 
+<br /><br />
+
 ### 꿀팁 - 윈도우10에서 제어판 사용하기
 
 1. 윈도우10의 경우에도 "제어판"을 사용하실 수 있습니다.
