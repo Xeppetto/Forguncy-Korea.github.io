@@ -44,6 +44,6 @@ Forguncy Builder를 설치하시려면 먼저 [다운로드 사이트](https://w
 
 설치가 완료되면 Forguncy Builder를 실행해 주세요.
 
-설치 중 오류, 혹은 설치 후 Forguncy Builder 실행 관련하여 문의사항이 있으신 경우 그레이프시티 코리아 기술지원([support-kor@grapecity.com](support-kor@grapecity.com))으로 연락주십시오.  오류가 발생한 경우에 대한 상황을 스크린샷 찍어주시거나, 명확히 설명해 주시면 빠른 문제 해결에 도움이 됩니다. 
+설치 중 오류, 혹은 설치 후 Forguncy Builder 실행 관련하여 문의사항이 있으신 경우 그레이프시티 코리아 기술지원([support-kor@grapecity.com](mailto:support-kor@grapecity.com))으로 연락주십시오.  오류가 발생한 경우에 대한 상황을 스크린샷 찍어주시거나, 명확히 설명해 주시면 빠른 문제 해결에 도움이 됩니다. 
 
 그레이프시티 제품을 사용해 주셔서 고맙습니다.
