@@ -9,9 +9,13 @@ permalink: fgc5builder_upgrade.html
 folder: forguncy5_02_installation_registration
 ---
 
-Forguncy Builder 업그레이드는 다음 번 패치 발생 시 제공하겠습니다. 현재 대한민국용 Forguncy Builder는 1개의 버전만 제공되므로, 한글 업그레이드 화면을 스크린샷 찍을 수 없기 때문입니다.
+## 알림
 
-Forguncy Builder를 설치하시려면 [다운로드 사이트](https://www.grapecity.co.kr/download/forguncy)에서 양식에 맞게 내용을 기입하신 후 파일을 다운로드 받아주세요.
+아직 내용이 준비되지 않았습니다. Forguncy Builder 업그레이드는 다음 번 패치 발생 시 제공하겠습니다. 현재 대한민국용 Forguncy Builder는 1개의 버전만 제공하므로, 한글 업그레이드 화면을 스크린샷 찍을 수 없기 때문입니다. 
+
+* 혹여라도 매뉴얼을 작성하기 전 업그레이드가 발생하면, 그냥 일반 설치 방법과 거의 유사하니 설치 페이지 내용을 참고하시면 됩니다. (정품인증 라이선스를 따로 관리하실 필요는 없습니다. 업그레이드 시 그대로 유지됩니다.)
+
+* Forguncy Builder를 설치하시려면 [다운로드 사이트](https://www.grapecity.co.kr/download/forguncy)에서 양식에 맞게 내용을 기입하신 후 파일을 다운로드 받아주세요.
 
 그레이프시티 제품을 사용해 주셔서 감사합니다.
 
