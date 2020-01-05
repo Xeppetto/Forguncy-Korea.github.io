@@ -102,4 +102,4 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | QueryNullPolicy | Database의 Table 정보, 혹은 View 정보를 가져오는 동안 발생하는 Null에 대한 정책을 관리합니다. |
 
 
-위 API 문서는 Forguncy Global 개발팀의 문서를 번역한 내용입니다. 이와 관련된 오류사항 지적, 문의사항은 그레이프시티 코리아 기술지원([support-kor@grapecity.com](support-kor@grapecity.com))으로 연락주십시오.
+위 API 문서는 Forguncy Global 개발팀의 문서를 번역한 내용입니다. 이와 관련된 오류사항 신고, 문의사항은 그레이프시티 코리아 기술지원([support-kor@grapecity.com](support-kor@grapecity.com))으로 연락주십시오.
