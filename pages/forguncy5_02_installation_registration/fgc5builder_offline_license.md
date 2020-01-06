@@ -2,7 +2,7 @@
 title: Forguncy Builder 오프라인 인증
 tags: [제품 인증, Forguncy 인증, Forguncy Builder 정품 인증]
 keywords: Forguncy 제품 인증, Forguncy 인증, Forguncy Builder 인증, Forguncy 정품, Forguncy 정품 인증, Forguncy Builder 정품, Forguncy Builder 정품 인증
-last_updated: Nov 29, 2019
+last_updated: Jan 03, 2020
 summary: "Forguncy Builder를 오프라인에서 정품 인증하는 방법입니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5builder_offline_license.html

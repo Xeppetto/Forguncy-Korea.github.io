@@ -2,7 +2,7 @@
 title: Forguncy Builder 소개
 tags: [Forguncy 소개, Forguncy Builder 소개]
 keywords: Forguncy 제품 소개, Forguncy Builder 소개, Forguncy Builder 특징
-last_updated: Nov 29, 2019
+last_updated: Jan 03, 2020
 summary: "Forguncy Builder를 소개하고 특장점을 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5builder_intro.html
