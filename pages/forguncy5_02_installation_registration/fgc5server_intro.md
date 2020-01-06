@@ -19,7 +19,7 @@ Forguncy Builder의 최대 강점은 전문적인 웹개발 지식 없이도 생
 Forguncy Server는 Windows Server OS에 설치하기만 하면 바로 사용하실 수 있습니다. Forguncy Server를 사용하기 위해 별도의 서버 Framework를 이해하지 않으셔도 되며, IIS나 Apache 등 어려운 고도의 서버 기술을 몰라도 단순히 설치만으로 사용할 수 있는 서버입니다. 또한, Forguncy Server를 이용하기 위해서 어려운 배포(Deploy) 기술을 익힐 필요가 없습니다. Forguncy Builder에서 Server로의 배포 기능을 이용하여 서버 관리자의 정보를 입력하면, 사용자들은 곧바로 해당 서비스를 Forguncy Server를 설치한 서버에서 사용하실 수 있습니다.
 
 ![]({{site.url}}/images/forguncy5/fgc_server02.png)
-<br />
+<br /><br />
 
 ### 실행 중인 웹서버를 재부팅하지 않고도 즉시 변경을 반영할 수 있음
 
