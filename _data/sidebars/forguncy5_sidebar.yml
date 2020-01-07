@@ -91,10 +91,12 @@ entries:
       - title: Forguncy API
         output: web, pdf
         folderitems:
-          
+          - title: Forguncy API 소개
+            url: /fgc5jsapi_intro.html
+            output: web, pdf
+
           subfolders:
-            - title: Forguncy API 소개 & 기본 설명
-              url: /fgc5jsapi_intro.html
+            - title: Forguncy API - 기본 객체
               output: web, pdf
 
               subfolderitems:
@@ -111,6 +113,10 @@ entries:
               output: web, pdf
 
               subfolderitems:
+              - title: Page 클래스 -  전체 목록
+                url: /fgc5jsapi_page-class-bind.html
+                output: web, pdf
+
               - title: Page 클래스 - bind
                 url: /fgc5jsapi_page-class-bind.html
                 output: web, pdf
