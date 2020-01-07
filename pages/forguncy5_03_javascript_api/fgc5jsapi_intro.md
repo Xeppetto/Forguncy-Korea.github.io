@@ -2,7 +2,7 @@
 title: Forguncy JavaScript API
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API
-last_updated: Dec 23, 2019
+last_updated: Jan 7, 2020
 summary: "Forguncy API를 소개합니다. 구분의 링크를 클릭하시면 세부 페이지 내용을 보실 수 있습니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_intro.html
@@ -33,15 +33,15 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | --- | --- |
 | [Forguncy](fgc5jsapi_namespace.html) | Forguncy의 Namespace는 'Forguncy'라고 정의합니다. |
 
-<br /><br />
+<br />
 
 ## Page Variable
 
-| Page 변수 | 상세 설명 |
+| Page Variable | 상세 설명 |
 | --- | --- |
 | [Page](fgc5jsapi_page-variable.html) | Forguncy는 웹개발 도구이며 결과 값이 페이지 단위로 표시되므로 Namespace에 Page 변수를 붙여 사용합니다. |
 
-<br /><br />
+<br />
 
 ## Method
 
@@ -63,7 +63,7 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | SendMail | 제목과 내용, 수신자 이메일(현재 웹사이트 이용자)을 지정하여 이메일을 발송합니다. 이 API를 사용하려면 SMTP 서비스가 올바르게 구성해야 합니다. |
 | updateTableData | Primary Key를 이용하여 Database Table의 특정 Row(행)의 데이터를 업데이트합니다. |
 
-<br /><br />
+<br />
 
 ## Class
 
@@ -78,7 +78,7 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | PageEvents | Page에서 사용할 수 있는 이벤트 관련 Class입니다. |
 | SpecialPath | Forguncy내 특정 경로와 관련된 Class입니다. |
 
-<br /><br />
+<br />
 
 ## Interface
 
@@ -99,7 +99,7 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | UserExtendProperties | 사용자와 관련한 세부 속성과 관련한 Interface입니다. |
 | UserInfo | 사용자에 대한 정보와 관련한 Interface입니다. |
 
-<br /><br />
+<br />
 
 ## ListView
 
@@ -108,6 +108,6 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | ListviewColumnType | ListView 테이블의 Column(열) 형식과 그에 관한 정보들을 나타냅니다. |
 | QueryNullPolicy | Database의 Table 정보, 혹은 View 정보를 가져오는 동안 발생하는 Null에 대한 정책을 관리합니다. |
 
-<br /><br />
+<br />
 
 위 API 문서는 Forguncy Global 개발팀의 문서를 번역한 내용입니다. 이와 관련된 오류사항 신고, 문의사항은 그레이프시티 코리아 기술지원([support-kor@grapecity.com](support-kor@grapecity.com))으로 연락주십시오.

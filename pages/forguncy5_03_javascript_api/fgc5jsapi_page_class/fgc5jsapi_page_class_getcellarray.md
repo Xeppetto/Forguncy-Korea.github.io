@@ -2,7 +2,7 @@
 title: Forguncy API - Namespace
 tags: [Forguncy, JavaScript, API, Namespace]
 keywords: Forguncy API, JavaScript API, Namespace
-last_updated: Dec 23, 2019
+last_updated: Jan 7, 2020
 summary: "Forguncy API - Page 클래스 중 getCellArray를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-getcellarray.html
