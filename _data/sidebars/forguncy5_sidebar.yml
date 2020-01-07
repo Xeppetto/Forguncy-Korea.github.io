@@ -116,7 +116,7 @@ entries:
 
             subfolders:
             - title: Forguncy API - 메소드
-                subfolderitems:
+              subfolderitems:
               - title: Forguncy API 소개
                 url: /fgc5jsapi_intro.html
                 output: web, pdf
