@@ -13,9 +13,9 @@ folder: forguncy5_03_javascript_api
 본 페이지에서는 Page 클래스 전체 메소드 목록을 표시합니다.
 <br /><br />
 
-## 메소드 목록
+## Method 목록
 
-| 구분 | Page 클래스 멥소드 목록 |
+| 구분 | Page Class 0 Moethod 목록 |
 | bind | |
 | getCellArray | |
 | getCellByLocation | |

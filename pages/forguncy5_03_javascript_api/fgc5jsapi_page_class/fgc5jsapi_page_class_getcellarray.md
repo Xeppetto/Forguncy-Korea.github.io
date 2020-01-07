@@ -9,7 +9,7 @@ permalink: fgc5jsapi_page-class-getcellarray.html
 folder: forguncy5_03_javascript_api
 ---
 
-## 메소드
+## Method
 page.getCellArray(name, includeSubPage)
 
 ## 설명

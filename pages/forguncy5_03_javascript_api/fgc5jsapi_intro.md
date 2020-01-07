@@ -27,21 +27,21 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 
 ## Namespace
 
-| Namespace | 설명 |
+| Namespace | 상세 설명 |
 | --- | --- |
 | [Forguncy](fgc5jsapi_namespace.html) | Forguncy의 Namespace는 'Forguncy'라고 정의합니다. |
-
+<br /><br />
 
 ## Page Variable
 
-| Page 변수 | 설명 |
+| Page 변수 | 상세 설명 |
 | --- | --- |
 | [Page](fgc5jsapi_page-variable.html) | Forguncy는 웹개발 도구이며 결과 값이 페이지 단위로 표시되므로 Namespace에 Page 변수를 붙여 사용합니다. |
-
+<br /><br />
 
 ## Method
 
-| Method | 설명 |
+| Method | 상세 설명 |
 | --- | --- |
 | addTableData | Database의 Table에 데이터를 추가합니다. |
 | addUserToRole | 특정 사용자를 필요한 사용자 그룹/역할에 추가합니다. |
@@ -58,11 +58,11 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | modifyTablesData | Database의 Table에서 Data를 추가/수정/삭제합니다. |
 | SendMail | 제목과 내용, 수신자 이메일(현재 웹사이트 이용자)을 지정하여 이메일을 발송합니다. 이 API를 사용하려면 SMTP 서비스가 올바르게 구성해야 합니다. |
 | updateTableData | Primary Key를 이용하여 Database Table의 특정 Row(행)의 데이터를 업데이트합니다. |
-
+<br /><br />
 
 ## Class
 
-| Class | 설명 |
+| Class | 상세 설명 |
 | --- | --- |
 | Cell | Cell Object를 관련 Class입니다. |
 | CellEvents | Cell에서 사용할 수 있는 이벤트 관련 Class입니다. |
@@ -72,11 +72,11 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | ListViewEvents | ListView에서 사용할 수 있는 이벤트를 설정하는 Class입니다. |
 | PageEvents | Page에서 사용할 수 있는 이벤트 관련 Class입니다. |
 | SpecialPath | Forguncy내 특정 경로와 관련된 Class입니다. |
-
+<br /><br />
 
 ## Interface
 
-| Interface | 설명 |
+| Interface | 상세 설명 |
 | --- | --- |
 | CellLocationInfo | 특정 Cell의 위치 정보와 관련한 Interface입니다. |
 | CellRange | Cell의 범위 값 정보와 관련한 Interface입니다. |
@@ -92,14 +92,14 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | TableDataQueryPolicy | Database Table에 Qeury를 보내 Data를 가져올 때 사용하는 Interface입니다. |
 | UserExtendProperties | 사용자와 관련한 세부 속성과 관련한 Interface입니다. |
 | UserInfo | 사용자에 대한 정보와 관련한 Interface입니다. |
-
+<br /><br />
 
 ## ListView
 
-| ListView | 설명 |
+| ListView | 상세 설명 |
 | --- | --- |
 | ListviewColumnType | ListView 테이블의 Column(열) 형식과 그에 관한 정보들을 나타냅니다. |
 | QueryNullPolicy | Database의 Table 정보, 혹은 View 정보를 가져오는 동안 발생하는 Null에 대한 정책을 관리합니다. |
-
+<br /><br />
 
 위 API 문서는 Forguncy Global 개발팀의 문서를 번역한 내용입니다. 이와 관련된 오류사항 신고, 문의사항은 그레이프시티 코리아 기술지원([support-kor@grapecity.com](support-kor@grapecity.com))으로 연락주십시오.

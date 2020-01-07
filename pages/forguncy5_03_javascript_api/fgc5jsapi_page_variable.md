@@ -9,14 +9,15 @@ permalink: fgc5jsapi_page-variable.html
 folder: forguncy5_03_javascript_api
 ---
 
-## 설명
+## Page 변수 설명
 Forguncy API에서 Page 객체(Object)는 화면에 보이는 Forguncy로 제작한 웹페이지 객체를 말합니다. 
 <br /><br />
 
-## 유형
+## Page 변수의 세부 유형
 [Page 클래스 전체 보기](fgc5jsapi_page-class-list.html)
+<br /><br />
 
-## 예제
+## Page 변수 사용 예제
 
 **예제1) Cell 객체 불러오기**
 Forguncy API의 Forguncy Namespace를 이용하여 페이지 객체를 선언하고, 해당 페이지에 존재하는 특정 Cell 객체를 불러옵니다.<br />
@@ -39,3 +40,4 @@ ListView 객체를 선언하여 해당 객체의 값들을 불러옵니다. 이�
     //ListView1이라는 객체의ㅌ 값들을 불러오기
     var listview = page.getListView("ListView1");
 ~~~
+<br /><br />
