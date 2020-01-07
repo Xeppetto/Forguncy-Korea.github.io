@@ -19,6 +19,7 @@ page.bind (type, data, fn, targetPage)
 
 ### Parameter 설명
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
+| --- | --- | --- | --- |
 | eventType | string | 예	| 페이지의 이벤트 유형을 표시하는 문자열입니다. <br />페이지에 추가할 수 있는 이벤트와 관련한 내용은 PageEvent Class를 참고하세요. |
 | data | any | 아니오	| 이 항목은 필수 입력사항은 아니며 선택적으로 사용하는 Parameter입니다. <br />값을 입력하지 않으면 무시되며, 값을 입력한 경우 Event Handler로 전달된 특정 Parameter를 표시합니다.|
 | fn | function | 예 | Bind한 이벤트의 Event Handler입니다. |
