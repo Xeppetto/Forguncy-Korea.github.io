@@ -98,8 +98,8 @@ entries:
             subfolders:
             - title: Forguncy API - 기본 객체
               output: web, pdf
-
               subfolderitems:
+                
               - title: Forguncy API - Namespace
                 url: /fgc5jsapi_namespace.html
                 output: web, pdf
@@ -111,8 +111,8 @@ entries:
             #subfolders:
             - title: Forguncy API - Page 클래스
               output: web, pdf
-
               subfolderitems:
+
               - title: Page 클래스 -  전체 목록
                 url: /fgc5jsapi_page-class-list.html
                 output: web, pdf
