@@ -19,10 +19,10 @@ folder: forguncy5_03_javascript_api
 **(1) 화면 내 특정 button을 불러오는 예제**
 
 ~~~javascript
-  //현재 페이지를 네임스페이스에 지정하여 가져옵니다.
+  //현재 페이지를 Forguncy Namespace를 이용하여 불러옵니다.
   var page = Forguncy.Page;
   
-  //현재 페이지에서 button이라는 버튼을 가져옵니다.
+  //현재 페이지에서 button이고 지정된 Cell을 가져옵니다.
   var cell = page.getCell("button");
 ~~~
 
