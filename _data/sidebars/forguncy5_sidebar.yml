@@ -103,6 +103,7 @@ entries:
             url: /fgc5jsapi_page-variable.html
             output: web, pdf
 
+          subfolders:
           - title: Forguncy API - 클래스
             output: web, pdf
             subfolderitems:
