@@ -9,6 +9,8 @@ permalink: fgc5server_upgrade.html
 folder: forguncy5_02_installation_registration
 ---
 
+## Forguncy Server 업그레이드
+
 Forguncy Server를 업그레이드하실 때는 서버를 중단하거나, 데이터베이스를 중단하실 필요가 없습니다. 최신 버전의 Server를 설치하시는 경우 아래와 같이 업그레이드 안내 화면이 나타나며, 자동으로 업그레이드 되어 서비스 중인 상태에 큰 영향을 주지 않습니다.
 
 ![]({{site.url}}/images/forguncy5/upgrade_server01.png)
