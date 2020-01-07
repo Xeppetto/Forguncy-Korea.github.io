@@ -116,7 +116,6 @@ entries:
                 output: web, pdf
                 subfolders:
 
-            subfolders:
             - title: Forguncy API - 메소드
               output: web, pdf
               subfolderitems:
@@ -128,7 +127,6 @@ entries:
                 url: /fgc5jsapi_page-variable.html
                 output: web, pdf
           
-            subfolders:
             - title: Forguncy API - 인터페이스
               output: web, pdf
               subfolderitems:
