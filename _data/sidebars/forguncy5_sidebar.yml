@@ -109,11 +109,11 @@ entries:
               subfolderitems:
 
               - title: Forguncy API 소개
-                url: /
+                url: /fgc5builder_uninstallation.html
                 output: web, pdf
 
               - title: Forguncy API - Page 변수
-                url: /
+                url: /fgc5builder_installation.html
                 output: web, pdf
 
             - title: Forguncy API - 메소드
@@ -121,11 +121,11 @@ entries:
               subfolderitems:
 
               - title: Forguncy API 소개
-                url: /
+                url: /forguncy_characteristic.html
                 output: web, pdf
               
               - title: Forguncy API - Page 변수
-                url: /
+                url: /product_introduction.html
                 output: web, pdf
           
 #            - title: Forguncy API - 인터페이스
