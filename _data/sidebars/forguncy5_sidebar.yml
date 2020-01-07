@@ -109,23 +109,23 @@ entries:
               subfolderitems:
 
               - title: Forguncy API 소개
-                url: /fgc5jsapi_intro.html
+                url: /
                 output: web, pdf
 
               - title: Forguncy API - Page 변수
-                url: /fgc5jsapi_page-variable.html
+                url: /
                 output: web, pdf
 
             - title: Forguncy API - 메소드
               output: web, pdf
               subfolderitems:
-                
+
               - title: Forguncy API 소개
-                url: /fgc5jsapi_intro.html
+                url: /
                 output: web, pdf
               
               - title: Forguncy API - Page 변수
-                url: /fgc5jsapi_page-variable.html
+                url: /
                 output: web, pdf
           
 #            - title: Forguncy API - 인터페이스
