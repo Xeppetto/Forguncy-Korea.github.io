@@ -9,10 +9,10 @@ permalink: fgc5jsapi_page-class-bind.html
 folder: forguncy5_03_javascript_api
 ---
 
-## 메소드
+## Page - Bind Method
 page.bind (type, data, fn, targetPage)
 
-## 설명
+## Bind Method 설명
 페이지 내 바인딩 이벤트.................
 <br /><br />
 
