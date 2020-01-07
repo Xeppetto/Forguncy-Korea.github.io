@@ -114,7 +114,7 @@ entries:
 
               subfolderitems:
               - title: Page 클래스 -  전체 목록
-                url: /fgc5jsapi_page-class-bind.html
+                url: /fgc5jsapi_page-class-list.html
                 output: web, pdf
 
               - title: Page 클래스 - bind
