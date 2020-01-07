@@ -9,7 +9,9 @@ permalink: fgc5server_installation.html
 folder: forguncy5_02_installation_registration
 ---
 
-Forguncy Server는 온라인에 다수의 서비스를 배포할 목적으로 사용하시는 도구입니다. Forguncy Builder만으로 서비스를 제작하여 실행하는 것이 가능하며, 각 기업에서는 Forguncy Builder가 실행 중인 해당 컴퓨터의 IP 혹은 컴퓨터 이름으로 접속하시면 실행 중인 서비스를 이용하실 수 있습니다. <font color="purple">여기(준비 중)</font>를 클릭하셔서 자세한 내용을 확인하세요.
+Forguncy Server는 온라인에 다수의 서비스를 배포할 목적으로 사용하시는 도구입니다. Forguncy Builder로 개발하시는 중에는 Forguncy Server를 사용하지 않으셔도 됩니다.
+
+Forguncy Server를 사용하지 않아도 Forguncy Builder만으로 서비스를 제작하여 실행하는 것이 가능하며,  Forguncy Builder에서 프로젝트를 실행하면 가상 서버가 실행되므로, 실행 중인 해당 컴퓨터의 IP 혹은 컴퓨터 이름으로 접속하시면 실행 중인 서비스를 이용하실 수 있습니다. <font color="purple">여기(준비 중)</font>를 클릭하셔서 자세한 내용을 확인하세요.
 
 1. Forguncy Server는 아직 내부 정책상 온라인으로 배포하고 있지 않습니다. Forguncy Server는 다운로드 하시려면 그레이프시티 코리아 Forguncy 영업 담당자에게 연락해 주세요. 
 
@@ -24,14 +26,14 @@ Forguncy Server는 온라인에 다수의 서비스를 배포할 목적으로 �
     | 구분 | Forguncy Server 시스템 요구사항 |
     | --- | --- |
     | 운영체제 |  윈도우 7 SP1 <br /> 윈도우 8.1 업데이트<br /> 윈도우 10 <br /> 윈도우 서버 2008 SP2 <br /> 윈도우 서버 2008 R2 SP1<br /> 윈도우 서버 2012<br /> 윈도우 서버 2012 R2 업데이트 <br />  윈도우 서버 2016 <br />  윈도우 서버 2019 <br />(Server Core 제외) |
-    | 하드웨어 |  CPU: 코어™ i3 2GHz 이상 <br /> 메모리: 4GB 이상<br /> HDD 남은 공간: 300MB 이상<br />(<font color="red">⚠</font> .NET Framework가 설치되지 않은 경우 HDD 2GB 이상 필요) |
+    | 하드웨어 |  CPU: 코어™ i3 2GHz 이상 (듀얼 코어 이상 추천)<br /> 메모리: 최소 4GB 이상 (8GB 이상 추천)<br /> HDD 남은 공간: 최소 300MB 이상 (80GB 이상 추천)<br />(<font color="red">⚠</font> .NET Framework가 설치되지 않은 경우 HDD 2GB 이상 필요) |
     | 프레임워크 |  .NET 프레임워크 4.6 이상 버전 <br />(<font color="red">⚠</font> 해당 버전의 .NET 프레임워크가 설치되어 있지 않은 경우 별도로 설치하셔야 합니다.) |
 
     | 구분 | 외부 데이터베이스 연결 요구사항 |
-    | Microsoft Access | MS Access DB 연결 시 Forguncy Server에 MS Access가 설치되어 있어야 함 |
+    | Microsoft Access | MS Access DB 연결 시 Forguncy Server에 MS Access가 설치되어 있어야 합니다. |
     | Microsoft SQL Server | <br />  2012 SP3<br />  2014 SP2<br />  2016 SP2<br />  2017<br />  2019 <br />그 외 버전은 지원하지 않음 |
     | Oracle Database | 11g Release 2 (11.2)/12c Release 2 (12.2)/18c (18.3)<br /> ※ 32 비트 버전의 Oracle Database Client 설치가 필수 |
-    | ODBC 데이터 원본 | ※ 모든 데이터 원본에 연결할 수 있지만 사용할 수 없는 기능이 존재 합니다. 또한, 연결 된 데이터 소스에 따라 제한이 있을 수 있습니다. Forguncy 사양 및 제한 항목을 참조 하십시오.|
+    | ODBC 데이터 원본 | ※ 모든 데이터 원본에 연결할 수 있지만 사용할 수 없는 기능이 존재 합니다. <br />또한, 연결 된 데이터 소스에 따라 제한이 있을 수 있습니다. <br />Forguncy 사양 및 제한 항목을 참조 하십시오.|
 
     ※ 참고 : ODBC 데이터 연결 시 외부 데이터베이스와 직접 동기화되거나, 권한을 얻어 사용하지 않습니다. 향후 Version6에서 관련 업그레이드 예정되어 있습니다.
 
