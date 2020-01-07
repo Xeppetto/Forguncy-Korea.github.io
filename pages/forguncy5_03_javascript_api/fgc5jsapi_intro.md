@@ -36,7 +36,7 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 
 | Page 변수 | 설명 |
 | --- | --- |
-| Page | Forguncy는 웹개발 도구이며 결과 값이 페이지 단위로 표시되므로 Namespace에 Page 변수를 붙여 사용합니다. |
+| [Page](fgc5jsapi_page-variable.html) | Forguncy는 웹개발 도구이며 결과 값이 페이지 단위로 표시되므로 Namespace에 Page 변수를 붙여 사용합니다. |
 
 
 ## Method

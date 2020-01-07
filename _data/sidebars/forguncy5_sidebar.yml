@@ -91,17 +91,20 @@ entries:
       - title: Forguncy API
         output: web, pdf
         folderitems:
-          - title: Forguncy API 소개
-            url: /fgc5jsapi_intro.html
-            output: web, pdf
+          
+          subfolders:
+            - title: Forguncy API 소개
+              url: /fgc5jsapi_intro.html
+              output: web, pdf
 
-          - title: Forguncy API - Namespace
-            url: /fgc5jsapi_namespace.html
-            output: web, pdf
+              subfolderitems:
+              - title: Forguncy API - Namespace
+                url: /fgc5jsapi_namespace.html
+                output: web, pdf
 
-          - title: Forguncy API - Page 변수
-            url: /fgc5jsapi_page-variable.html
-            output: web, pdf
+              - title: Forguncy API - Page 변수
+                url: /fgc5jsapi_page-variable.html
+                output: web, pdf
 
             subfolders:
             - title: Forguncy API - Page 클래스
@@ -116,14 +119,7 @@ entries:
                 url: /fgc5jsapi_page-class-getcellarray.html
                 output: web, pdf
 
-                subfolders:
-                  - title: Test
-                    output: web, pdf
-                    
-                    subfolderitems:
-                      - title: Page 클래스 - bind
-                        url: /fgc5jsapi_page-class-bind.html
-                        output: web, pdf
+
 #            - title: Forguncy API - 메소드
 #              output: web, pdf
 #
