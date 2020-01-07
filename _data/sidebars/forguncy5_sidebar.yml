@@ -109,13 +109,21 @@ entries:
 
               subfolderitems:
               - title: Page 클래스 - bind
-                url: /fgc5builder_uninstallation.html
+                url: /fgc5jsapi_page-class-bind.html
                 output: web, pdf
 
               - title: Page 클래스 - getCellArray
                 url: /fgc5jsapi_page-class-getcellarray.html
                 output: web, pdf
 
+                subfolders:
+                  - title: Test
+                    output: web, pdf
+                    
+                    subfolderitems:
+                      - title: Page 클래스 - bind
+                        url: /fgc5jsapi_page-class-bind.html
+                        output: web, pdf
 #            - title: Forguncy API - 메소드
 #              output: web, pdf
 #
