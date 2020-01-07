@@ -33,6 +33,7 @@ page.bind (type, data, fn, targetPage)
 
 ### 활용 예제
 아래는 page.bind에 관련 사용 예제입니다. 다음 예제들을 응용하여 페이지에 이벤트를 Bind하세요.
+<br />
 
 **예제1)**
 
@@ -78,12 +79,12 @@ page.bind (type, data, fn, targetPage)
   }, "*");
 ~~~
 
-<br /><br />
+<br />
 
 ### Forguncy 사용 예제
 
 페이지가 로딩되는 시점에 팝업 메시지를 띄우는 예제를 JavaScript로 생성하여, Forguncy의 특정 페이지(예제에서는 '페이지1'이라는 이름의 페이지)에 불러옵니다.
-![]({{site.url}}/images/forguncy5/ex-ss_page-bind-01.png)
+![]({{site.url}}/images/forguncy5/ex-ss_page-bind-01.png){:height="360px" width="360px"}
 
 해당 프로젝트를 실행하면 페이지가 표시되기 전에 해당 Forguncy 페이지의 이름인 '페이지1'이 팝업으로 표시됩니다. 팝업에서 '확인'을 누르면 이후 페이지 내용이 표시됩니다.
 ![]({{site.url}}/images/forguncy5/ex-ss_page-bind-02.png)

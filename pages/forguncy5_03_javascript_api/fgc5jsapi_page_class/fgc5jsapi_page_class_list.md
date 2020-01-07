@@ -17,7 +17,7 @@ folder: forguncy5_03_javascript_api
 
 | 구분 | Page Class - Method 목록 |
 | [bind](fgc5jsapi_page-class-bind.html) | 특정 페이지에 이벤트들을 bind합니다. 현재 화면에 보이는 페이지, 지정한 특정 페이지 혹은 모든 페이지에 이벤트를 bind할 수 있습니다. |
-| getCellArray | Cell의 이름을 기반으로 Cell 인스턴스의 속성을 가져옵니다. |
+| [getCellArray](fgc5jsapi_page-class-getcellarray.html) | Cell의 이름을 기반으로 Cell 인스턴스의 속성을 가져옵니다. |
 | getCellByLocation | |
 | getCell | |
 | getContainerCells | |
