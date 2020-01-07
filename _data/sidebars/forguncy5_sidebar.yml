@@ -89,7 +89,6 @@ entries:
             output: web, pdf
 
       - title: Forguncy API
-        output: web, pdf
         folderitems:
           - title: Forguncy API 소개
             url: /fgc5jsapi_intro.html
@@ -105,7 +104,6 @@ entries:
 
             subfolders:
             - title: Forguncy API - 클래스
-              output: web, pdf
               subfolderitems:
 
               - title: Forguncy API 소개
@@ -117,7 +115,6 @@ entries:
                 output: web, pdf
 
             - title: Forguncy API - 메소드
-              output: web, pdf
               subfolderitems:
 
               - title: Forguncy API 소개
