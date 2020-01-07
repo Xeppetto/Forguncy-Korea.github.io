@@ -9,7 +9,9 @@ permalink: fgc5server_intro.html
 folder: forguncy5_02_installation_registration
 ---
 
-Forguncy Builder의 최대 강점은 전문적인 웹개발 지식 없이도 생성 가능한 간단한 화면 구성, 손쉬운 기능 구현입니다. 이런 강점이 가능한 이유는 Forguncy Server에서 여러 요소들을 웹브라우저에서 표현할 수 있도록 하여 작동하는 API(Application Programming Interface)를 지원하기 때문입니다. Forguncy 자체 API(이후 Forguncy API)는 사용자들이 작성한 화면과 기능을 변환하거나 해석하여 사용자의 웹브라우저에서 보여줍니다. 이런 Forguncy API의 기술력을 사용하기 위해서는 Forguncy Server가 필수입니다.
+Forguncy Builder의 최대 강점은 전문적인 웹개발 지식 없이도 생성 가능한 간단한 화면 구성, 손쉬운 기능 구현입니다.
+
+이런 강점이 가능한 이유는 Forguncy Server에서 여러 요소들을 웹브라우저에서 표현할 수 있도록 하여 작동하는 API(Application Programming Interface)를 지원하기 때문입니다. Forguncy 자체 API(이후 Forguncy API)는 사용자들이 작성한 화면과 기능을 변환하거나 해석하여 사용자의 웹브라우저에서 보여줍니다. 이런 Forguncy API의 기술력을 사용하기 위해서는 Forguncy Server가 필수입니다.
 
 ![]({{site.url}}/images/forguncy5/fgc_server01.png)
 <br /><br /><br />
