@@ -32,7 +32,7 @@ Forguncy Server를 사용하지 않아도 Forguncy Builder만으로 서비스를
     | 구분 | 외부 데이터베이스 연결 요구사항 |
     | Microsoft Access | MS Access DB 연결 시 Forguncy Server에 MS Access가 설치되어 있어야 합니다. |
     | Microsoft SQL Server |  2012 SP3<br />  2014 SP2<br />  2016 SP2<br />  2017<br />  2019 <br />그 외 버전은 지원하지 않음 |
-    | Oracle Database |  11g Release 2 (11.2)<br />  12c Release 2 (12.2)/18c (18.3) |
+    | Oracle Database |  11g Release 2 (11.2)<br />  12c Release 2 (12.2)<br />  18c (18.3) |
     | ODBC 데이터 원본 | ※ ODBC가 지원하는 모든 종류의 데이터베이스에 연결이 가능합니다.<br />그러나 모든 DB의 기능을 사용할 수 있는 것은 아니며, 제한이 있을 수 있습니다. |
 
     ※ 참고 : ODBC 데이터 연결 시 외부 데이터베이스와 직접 동기화되거나, 권한을 얻어 사용하지 않습니다. 향후 Version6에서 관련 업그레이드 예정되어 있습니다.
