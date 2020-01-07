@@ -36,6 +36,8 @@ Forguncy를 사용하는 사용자들은 아래와 같은 방식으로 웹개발
 - Forguncy Builder에서 간단한 배포 기능으로 Forguncy Server로 배포한다.
 - Forguncy Server의 http 도메인 주소/프로젝트 주소로 접속한다.
 
+과장이 아니라 정말로 이 정도로 간단합니다.
+
 ![]({{site.url}}/images/forguncy5/fgc_server03.png)
 <br /><br /><br />
 
