@@ -18,6 +18,7 @@ page.bind (type, data, fn, targetPage)
 <br /><br />
 
 ### Parameter 설명
+
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
 | --- | --- | --- | --- |
 | eventType | string | 예	| 페이지의 이벤트 유형을 표시하는 문자열입니다. <br />페이지에 추가할 수 있는 이벤트와 관련한 내용은 PageEvent Class를 참고하세요. |
@@ -85,7 +86,7 @@ page.bind (type, data, fn, targetPage)
 
 페이지가 로딩되는 시점에 팝업 메시지를 띄우는 예제를 JavaScript로 생성하여, Forguncy의 특정 페이지(예제에서는 '페이지1'이라는 이름의 페이지)에 불러옵니다.
 ![]({{site.url}}/images/forguncy5/ex-ss_page-bind-01.png)
-<img src={site.url}/images/forguncy5/ex-ss_page-bind-01.png width=800>
+<img src="https://forguncy-korea.github.io/images/forguncy5/ex-ss_page-bind-01.png" width=800>
 
 해당 프로젝트를 실행하면 페이지가 표시되기 전에 해당 Forguncy 페이지의 이름인 '페이지1'이 팝업으로 표시됩니다. 팝업에서 '확인'을 누르면 이후 페이지 내용이 표시됩니다.
 ![]({{site.url}}/images/forguncy5/ex-ss_page-bind-02.png)
