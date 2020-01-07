@@ -89,7 +89,7 @@ entries:
             output: web, pdf
 
       - title: Forguncy API
-        output: web, pdf
+      
         folderitems:
           - title: Forguncy API 소개
             url: /fgc5jsapi_intro.html
@@ -105,7 +105,7 @@ entries:
 
             subfolders:
             - title: Forguncy API - 클래스
-              output: web, pdf
+              
               subfolderitems:
               - title: Forguncy API 소개
                 url: /fgc5jsapi_intro.html
@@ -114,11 +114,10 @@ entries:
               - title: Forguncy API - Page 변수
                 url: /fgc5jsapi_page-variable.html
                 output: web, pdf
-                subfolders:
 
             - title: Forguncy API - 메소드
-              output: web, pdf
-              subfolderitems:
+
+                subfolderitems:
               - title: Forguncy API 소개
                 url: /fgc5jsapi_intro.html
                 output: web, pdf
@@ -128,7 +127,7 @@ entries:
                 output: web, pdf
           
             - title: Forguncy API - 인터페이스
-              output: web, pdf
+
               subfolderitems:
               - title: Forguncy API 소개
                 url: /fgc5jsapi_intro.html
