@@ -14,7 +14,7 @@ Forguncy API에서 Page 객체(Object)는 화면에 보이는 Forguncy로 제작
 <br /><br />
 
 ## 유형
-Page 클래스 전체 보기
+[Page 클래스 전체 보기](fgc5jsapi_page-class-list.html)
 
 ## 예제
 
