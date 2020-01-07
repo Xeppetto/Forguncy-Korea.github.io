@@ -49,9 +49,11 @@ Forguncy Server를 사용하지 않아도 Forguncy Builder만으로 서비스를
 
     ![]({{site.url}}/images/forguncy5/installation_server02.png)
 
-<br /><br />
+<br />
 
 설치가 완료되면 Forguncy Server를 실행해 주세요.
+
+<br />
 
 설치 중 오류, 혹은 설치 후 Forguncy Server 실행 관련하여 문의사항이 있으신 경우 그레이프시티 코리아 기술지원([support-kor@grapecity.com](mailto:support-kor@grapecity.com))으로 연락주십시오.  오류가 발생한 경우에 대한 상황을 스크린샷 찍어주시거나, 명확히 설명해 주시면 빠른 문제 해결에 도움이 됩니다. 
 
