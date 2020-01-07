@@ -104,16 +104,16 @@ entries:
             output: web, pdf
 
             subfolders:
-            - title: Forguncy API - 클래스
+            - title: Forguncy API - Page 클래스
               output: web, pdf
 
               subfolderitems:
-              - title: Forguncy API 소개
+              - title: Page 클래스 - bind
                 url: /fgc5builder_uninstallation.html
                 output: web, pdf
 
-              - title: Forguncy API - Page 변수
-                url: /fgc5builder_installation.html
+              - title: Page 클래스 - getCellArray
+                url: /fgc5jsapi_page-class-getcellarray.html
                 output: web, pdf
 
 #            - title: Forguncy API - 메소드
