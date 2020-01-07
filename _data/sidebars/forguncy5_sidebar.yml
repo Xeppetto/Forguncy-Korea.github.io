@@ -93,7 +93,7 @@ entries:
         folderitems:
           
           subfolders:
-            - title: Forguncy API 소개
+            - title: Forguncy API 소개 & 기본 설명
               url: /fgc5jsapi_intro.html
               output: web, pdf
 
