@@ -95,7 +95,7 @@ entries:
             url: /fgc5jsapi_intro.html
             output: web, pdf
 
-          subfolders:
+            subfolders:
             - title: Forguncy API - 기본 객체
               output: web, pdf
 
