@@ -14,7 +14,7 @@ page.getCellArray(name, includeSubPage)
 <br /><br />
 
 ### getCellArray Method 설명
-Forguncy에서 Cell 이름을 지정하여 Cell 인스턴스의 속성을 가져옵니다.
+여러 개의 Cell들을 그룹으로 묶어 Cell Group Name을 기반으로 Cell Group 인스턴스의 속성을 가져옵니다.
 <br /><br />
 
 ### Parameter 설명
@@ -22,7 +22,7 @@ Forguncy에서 Cell 이름을 지정하여 Cell 인스턴스의 속성을 가져
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
 | --- | --- | --- | --- |
 | name | string | 예 | Forguncy에서 지정한 Cell의 이름을 입력합니다. |
-| includeSubPage | Boolean | 아니오 | 컨테이너 또는 탭컨트롤 하위 페이지에서 검색할 지 여부를 결정합니다. <br />기본값은 True이며 의미는 "검색함"입니다. False는 "검색하지 않음"입니다. |
+| includeSubPage | Boolean | 아니오 | 페이지 내 하위 페이지를 포함하는 컨테이너 또는 탭컨트롤이 존재하는 경우 하위 페이지까지 검색할 지 여부를 결정합니다. <br />기본값은 True이며 의미는 "검색함"입니다. False는 "검색하지 않음"입니다. |
 
 <br />
 
@@ -87,8 +87,7 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 4. 프로젝트를 실행합니다.
 
 5. 웹브라우저에서 아래와 같이 '버튼'을 클릭하면, 10이라는 팝업창이 나타납니다.<br />
-    myCell로 지정된 Cell의 영역이 총 10개이므로, myCell이라는 영역의 길이는 10으로 나타납니다.<br />
-    이는 Forguncy API의 특징입니다.
+    myCell로 지정된 Cell의 영역이 총 10개이므로, myCell이라는 영역의 길이는 10으로 나타납니다.
 
     ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray05.png)]
 

@@ -18,9 +18,9 @@ folder: forguncy5_03_javascript_api
 | Method 목록 | 상세 설명 |
 | --- | --- |
 | [bind](fgc5jsapi_page-class-bind.html) | 특정 페이지에 이벤트들을 bind합니다. 현재 화면에 보이는 페이지, 지정한 특정 페이지 혹은 모든 페이지에 이벤트를 bind할 수 있습니다. |
-| [getCellArray](fgc5jsapi_page-class-getcellarray.html) | 여러 개의 Cell들을 Cell Group Name을 기반으로 Cell Group 인스턴스의 속성을 가져옵니다. |
+| [getCellArray](fgc5jsapi_page-class-getcellarray.html) | 여러 개의 Cell들을 그룹으로 묶어 Cell Group Name을 기반으로 Cell Group 인스턴스의 속성을 가져옵니다. |
 | [getCellByLocation](fgc5jsapi_page-class-getcellbylocation.html) | 특정 Cell의 위치 정보를 참조하여 Cell 인스턴스의 속성을 가져옵니다. |
-| getCell | 개별 Cell Name을 기반으로 Cell 인스턴스의 속성을 가져옵니다. |
+| [getCell](fgc5jsapi_page-class-getcell.html) | 개별 Cell Name을 기반으로 Cell 인스턴스의 속성을 가져옵니다. |
 | getContainerCells | Forguncy에서 [컨테이너 유형]() 혹은 [탭 유형]() 사용 시 해당 Cell 내부의 Cell 인스턴스의 속성을 모두 가져옵니다. |
 | getListViews | 페이지 내 모든 ListView들의 정보를 가져옵니다. |
 | getListView | ListView의 이름을 기반으로 해당 ListView의 정보를 가져옵니다. |

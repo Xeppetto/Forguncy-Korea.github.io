@@ -14,7 +14,7 @@ page.getCellByLocation(cellLocation)
 <br /><br />
 
 ### getCellByLocation Method 설명
-Cell의 위치 정보를 참조하여 Cell 인스턴스의 속성을 가져옵니다.
+Forguncy의 좌표값을 기반으로 Cell의 위치 정보를 참조하여 Cell 인스턴스의 속성을 가져옵니다.
 <br /><br />
 
 ### Parameter 설명

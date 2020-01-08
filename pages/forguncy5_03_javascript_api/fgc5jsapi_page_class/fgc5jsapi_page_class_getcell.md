@@ -22,7 +22,7 @@ page.getCell(name, includeSubPage)
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
 | --- | --- | --- | --- |
 | name | string | 예 | 특정 Cell에 부여된 Cell Name을 입력합니다. |
-| includeSubPage | boolean | 아니오 | 페이지 내 포함된 하위 페이지들에서도 Cell Name을 검색할 지 선택합니다.<br />기본값은 True이며 "검색함"이고, False로 설정할 경우 "하위 페이지 검색 안함"으로 설정됩니다. |
+| includeSubPage | boolean | 아니오 | 페이지 내 하위 페이지를 포함하는 컨테이너 또는 탭컨트롤이 존재하는 경우 하위 페이지까지 검색할 지 여부를 결정합니다. <br />기본값은 True이며 의미는 "검색함"입니다. False는 "검색하지 않음"입니다. |
 
 <br />
 
@@ -50,6 +50,31 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 
 ### Forguncy 사용 예제
 
-1. aaaaa
+1. Forguncy에서 페이지 2개를 생성합니다. 
+
+2. "페이지1"에 셀 범위를 선택한 후 병합합니다. "페이지 2"에도 셀 범위를 선택한 후 병합합니다.
+
+3. "페이지1"의 셀에는 myCell1, "페이지2"의 셀에는 myCell2라고 입력합니다. 화면 좌측 위에 입력하시면 됩니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell01.png)]
+
+4. "페이지1"에서 아래와 같이 셀 범위를 선택 > 셀 유형을 "내용이 포함된 셀 타입" 선택 > 하위 페이지로 "페이지2"를 지정합니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell03.png)]
+    <br /><br />
+
+    ※ 참고 : "내용이 포함된 셀 타입"이라는 셀 유형은 아래와 같은 위치에 있습니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray01.png)]
+    <br /><br />
+
+5. "페이지1"에 버튼을 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell02.png)]
+    <br /><br />
+
+6. 해당 프로젝트를 실행하고, 버튼을 누르면 myCell1과 myCell2에 각각 Forguncy1, Forguncy2라고 입력됩니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell04.png)]
 
 <br /><br />

@@ -117,18 +117,22 @@ entries:
                 url: /fgc5jsapi_page-class-list.html
                 output: web, pdf
 
-              - title: Page 클래스 - bind
+              - title: Page - bind
                 url: /fgc5jsapi_page-class-bind.html
                 output: web, pdf
 
-              - title: Page 클래스 - getCellArray
+              - title: Page - getCellArray
                 url: /fgc5jsapi_page-class-getcellarray.html
                 output: web, pdf
 
-              - title: Page 클래스 - getCellByLocation
+              - title: Page - getCellByLocation
                 url: /fgc5jsapi_page-class-getcellbylocation.html
                 output: web, pdf
-                
+
+              - title: Page - getCell
+                url: /fgc5jsapi_page-class-getcell.html
+                output: web, pdf
+
 #            - title: Forguncy API - 메소드
 #              output: web, pdf
 #
