@@ -40,7 +40,10 @@ CellLocationInfo 인터페이스 타입은 아래와 같이 정의되어 있습�
 
 ### Response 시 반환값
 Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
-<br /><br />
+
+> 😄 Cell Method 관련 내용은 준비 중입니다.
+
+<!-- <br /><br /> 위 memo를 삭제할 때 comment 제거 -->
 
 ### 활용 예제
 아래는 page.getCellByLocation을 사용하는 관련 사용 예제입니다. 특정 Cell의 위치 정보를 이용해 해당 Cell의 배경색을 설정합니다.
@@ -63,17 +66,17 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 
 ### Forguncy 사용 예제
 
-1. 아랭 그림 과 같이 Forguncy에서 페이지를 생성하고, 셀의 위치를 알아볼 수 있게 아무 내용이나 입력합니다.
+1. 아래 그림 과 같이 Forguncy에서 페이지를 생성하고, 셀의 위치를 알아볼 수 있게 아무 내용이나 입력합니다.
 
 2. 버튼을 생성하고, 해당 바튼의 "명령 편집"을 실행하여, "자바스크립트로 직접 프로그래밍하기" 명령을 생성합니다.
 
     ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellbylocation01.png)]
-    <br />
+    <br /><br />
     
 3. 해당 프로젝트를 실행한 후, 버튼을 클릭하면 아래와 같이 Row 2, Column 3 위치에 배경색상이 변경됩니다.
     
     ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellbylocation02.png)]
-    <br />
+    <br /><br />
 
 4. Forguncy에서는 A Column을 0, 1 Row를 0으로 Index 값을 가지며, 이를 기준으로 Cell의 위치를 계산합니다.<br />
     그러므로 A1는 Index(0, 0), B2는 Index (1, 1)이 되는 방식입니다. 그러므로 Column 3, Row 2는 D3가 됩니다.
