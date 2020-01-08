@@ -108,7 +108,7 @@ entries:
                 url: /fgc5jsapi_page-variable.html
                 output: web, pdf
 
-            #subfolders:
+            #subfolders
             - title: Forguncy API - Page 클래스
               output: web, pdf
               subfolderitems:
@@ -125,7 +125,10 @@ entries:
                 url: /fgc5jsapi_page-class-getcellarray.html
                 output: web, pdf
 
-
+              - title: Page 클래스 - getCellByLocation
+                url: /fgc5jsapi_page-class-getcellbylocation.html
+                output: web, pdf
+                
 #            - title: Forguncy API - 메소드
 #              output: web, pdf
 #
