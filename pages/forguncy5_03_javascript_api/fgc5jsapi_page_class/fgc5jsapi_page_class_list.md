@@ -18,24 +18,24 @@ folder: forguncy5_03_javascript_api
 | Method 목록 | 상세 설명 |
 | --- | --- |
 | [bind](fgc5jsapi_page-class-bind.html) | 특정 페이지에 이벤트들을 bind합니다. 현재 화면에 보이는 페이지, 지정한 특정 페이지 혹은 모든 페이지에 이벤트를 bind할 수 있습니다. |
-| [getCellArray](fgc5jsapi_page-class-getcellarray.html) | Cell의 이름을 기반으로 Cell 인스턴스의 속성을 가져옵니다. |
-| [getCellByLocation](fgc5jsapi_page-class-getcellbylocation.html) | Cell의 위치 정보를 참조하여 Cell 인스턴스의 속성을 가져옵니다. |
-| getCell | |
-| getContainerCells | |
-| getListViews | |
-| getListView | |
-| getMasterPageName | |
-| getPageName | |
-| getSubPageInfoByPageID | |
-| getUserInfo | |
-| getUserName | |
-| ready | |
-| recalc | |
-| reloadBindingData | |
-| resumeCalc | |
-| setCurrentRow | |
-| suspendCalc | |
-| unbindAll | |
-| unbind | |
+| [getCellArray](fgc5jsapi_page-class-getcellarray.html) | 여러 개의 Cell들을 Cell Group Name을 기반으로 Cell Group 인스턴스의 속성을 가져옵니다. |
+| [getCellByLocation](fgc5jsapi_page-class-getcellbylocation.html) | 특정 Cell의 위치 정보를 참조하여 Cell 인스턴스의 속성을 가져옵니다. |
+| getCell | 개별 Cell Name을 기반으로 Cell 인스턴스의 속성을 가져옵니다. |
+| getContainerCells | Forguncy에서 [컨테이너 유형]() 혹은 [탭 유형]() 사용 시 해당 Cell 내부의 Cell 인스턴스의 속성을 모두 가져옵니다. |
+| getListViews | 페이지 내 모든 ListView들의 정보를 가져옵니다. |
+| getListView | ListView의 이름을 기반으로 해당 ListView의 정보를 가져옵니다. |
+| getMasterPageName | 화면에 표시되는 페이지의 Forguncy에서 설정한 마스터페이지의 이름을 가져옵니다. |
+| getPageName | 화면에 표시되는 현재 페이지의 이름을 가져옵니다. |
+| getSubPageInfoByPageID | Page ID를 기반으로 하위 페이지 정보들을 가져옵니다. 브라우저상에 보이는 각 상위/하위 페이지들에 Forguncy는 각기 고유한 Page ID를 부여합니다.<br/>이를 이용하여 Forguncy로 제작하는 여러 기능들을 조절합니다. <br />[CellTypeBase.getFormulaCalcContext]()와 [CommandBase.getFormulaCalcContext]() 메소드들을 이용하여 페이지 ID를 확인하실 수도 있습니다. |
+| getUserInfo | 현재 로그인하여 서비스를 사용 중인 사용자 정보를 가져옵니다. |
+| getUserName | 현재 로그인하여 서비스를 사용 중인 사용자의 이름을 가져옵니다. 로그인한 사용자가 없는 경우 null값을 반환합니다. |
+| ready | 페이지 로딩이 완료된 후 Ready 메소드에 정의한 Callback 함수가 호출됩니다.<br />페이지 내 기능 로직을 처리하는 방법으로 페이지 내의 모든 요소들이 작동 준비되었을 때 Callback으로 처리하는 방식이 더 추천하는 방식입니다. |
+| recalc | 페이지 내 모든 수식을 다시 계산하도록 합니다. |
+| reloadBindingData | 현재 페이지에 사용 중인 Database의 Table들과 View들을 다시 불러오기합니다. |
+| resumeCalc | 페이지 내 수식들을 표시하는 시점을 수식이 들어 있는 해당 셀을 호출하는 시점에 적용하여 표시하도록 합니다.<br />페이지 내 계산을 일시 중지하기 위해 [suspendCalc]()와 함께 사용하시기를 추천합니다. |
+| setCurrentRow | Database 특정 값이 들어 있는 행을 지정합니다. 예를 들어, 어떤 데이터가 어떤 테이블의 3번째 행에 들어 있다면, 그 3번째 행의 모든 내용들이 화면의 페이지에 표시될 수 있도록 Database Table의 특정 행을 선택합니다. |
+| suspendCalc | 화면 내 보이는 페이지의 수식 계산을 일시 중단합니다. 이 기능은 일반적으로 많은 량의 데이터를 처리할 때 성능 향상을 위해 사용합니다. 수식 계산을 계속 진행하시기 위해 resumeCalc()와 함께 사용하시기를 추천합니다. |
+| unbindAll | 페이지 내 모든 이벤트들에 대한 bind를 해제합니다. 이 메소드는 Event handler를 제거하거나, 특정 함수의 이벤트 실행을 종료시킬 수 있습니다. |
+| unbind | 특정 이벤트에 대한 bind를 해제합니다. 이 메소드는 선택한 Event handler를 제거하거나, 선택한 이벤트의 실행을 종료시킬 수 있습니다. |
 
 
