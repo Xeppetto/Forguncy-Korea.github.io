@@ -3,46 +3,45 @@ title: Forguncy API - Namespace
 tags: [Forguncy, JavaScript, API, Namespace]
 keywords: Forguncy API, JavaScript API, Namespace
 last_updated: Jan 8, 2020
-summary: "Forguncy API - Page 클래스 중 getCellArray를 설명합니다."
+summary: "Forguncy API - Page 클래스 중 getCellByLocation을 설명합니다."
 sidebar: forguncy5_sidebar
-permalink: fgc5jsapi_page-class-getcellarray.html
+permalink: fgc5jsapi_page-class-getcellbylocation.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Page - getCellArray Method
-page.getCellArray(name, includeSubPage)
+### Page - getCellByLocation Method
+page.getCellByLocation(cellLocation)
 <br /><br />
 
-### getCellArray Method 설명
-Forguncy에서 Cell 이름을 지정하여 Cell 인스턴스의 속성을 가져옵니다.
+### getCellByLocation Method 설명
+Cell의 위치 정보를 참조하여 Cell 인스턴스의 속성을 가져옵니다.
 <br /><br />
 
 ### Parameter 설명
 
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
 | --- | --- | --- | --- |
-| name | string | 예 | Forguncy에서 지정한 Cell의 이름을 입력합니다. |
-| includeSubPage | Boolean | 아니오 | 컨테이너 또는 탭컨트롤 하위 페이지에서 검색할 지 여부를 결정합니다. <br />기본값은 True이며 의미는 "검색함"입니다. False는 "검색하지 않음"입니다. |
+| cellLocation | [CellLocationInfo]() | 예 | 특정 Cell의 위치 정보를 입력합니다. |
 
 <br />
 
 ### Response 시 반환값
-Cell 속성을 반환합니다. 자세한 내용은 [Cell[]](alert('Hello, world!');)을 참고하세요. <a href="alert('h');">abc</a>
+Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 <br /><br />
 
 ### 활용 예제
-아래는 page.getCellArray를 사용하는 관련 사용 예제입니다. 다음 예제들을 응용하여 특정 Cell 인스턴스의 속성을 이용할 수 있습니다.
+아래는 page.getCellByLocation을 사용하는 관련 사용 예제입니다. 다음 예제들을 응용하여 특정 Cell 인스턴스의 속성을 이용할 수 있습니다.
 <br />
 
 ~~~javascript
-  //현재 페이지를 불러옵니다.
-  var page = Forguncy.Page;
-  //Forguncy에서 myCell이라는 이름을 가진 특정 Cell 인스턴스의 정보를 불러옵니다.
-  var cell = page.getCellArray("myCell");
-  //가져온 Cell 인스턴스의 정보 중 길이(length)를 불러옵니다.
-  var len = cell.length;
-  //불러온 Cell의 길이를 표시합니다.
-  alert(len);
+  interface CellLocationInfo{
+    //The row index of the cell, starting from 0
+    Row: number;
+    //Column index of the cell, starting from 0
+    Column: number;
+    //The page where the cell is located
+    PageName: string;
+  }
 ~~~
 
 <br />
