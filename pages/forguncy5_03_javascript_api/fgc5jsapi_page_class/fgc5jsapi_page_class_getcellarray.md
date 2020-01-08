@@ -28,7 +28,9 @@ Forguncy에서 Cell 이름을 지정하여 Cell 인스턴스의 속성을 가져
 
 ### Response 시 반환값
 Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
+
 [note] Cell Method 관련 내용은 준비 중입니다.[/note]
+
 <br /><br />
 
 ### 활용 예제
