@@ -619,7 +619,7 @@ li.activeSeries {
 
 .seriesContext .dropdown-menu li.active {
     font-weight: bold;
-    margin-left: 33px; /* 원래 43이었으나 수정함 2020-01-09 by Jake */
+    margin-left: 43px;
     font-size:18px;
 }
 
@@ -679,7 +679,7 @@ a[data-toggle="tooltip"] {
 
 ol.series li {
     list-style-type: decimal;
-    margin-left: 30px; /* 원래 40이었으나 수정함 2020-01-09 by Jake */
+    margin-left: 20px; /* 원래 40이었으나 수정함 2020-01-09 by Jake */
     padding-left: 0px;
 }
 
