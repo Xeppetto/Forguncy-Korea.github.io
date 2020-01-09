@@ -133,6 +133,10 @@ entries:
                 url: /fgc5jsapi_page-class-getcell.html
                 output: web, pdf
 
+              - title: Page - getContainerCells
+                url: /fgc5jsapi_page-class-getcontainercells.html
+                output: web, pdf
+                
 #            - title: Forguncy API - 메소드
 #              output: web, pdf
 #
