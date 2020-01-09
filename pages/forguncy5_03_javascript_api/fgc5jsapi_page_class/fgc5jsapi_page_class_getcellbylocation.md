@@ -29,8 +29,10 @@ CellLocationInfo 인터페이스 타입은 아래와 같이 정의되어 있습�
   interface CellLocationInfo{
     //0부터 해당 Cell의 Row 위치까지의 index값
     Row: number;
+
     //0부터 해당 Cell의 Column 위치까지의 index값
     Column: number;
+
     //해당 Cell이 위치한 특정 페이지의 이름
     PageName: string;
   }
@@ -52,12 +54,14 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 ~~~javascript
   //현재 페이지를 불러옵니다.
   var page = Forguncy.Page;
+
   //'페이지1' 내에서 Row 2, Column 3 위치에 있는 Cell을 지정합니다.
   var cell = page.getCellByLocation({
     Row: 2,
     Column: 3,
     PageName: "페이지1"
   });
+  
   //지정한 해당 Cell의 배경색상을 빨간색으로 설정합니다.
   var setColor = cell.setBackColor("red");
 ~~~

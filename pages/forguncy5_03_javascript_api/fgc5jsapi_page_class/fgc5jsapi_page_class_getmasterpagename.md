@@ -32,8 +32,10 @@ string : 마스터페이지의 이름을 반환
 ~~~javascript
   //현재 페이지를 불러옵니다.
   var page = Forguncy.Page;
+
   //화면에 표시되는 페이지에 설정됭 마스터페이지 이름을 확인합니다.
   var masterPageName = page.getMasterPageName();
+  
   //마스터페이지의 이름을 화면에 표시합니다.
   alert(masterPageName);
 ~~~

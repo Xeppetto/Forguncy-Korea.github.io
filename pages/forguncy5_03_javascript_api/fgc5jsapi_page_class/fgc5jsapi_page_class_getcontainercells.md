@@ -39,10 +39,13 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 ~~~javascript
   //현재 페이지를 불러옵니다.
   var page = Forguncy.Page;
+
   //페이지 내 컨테이너 셀들을 불러옵니다.
   var cell = page.getContainerCells();
+
   //Cell 인스턴스 그룹의 길이를 확인합니다.
   var len = cell.length;
+  
   //Cell 인스턴스 그룹의 길이를 화면에 표시합니다.
   alert(len);
 ~~~

@@ -40,8 +40,10 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 ~~~javascript
   //현재 페이지를 불러옵니다.
   var page = Forguncy.Page;
+
   //페이지 내에서 myCell이라는 Cell Name을 가진 Cell을 불러옵니다.
   var cell = page.getCell("myCell");
+  
   //myCell이라는 Cell Name을 가진 Cell에 Forguncy라고 입력합니다.
   cell.setValue("Forguncy");
 ~~~

@@ -32,8 +32,10 @@ string : 해당 페이지의 이름을 반환
 ~~~javascript
   //현재 페이지를 불러옵니다.
   var page = Forguncy.Page;
+  
   //화면에 표시되는 페이지의 이름을 확인합니다.
   var pageName = page.getPageName();
+
   //페이지의 이름을 화면에 표시합니다.
   alert(pageName);
 ~~~

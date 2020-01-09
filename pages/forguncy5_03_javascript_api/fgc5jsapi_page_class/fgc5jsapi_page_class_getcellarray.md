@@ -40,10 +40,13 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 ~~~javascript
   //현재 페이지를 불러옵니다.
   var page = Forguncy.Page;
+
   //Forguncy에서 myCell이라는 이름을 가진 특정 Cell 인스턴스의 정보를 불러옵니다.
   var cell = page.getCellArray("myCell");
+
   //가져온 Cell 인스턴스의 정보 중 길이(length)를 불러옵니다.
   var len = cell.length;
+  
   //불러온 Cell의 길이를 표시합니다.
   alert(len);
 ~~~

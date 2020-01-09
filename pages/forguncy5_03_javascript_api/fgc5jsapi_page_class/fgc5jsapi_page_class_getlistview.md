@@ -40,10 +40,13 @@ ListView 속성을 반환합니다. 자세한 내용은 ListView[]를 참고하�
 ~~~javascript
   //현재 페이지를 불러옵니다.
   var page = Forguncy.Page;
+
   //이름이 ListView1이라는 ListView의 인스턴스를 가져옵니다.
   var listview = page.getListView("ListView1");
+
   //ListView1의 속성 중 이름을 확인합니다.
   var name = listview.getName();
+  
   //ListView1의 이름을 화면에 표시합니다.
   alert(name);
 ~~~

@@ -39,10 +39,13 @@ ListView 속성을 반환합니다. 자세한 내용은 ListView[]를 참고하�
 ~~~javascript
   //현재 페이지를 불러옵니다.
   var page = Forguncy.Page;
+
   //페이지 내 ListView 인스턴스들을 불러옵니다.
   var listview = page.getListViews();
+  
   //ListView 인스턴스 그룹의 길이를 확인합니다.
   var len = listview.length;
+  
   //ListView 인스턴스 그룹의 길이를 화면에 표시합니다.
   alert(len);
 ~~~
