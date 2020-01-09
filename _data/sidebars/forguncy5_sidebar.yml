@@ -117,12 +117,16 @@ entries:
                 url: /fgc5jsapi_page-class-list.html
                 output: web, pdf
 
-              - title: Page - bind
-                url: /fgc5jsapi_page-class-bind.html
+              - title: Page - getUserInfo
+                url: /fgc5jsapi_page-class-getuserinfo.html
                 output: web, pdf
 
-              - title: Page - getCellArray
-                url: /fgc5jsapi_page-class-getcellarray.html
+              - title: Page - getUserName
+                url: /fgc5jsapi_page-class-getusername.html
+                output: web, pdf
+
+              - title: Page - bind
+                url: /fgc5jsapi_page-class-bind.html
                 output: web, pdf
 
               - title: Page - getCellByLocation
@@ -133,24 +137,32 @@ entries:
                 url: /fgc5jsapi_page-class-getcell.html
                 output: web, pdf
 
+              - title: Page - getCellArray
+                url: /fgc5jsapi_page-class-getcellarray.html
+                output: web, pdf
+
               - title: Page - getContainerCells
                 url: /fgc5jsapi_page-class-getcontainercells.html
                 output: web, pdf
                 
+              - title: Page - getListView
+                url: /fgc5jsapi_page-class-getlistview.html
+                output: web, pdf
+
               - title: Page - getListViews
                 url: /fgc5jsapi_page-class-getlistviews.html
                 output: web, pdf
 
-              - title: Page - getListView
-                url: /fgc5jsapi_page-class-getlistview.html
+              - title: Page - getPageName
+                url: /fgc5jsapi_page-class-getPageName.html
                 output: web, pdf
 
               - title: Page - getMasterPageName
                 url: /fgc5jsapi_page-class-getMasterPageName.html
                 output: web, pdf
 
-              - title: Page - getPageName
-                url: /fgc5jsapi_page-class-getPageName.html
+              - title: Page - getSubPageInfoByPageID
+                url: /fgc5jsapi_page-class-getsubpageinfobypageid.html
                 output: web, pdf
 
 #            - title: Forguncy API - 메소드

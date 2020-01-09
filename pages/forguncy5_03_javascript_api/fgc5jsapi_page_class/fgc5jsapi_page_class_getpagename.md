@@ -14,7 +14,7 @@ page.getPageName()
 <br /><br />
 
 ### getPageName Method 설명
-화면에 보이는 페이지의 이름을 가져옵니다.
+화면에 표시되는 현재 페이지의 이름을 가져옵니다.
 <br /><br />
 
 ### Parameter 설명
