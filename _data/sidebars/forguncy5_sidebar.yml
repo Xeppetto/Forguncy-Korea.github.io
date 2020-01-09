@@ -140,7 +140,12 @@ entries:
               - title: Page - getListViews
                 url: /fgc5jsapi_page-class-getlistviews.html
                 output: web, pdf
-                
+
+              - title: Page - getListView
+                url: /fgc5jsapi_page-class-getlistview.html
+                output: web, pdf
+
+
 #            - title: Forguncy API - 메소드
 #              output: web, pdf
 #
