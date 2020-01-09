@@ -22,57 +22,57 @@ page.getUserInfo()
 
 1. UserInfo 인터페이스에 대한 자세한 내용은 다음과 같습니다.
 
-~~~javascript
-  interface UserInfo{
-    //사용자이름 - Forguncy에서 사용자 이름은 로그인 ID를 의미합니다.
-    UserName?: string;
+    ~~~javascript
+      interface UserInfo{
+        //사용자이름 - Forguncy에서 사용자 이름은 로그인 ID를 의미합니다.
+        UserName?: string;
 
-    //사용자 전체 이름
-    FullName?: string;
+        //사용자 전체 이름
+        FullName?: string;
 
-    //사용자가 등록한 사진이 있는지 확인
-    HasPicture?: boolean;
+        //사용자가 등록한 사진이 있는지 확인
+        HasPicture?: boolean;
 
-    //사용자의 역할 그룹을 표시, 여러 개인 경우 ; 표시로 분리
-    Role?: string;
+        //사용자의 역할 그룹을 표시, 여러 개인 경우 ; 표시로 분리
+        Role?: string;
 
-    //사용자의 이메일 주소
-    Email?: string;
+        //사용자의 이메일 주소
+        Email?: string;
 
-    //사용자의 조직 정보 표시, 여러 개인 경우 | 표시로 분리
-    OrganizationSuperior?: string;
+        //사용자의 조직 정보 표시, 여러 개인 경우 | 표시로 분리
+        OrganizationSuperior?: string;
 
-    //그 외, 관리자가 추가 지정한 사용자 속성
-    Properties?: UserExtendProperties[];
+        //그 외, 관리자가 추가 지정한 사용자 속성
+        Properties?: UserExtendProperties[];
 
-    //사용자가 속한 조직의 단계
-    OrganizationLevelValues?: OrganizationLevelValueInfo[];
-  }
-~~~
+        //사용자가 속한 조직의 단계
+        OrganizationLevelValues?: OrganizationLevelValueInfo[];
+      }
+    ~~~
 
 2. 관리자가 추가 지정한 사용자 정의 속성인 UserExtendProperties 인터페이스에 대한 내용은 다음과 같습니다.
 
-~~~javascript
-  interface UserExtendProperties{
-    //관리자가 추가 지정한 사용자 속성명
-    PropertyName: string;
+    ~~~javascript
+      interface UserExtendProperties{
+        //관리자가 추가 지정한 사용자 속성명
+        PropertyName: string;
 
-    //해당 속성에 대한 값 지정
-    Value: string;
-  }
-~~~
+        //해당 속성에 대한 값 지정
+        Value: string;
+      }
+    ~~~
 
 3. 사용자가 속한 조직의 단계인 OrganizationLevelValueInfo 인터페이스에 대한 내용은 다음과 같습니다.
 
-~~~javascript
-  interface OrganizationLevelValueInfo{
-    //조직 단계의 이름
-    OrganizationLevelName: string;
+    ~~~javascript
+      interface OrganizationLevelValueInfo{
+        //조직 단계의 이름
+        OrganizationLevelName: string;
 
-    //해당 단계에 대한 값 지정
-    Value: string;
-  }
-~~~
+        //해당 단계에 대한 값 지정
+        Value: string;
+      }
+    ~~~
 
 <br /><br />
 
