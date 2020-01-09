@@ -384,7 +384,7 @@ ul#mysidebar {
 .nav li.thirdlevel > a {
     color: #248EC2;
     font-weight:bold;
-    padding-left:20px;
+    padding-left:10px;
     background-color: whitesmoke !important;
 }
 
@@ -679,7 +679,7 @@ a[data-toggle="tooltip"] {
 
 ol.series li {
     list-style-type: decimal;
-    margin-left: 20px; /* 원래 40이었으나 수정함 2020-01-09 by Jake */
+    margin-left: 40px;
     padding-left: 0px;
 }
 
