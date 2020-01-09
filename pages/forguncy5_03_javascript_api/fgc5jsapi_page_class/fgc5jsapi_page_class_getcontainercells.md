@@ -9,11 +9,11 @@ permalink: fgc5jsapi_page-class-getcontainercells.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Page - getCell Method
+### Page - getContainerCells Method
 page.getContainerCells(includeSubPage)
 <br /><br />
 
-### getCell Method 설명
+### getContainerCells Method 설명
 페이지 내 [탭 컨테이너]()와 [내용이 포함된 컨테이너]() 등 다른 페이지를 불러오는 Cell 유형들을 그룹으로 묶어 해당 인스턴스 그룹의 속성을 가져옵니다.
 <br /><br />
 
@@ -41,9 +41,9 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
   var page = Forguncy.Page;
   //페이지 내 컨테이너 셀들을 불러옵니다.
   var cell = page.getContainerCells();
-  //Cell 인스턴스의 길이를 확인합니다.
+  //Cell 인스턴스 그룹의 길이를 확인합니다.
   var len = cell.length;
-  //Cell 길이를 화면에 표시합니다.
+  //Cell 인스턴스 그룹의 길이를 화면에 표시합니다.
   alert(len);
 ~~~
 
