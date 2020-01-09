@@ -145,10 +145,13 @@ entries:
                 url: /fgc5jsapi_page-class-getlistview.html
                 output: web, pdf
 
-                - title: Page - getMasterPageName
+              - title: Page - getMasterPageName
                 url: /fgc5jsapi_page-class-getMasterPageName.html
                 output: web, pdf
 
+              - title: Page - getPageName
+                url: /fgc5jsapi_page-class-getPageName.html
+                output: web, pdf
 
 #            - title: Forguncy API - 메소드
 #              output: web, pdf
