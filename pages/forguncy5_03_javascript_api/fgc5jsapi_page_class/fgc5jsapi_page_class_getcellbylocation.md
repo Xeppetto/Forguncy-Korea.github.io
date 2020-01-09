@@ -1,7 +1,7 @@
 ---
-title: Forguncy API - Namespace
-tags: [Forguncy, JavaScript, API, Namespace]
-keywords: Forguncy API, JavaScript API, Namespace
+title: Forguncy API : Page - getCellByLocation
+tags: [Forguncy, JavaScript, API, getCellByLocation]
+keywords: Forguncy API, JavaScript API, getCellByLocation
 last_updated: Jan 8, 2020
 summary: "Forguncy API - Page 클래스 중 getCellByLocation을 설명합니다."
 sidebar: forguncy5_sidebar

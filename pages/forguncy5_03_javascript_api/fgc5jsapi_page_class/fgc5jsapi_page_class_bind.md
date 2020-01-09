@@ -1,7 +1,7 @@
 ---
-title: Forguncy API - Namespace
-tags: [Forguncy, JavaScript, API, Namespace]
-keywords: Forguncy API, JavaScript API, Namespace
+title: Forguncy API : Page - bind
+tags: [Forguncy, JavaScript, API, bind]
+keywords: Forguncy API, JavaScript API, bind
 last_updated: Jan 7, 2020
 summary: "Forguncy API - Page 클래스 중 Bind Method를 설명합니다."
 sidebar: forguncy5_sidebar

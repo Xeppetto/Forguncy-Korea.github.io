@@ -1,7 +1,7 @@
 ---
-title: Forguncy API - Namespace
-tags: [Forguncy, JavaScript, API, Namespace]
-keywords: Forguncy API, JavaScript API, Namespace
+title: Forguncy API : Page - getListViews
+tags: [Forguncy, JavaScript, API, getListViews]
+keywords: Forguncy API, JavaScript API, getListViews
 last_updated: Jan 9, 2020
 summary: "Forguncy API - Page 클래스 중 getListViews를 설명합니다."
 sidebar: forguncy5_sidebar
