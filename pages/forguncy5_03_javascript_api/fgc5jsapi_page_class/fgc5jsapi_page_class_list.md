@@ -1,5 +1,5 @@
 ---
-title: Forguncy API : Page - 전체 목록
+title: Forguncy API - Page - 전체 목록
 tags: [Forguncy, JavaScript, API, page]
 keywords: Forguncy API, JavaScript API, page
 last_updated: Jan 7, 2020

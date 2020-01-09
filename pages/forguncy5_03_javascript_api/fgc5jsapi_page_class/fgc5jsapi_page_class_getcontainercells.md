@@ -1,5 +1,5 @@
 ---
-title: Forguncy API : Page - getContainerCells
+title: Forguncy API - Page - getContainerCells
 tags: [Forguncy, JavaScript, API, getContainerCells]
 keywords: Forguncy API, JavaScript API, getContainerCells
 last_updated: Jan 9, 2020

@@ -1,5 +1,5 @@
 ---
-title: Forguncy API : Page - getCell
+title: Forguncy API - Page - getCell
 tags: [Forguncy, JavaScript, API, getCell]
 keywords: Forguncy API, JavaScript API, getCell
 last_updated: Jan 9, 2020

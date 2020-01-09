@@ -1,5 +1,5 @@
 ---
-title: Forguncy API : Page - bind
+title: Forguncy API - Page - bind
 tags: [Forguncy, JavaScript, API, bind]
 keywords: Forguncy API, JavaScript API, bind
 last_updated: Jan 7, 2020

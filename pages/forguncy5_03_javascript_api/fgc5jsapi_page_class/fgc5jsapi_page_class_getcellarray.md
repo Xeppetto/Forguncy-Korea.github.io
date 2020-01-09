@@ -1,5 +1,5 @@
 ---
-title: Forguncy API : Page - getCellArray
+title: Forguncy API - Page - getCellArray
 tags: [Forguncy, JavaScript, API, getCellArray]
 keywords: Forguncy API, JavaScript API, getCellArray
 last_updated: Jan 8, 2020

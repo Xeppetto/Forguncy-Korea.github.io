@@ -1,5 +1,5 @@
 ---
-title: Forguncy API : Page - getCellByLocation
+title: Forguncy API - Page - getCellByLocation
 tags: [Forguncy, JavaScript, API, getCellByLocation]
 keywords: Forguncy API, JavaScript API, getCellByLocation
 last_updated: Jan 8, 2020
