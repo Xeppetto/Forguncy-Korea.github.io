@@ -1,7 +1,7 @@
 ---
-title: Forguncy API - Namespace
-tags: [Forguncy, JavaScript, API, Namespace]
-keywords: Forguncy API, JavaScript API, Namespace
+title: Forguncy API : Page - 전체 목록
+tags: [Forguncy, JavaScript, API, page]
+keywords: Forguncy API, JavaScript API, page
 last_updated: Jan 7, 2020
 summary: "Forguncy API - Page Class의 전체 Method 목록입니다. 구분의 링크를 클릭하시면 세부 페이지 내용을 보실 수 있습니다."
 sidebar: forguncy5_sidebar
@@ -22,7 +22,7 @@ folder: forguncy5_03_javascript_api
 | [getCellByLocation](fgc5jsapi_page-class-getcellbylocation.html) | 특정 Cell의 위치 정보를 참조하여 Cell 인스턴스의 속성을 가져옵니다. |
 | [getCell](fgc5jsapi_page-class-getcell.html) | 개별 Cell Name을 기반으로 Cell 인스턴스의 속성을 가져옵니다. |
 | [getContainerCells](fgc5jsapi_page-class-getcontainercells.html) | 페이지 내 [탭 컨테이너]()와 [내용이 포함된 컨테이너]() 등 다른 페이지를 불러오는 Cell 유형들을 그룹으로 묶어 해당 인스턴스 그룹의 속성을 가져옵니다. |
-| [getListViews](fgc5jsapi_page-class-getlistviews.html) | 페이지 내 모든 ListView들의 정보를 가져옵니다. |
+| [getListViews](fgc5jsapi_page-class-getlistviews.html) | 페이지 내 모든 ListView들을 그룹으로 묶어 해당 인스턴스 그룹의 속성을 가져옵니다. |
 | getListView | ListView의 이름을 기반으로 해당 ListView의 정보를 가져옵니다. |
 | getMasterPageName | 화면에 표시되는 페이지의 Forguncy에서 설정한 마스터페이지의 이름을 가져옵니다. |
 | getPageName | 화면에 표시되는 현재 페이지의 이름을 가져옵니다. |

@@ -1,7 +1,7 @@
 ---
-title: Forguncy API - Namespace
-tags: [Forguncy, JavaScript, API, Namespace]
-keywords: Forguncy API, JavaScript API, Namespace
+title: Forguncy API - Page 변수
+tags: [Forguncy, JavaScript, API, page]
+keywords: Forguncy API, JavaScript API, page
 last_updated: Jan 7, 2020
 summary: "Forguncy API - Page Variable을 사용하는 방법을 안내합니다."
 sidebar: forguncy5_sidebar
