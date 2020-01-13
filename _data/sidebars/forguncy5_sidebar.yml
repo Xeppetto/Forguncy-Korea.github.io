@@ -168,7 +168,6 @@ entries:
               - title: Page - ready
                 url: /fgc5jsapi_page-class-ready.html
                 output: web, pdf
-
                 
               - title: Page - ready
                 url: /fgc5jsapi_page-class-recalc.html
