@@ -173,6 +173,10 @@ entries:
                 url: /fgc5jsapi_page-class-recalc.html
                 output: web, pdf
 
+              - title: Page - reloadbindingdata
+                url: /fgc5jsapi_page-class-reloadbindingdata.html
+                output: web, pdf
+                
 #            - title: Forguncy API - 메소드
 #              output: web, pdf
 #
