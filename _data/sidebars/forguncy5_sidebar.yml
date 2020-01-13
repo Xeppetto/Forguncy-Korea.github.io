@@ -169,7 +169,7 @@ entries:
                 url: /fgc5jsapi_page-class-ready.html
                 output: web, pdf
                 
-              - title: Page - ready
+              - title: Page - recalc
                 url: /fgc5jsapi_page-class-recalc.html
                 output: web, pdf
 
