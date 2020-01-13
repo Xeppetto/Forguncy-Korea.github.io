@@ -40,7 +40,9 @@ SubPage 속성을 반환합니다. 자세한 내용은 SubPage[]를 참고하세
   //현재 페이지를 불러옵니다.
   var page = Forguncy.Page;
   
-  //(확인 중 - 정상 작동하지 않아 세부 코드 리뷰 중)
+  //확인 중입니다.
+  //아래 예제는 웹에서 작동하는 JavaScript가 아니라 Plugin 방식으로 개발할 때 사용하는 코드로 현재 예제를 개발 중입니다.
+  //아래 예제 코드가 너무 오랫동안 실제 예제 없이 코드만 방치되어 있다면 기술지원으로 알려주세요. 가능한 빠르게 예제를 개발하여 보여드리겠습니다.
   var pageID = this.getFormulaCalcContext().PageID;
   var pageInfo = Forguncy.Page.getSubPageInfoByPageID(pageID);
   return pageInfo ? pageInfo.getListView(listViewName) : Forguncy.Page.getListView(listViewName, false);
@@ -50,7 +52,9 @@ SubPage 속성을 반환합니다. 자세한 내용은 SubPage[]를 참고하세
 
 ### Forguncy 사용 예제
 
-1. 활용 예제 작동 시 추가 예정
+본 Method Plugin 방식으로 개발할 때 사용하는 코드로 현재 예제를 개발 중입니다.
+
+위의 예제 코드가 너무 오랫동안 실제 예제 없이 코드만 방치되어 있다면 기술지원으로 알려주세요. 가능한 빠르게 예제를 개발하여 보여드리겠습니다.
 
 
 <br /><br />

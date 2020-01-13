@@ -378,13 +378,13 @@ ul#mysidebar {
 }
 
 .nav ul li ul li a {
-    padding-left:40px;
+    padding-left:20px;/* 원래 40px였으나 변경 : 2020-01-09 by Jake */
 }
 
 .nav li.thirdlevel > a {
     color: #248EC2;
     font-weight:bold;
-    padding-left:10px; /* 원래 20px였으나 변경 : 2020-01-09 by Jake */
+    padding-left:20px; 
     background-color: whitesmoke !important;
 }
 
