@@ -10,11 +10,11 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - resumeCalc Method
-page.getSubPageInfoByPageID(pageID)
+page.resumeCalc()
 <br /><br />
 
 ### resumeCalc Method 설명
-Page ID를 기반으로 하위 페이지 정보들을 가져옵니다. 브라우저상에 보이는 각 상위/하위 페이지들에 Forguncy는 각기 고유한 Page ID를 부여합니다.이를 이용하여 Forguncy로 제작하는 여러 기능들을 조절합니다. <br /><br />[CellTypeBase.getFormulaCalcContext]()와 [CommandBase.getFormulaCalcContext]() 메소드들을 이용하여 페이지 ID를 확인하실 수도 있습니다.
+페이지 내 수식들을 표시하는 시점을 수식이 들어 있는 해당 셀을 호출하는 시점에 적용하여 표시하도록 합니다.<br />페이지 내 계산을 일시 중지하기 위해 [suspendCalc]()와 함께 사용하시기를 추천합니다.
 <br /><br />
 
 ### Parameter 설명
@@ -22,11 +22,8 @@ Page ID를 기반으로 하위 페이지 정보들을 가져옵니다. 브라우
 <br /><br />
 
 ### Response 시 반환값
-SubPage 속성을 반환합니다. 자세한 내용은 SubPage[]를 참고하세요.
-
-> 😄 SubPage Method 관련 내용은 준비 중입니다.
-
-<!-- <br /><br /> 위 memo를 삭제할 때 comment 제거 -->
+없음, void
+<br /><br />
 
 ### 활용 예제
 아래는 page.getSubPageInfoByPageID 사용하는 관련 사용 예제입니다. 해당 페이지의 이름을 보여줍니다.
@@ -36,17 +33,53 @@ SubPage 속성을 반환합니다. 자세한 내용은 SubPage[]를 참고하세
   //현재 페이지를 불러옵니다.
   var page = Forguncy.Page;
   
-  //(확인 중 - 정상 작동하지 않아 세부 코드 리뷰 중)
-  var pageID = this.getFormulaCalcContext().PageID;
-  var pageInfo = Forguncy.Page.getSubPageInfoByPageID(pageID);
-  return pageInfo ? pageInfo.getListView(listViewName) : Forguncy.Page.getListView(listViewName, false);
+  //페이지에서 수식 계산을 다시 진행합니다.
+  page.resumeCalc();
 ~~~
 
 <br />
 
 ### Forguncy 사용 예제
 
-1. 활용 예제 작동 시 추가 예정
+※알림: 아래 사용 예제는 [suspendCalc]()와 [resumeCalc](fgc5jsapi_page-class-resumecalc.html)를 동시에 사용하므로, 같은 예제를 사용합니다.
 
+1. 페이지를 한 개 생성하고, 셀 영역을 선택하여 "텍스트 상자"를 생성합니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumeCalc01.png)]
+    <br /><br />
+
+2. 텍스트 상자 아래 쪽에 병합 셀을 하나 생성하고, 위에서 생성한 텍스트 상자를 참조하도록 합니다. (화면에서 =B2로 표현되어 있습니다.)
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumeCalc02.png)]
+    <br /><br />
+
+3. 해당 프로젝트를 실행하면 입력 박스 하나와 숫자 0이 나타납니다. 해당 입력 박스에 아무거나 입력 후 Enter키를 누르면 숫자 0은 입력한 대로 표시됩니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumeCalc03.png)]
+    <br /><br />
+
+4. Forguncy Editor로 돌아가 버튼을 한 개 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령을 생성하여 코드를 입력합니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumeCalc04.png)]
+    <br /><br />
+
+5. 다시 해당 프로젝트를 실행한 후 "버튼"을 클릭합니다. 이후 입력 창에 아무거나 입력 후 Enter키를 눌러 봅니다. 값이 변경되지 않으면 suspendCalc가 잘 적용된 것입니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumeCalc05.png)]
+    <br /><br />
+
+6. 다시 Forguncy Editor로 돌아가 버튼을 한 개 더 생성하고, 명령을 생성하여 코드를 입력합니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumeCalc06.png)]
+    <br /><br />
+
+7. 다시 한 번 해당 프로젝트를 생성하고, 다음의 방법으로 테스트를 진행합니다.<br />
+    (1) suspendCalc를 적용한 버튼을 클릭합니다.<br />
+    (2) 입력 상자에 아무거나 입력 후 Enter키를 누릅니다. → 값이 변하지 않으면 성공입니다.<br />
+    (3) resumeCalc를 적용한 버튼을 클릭합니다.<br />
+    (4) 입력 상자에 아무거나 입력 후 Enter키를 누릅니다. → 값이 입력한 대로 변하면 성공입니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumeCalc07.png)]
+    <br /><br />
 
 <br /><br />

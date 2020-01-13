@@ -32,7 +32,7 @@ folder: forguncy5_03_javascript_api
 | [ready](fgc5jsapi_page-class-ready.html) | 페이지 로딩이 완료된 후 Ready 메소드에 정의한 Callback 함수가 호출됩니다.<br />페이지 내 기능 로직을 처리하는 방법으로 페이지 내의 모든 요소들이 작동 준비되었을 때 Callback으로 처리하는 방식이 더 추천하는 방식입니다. |
 | [recalc](fgc5jsapi_page-class-recalc.html) | 페이지 내 모든 수식을 다시 계산하도록 합니다. |
 | [reloadBindingData](fgc5jsapi_page-class-reloadbindingdata.html) | 현재 페이지에 사용 중인 Database의 Table들과 View들을 다시 불러오기합니다. |
-| resumeCalc | 페이지 내 수식들을 표시하는 시점을 수식이 들어 있는 해당 셀을 호출하는 시점에 적용하여 표시하도록 합니다.<br />페이지 내 계산을 일시 중지하기 위해 [suspendCalc]()와 함께 사용하시기를 추천합니다. |
+| [resumeCalc](fgc5jsapi_page-class-resumecalc.html) | 페이지 내 수식들을 표시하는 시점을 수식이 들어 있는 해당 셀을 호출하는 시점에 적용하여 표시하도록 합니다.<br />페이지 내 계산을 일시 중지하기 위해 [suspendCalc]()와 함께 사용하시기를 추천합니다. |
 | setCurrentRow | Database 특정 값이 들어 있는 행을 지정합니다. 예를 들어, 어떤 데이터가 어떤 테이블의 3번째 행에 들어 있다면, 그 3번째 행의 모든 내용들이 화면의 페이지에 표시될 수 있도록 Database Table의 특정 행을 선택합니다. |
 | suspendCalc | 화면 내 보이는 페이지의 수식 계산을 일시 중단합니다. 이 기능은 일반적으로 많은 량의 데이터를 처리할 때 성능 향상을 위해 사용합니다. 수식 계산을 계속 진행하시기 위해 resumeCalc()와 함께 사용하시기를 추천합니다. |
 | unbindAll | 페이지 내 모든 이벤트들에 대한 bind를 해제합니다. 이 메소드는 Event handler를 제거하거나, 특정 함수의 이벤트 실행을 종료시킬 수 있습니다. |
