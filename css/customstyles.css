@@ -384,7 +384,7 @@ ul#mysidebar {
 .nav li.thirdlevel > a {
     color: #248EC2;
     font-weight:bold;
-    padding-left:10px;
+    padding-left:10px; /* 원래 20px였으나 변경 : 2020-01-09 by Jake */
     background-color: whitesmoke !important;
 }
 
