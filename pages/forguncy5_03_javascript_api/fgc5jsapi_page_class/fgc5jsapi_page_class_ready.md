@@ -18,10 +18,12 @@ page.ready(fn)
 <br /><br />
 
 ### Parameter 설명
+
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
 | --- | --- | --- | --- |
 | fn | function | 예 | 페이지의 로딩이 완료되어 사용 준비되면 호출되는 Callback 함수명입니다. |
-<br /><br />
+
+<br />
 
 ### Response 시 반환값
 없음, void

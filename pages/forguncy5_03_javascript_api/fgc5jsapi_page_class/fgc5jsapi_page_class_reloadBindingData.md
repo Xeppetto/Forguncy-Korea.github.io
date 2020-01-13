@@ -20,10 +20,12 @@ ListView의 설정에서 "자동으로 데이터 다시 불러오기"를 설정�
 <br /><br />
 
 ### Parameter 설명
+
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
 | --- | --- | --- | --- |
 | tableName | string | 예 | 다시 로딩해서 불러올 데이터베이스의 테이블 이름을 입력합니다. |
-<br /><br />
+
+<br />
 
 ### Response 시 반환값
 없음, void
