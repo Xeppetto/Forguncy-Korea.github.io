@@ -165,6 +165,15 @@ entries:
                 url: /fgc5jsapi_page-class-getsubpageinfobypageid.html
                 output: web, pdf
 
+              - title: Page - ready
+                url: /fgc5jsapi_page-class-ready.html
+                output: web, pdf
+
+                
+              - title: Page - ready
+                url: /fgc5jsapi_page-class-recalc.html
+                output: web, pdf
+
 #            - title: Forguncy API - 메소드
 #              output: web, pdf
 #

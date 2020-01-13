@@ -2,7 +2,7 @@
 title: Forguncy API - Page - ready
 tags: [Forguncy, JavaScript, API, ready]
 keywords: Forguncy API, JavaScript API, ready
-last_updated: Jan 9, 2020
+last_updated: Jan 13, 2020
 summary: "Forguncy API - Page 클래스 중 ready와 관련해 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-ready.html
@@ -28,7 +28,7 @@ page.ready(fn)
 <br /><br />
 
 ### 활용 예제
-아래는 page.ready를 사용하는 관련 사용 예제입니다. 해당 페이지의 이름을 보여줍니다.
+아래는 page.ready를 사용하는 관련 사용 예제입니다. 사용 중인 사용자의 이름을 보여줍니다.
 <br />
 
 ~~~javascript
