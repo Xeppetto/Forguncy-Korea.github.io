@@ -26,7 +26,7 @@ page.resumeCalc()
 <br /><br />
 
 ### 활용 예제
-아래는 page.getSubPageInfoByPageID 사용하는 관련 사용 예제입니다. 해당 페이지의 이름을 보여줍니다.
+아래는 page.resumeCalc 사용하는 관련 사용 예제입니다. suspendCalc와 함께 이용하면 해당 페이지의 수식 계산을 멈추거나, 계속 진행할 수 있습니다.
 <br />
 
 ~~~javascript
@@ -75,9 +75,9 @@ page.resumeCalc()
 
 7. 다시 한 번 해당 프로젝트를 생성하고, 다음의 방법으로 테스트를 진행합니다.<br />
     (1) suspendCalc를 적용한 버튼을 클릭합니다.<br />
-    (2) 입력 상자에 아무거나 입력 후 Enter키를 누릅니다. → 값이 변하지 않으면 성공입니다.<br />
+    (2) 입력 상자에 아무거나 입력 후 Enter키를 누릅니다. ▶ 값이 변하지 않으면 성공입니다.<br />
     (3) resumeCalc를 적용한 버튼을 클릭합니다.<br />
-    (4) 입력 상자에 아무거나 입력 후 Enter키를 누릅니다. → 값이 입력한 대로 변하면 성공입니다.
+    (4) 입력 상자에 아무거나 입력 후 Enter키를 누릅니다. ▶ 값이 입력한 대로 변하면 성공입니다.
 
     ![]({{site.url}}/images/forguncy5/ex-ss_page-resumeCalc07.png)]
     <br /><br />
