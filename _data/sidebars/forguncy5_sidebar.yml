@@ -108,7 +108,88 @@ entries:
                 url: /fgc5jsapi_page-variable.html
                 output: web, pdf
 
-            #subfolders
+            #Forguncy API - Cell 클래스 - subfolders
+            - title: Forguncy API - Cell 클래스
+              output: web, pdf
+              subfolderitems:
+
+              - title: Cell 클래스 -  전체 목록
+                url: /fgc5jsapi_cell-class-list.html
+                output: web, pdf
+
+              - title: Cell - disable
+                url: /fgc5jsapi_cell-class-disable.html
+                output: web, pdf
+
+              - title: Cell - enable
+                url: /fgc5jsapi_cell-class-disable.html
+                output: web, pdf
+
+              - title: Cell - hide
+                url: /fgc5jsapi_cell-class-hide.html
+                output: web, pdf
+
+              - title: Cell - show
+                url: /fgc5jsapi_cell-class-show.html
+                output: web, pdf
+
+              - title: Cell - getValue
+                url: /fgc5jsapi_cell-class-getvalue.html
+                output: web, pdf
+                
+              - title: Cell - setValue
+                url: /fgc5jsapi_cell-class-setvalue.html
+                output: web, pdf
+
+              - title: Cell - bind
+                url: /fgc5jsapi_cell-class-bind.html
+                output: web, pdf
+
+              - title: Cell - unbind
+                url: /fgc5jsapi_cell-class-unbind.html
+                output: web, pdf
+
+              - title: Cell - unbindall
+                url: /fgc5jsapi_cell-class-unbindall.html
+                output: web, pdf
+
+              - title: Cell - getActiveTabIndex
+                url: /fgc5jsapi_cell-class-getactivetabindex.html
+                output: web, pdf
+
+              - title: Cell - getContentPage
+                url: /fgc5jsapi_cell-class-getcontentpage.html
+                output: web, pdf
+
+              - title: Cell - getTabCount
+                url: /fgc5jsapi_cell-class-gettabcount.html
+                output: web, pdf
+                
+              - title: Cell - getTabPage
+                url: /fgc5jsapi_cell-class-gettabpage.html
+                output: web, pdf
+
+              - title: Cell - showTab
+                url: /fgc5jsapi_cell-class-showtab.html
+                output: web, pdf
+
+              - title: Cell - hasFocus
+                url: /fgc5jsapi_cell-class-hasfocus.html
+                output: web, pdf
+                
+              - title: Cell - setFocus
+                url: /fgc5jsapi_cell-class-setfocus.html
+                output: web, pdf
+
+              - title: Cell - setBackColor
+                url: /fgc5jsapi_cell-class-setbackcolor.html
+                output: web, pdf
+
+              - title: Cell - setForeColor
+                url: /fgc5jsapi_cell-class-setforecolor.html
+                output: web, pdf
+                
+            #Forguncy API - Page 클래스 - subfolders
             - title: Forguncy API - Page 클래스
               output: web, pdf
               subfolderitems:
@@ -185,7 +266,7 @@ entries:
                 url: /fgc5jsapi_page-class-setcurrentrow.html
                 output: web, pdf
                 
-                - title: Page - recalc
+              - title: Page - recalc
                 url: /fgc5jsapi_page-class-recalc.html
                 output: web, pdf
 
@@ -196,28 +277,4 @@ entries:
               - title: Page - resumeCalc
                 url: /fgc5jsapi_page-class-resumecalc.html
                 output: web, pdf
-
-#            - title: Forguncy API - 메소드
-#              output: web, pdf
-#
-#              subfolderitems:
-#              - title: Forguncy API 소개
-#                url: /forguncy_characteristic.html
-#                output: web, pdf
-#              
-#              - title: Forguncy API - Page 변수
-#                url: /product_introduction.html
-#                output: web, pdf
-#          
-#            - title: Forguncy API - 인터페이스
-#              output: web, pdf
-#
-#              subfolderitems:
-#              - title: Forguncy API 소개
-#                url: /fgc5jsapi_intro.html
-#                output: web, pdf
-#                
-#              - title: Forguncy API - Page 변수
-#                url: /fgc5jsapi_page-variable.html
-#                output: web, pdf
   
