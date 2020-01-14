@@ -3,7 +3,7 @@ title: Forguncy API - Page - getListViews
 tags: [Forguncy, JavaScript, API, getListViews]
 keywords: Forguncy API, JavaScript API, getListViews
 last_updated: Jan 9, 2020
-summary: "Forguncy API - Page 클래스 중 getListViews를 설명합니다."
+summary: "Forguncy API - Page 클래스 중 getListViews Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-getlistviews.html
 folder: forguncy5_03_javascript_api

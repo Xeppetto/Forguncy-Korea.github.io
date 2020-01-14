@@ -3,7 +3,7 @@ title: Forguncy API - Page - recalc
 tags: [Forguncy, JavaScript, API, recalc]
 keywords: Forguncy API, JavaScript API, recalc
 last_updated: Jan 13, 2020
-summary: "Forguncy API - Page 클래스 중 recalc와 관련해 설명합니다."
+summary: "Forguncy API - Page 클래스 중 recalc Method와 관련해 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-recalc.html
 folder: forguncy5_03_javascript_api

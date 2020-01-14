@@ -185,6 +185,10 @@ entries:
                 url: /fgc5jsapi_page-class-setcurrentrow.html
                 output: web, pdf
                 
+              - title: Page - suspendCalc
+                url: /fgc5jsapi_page-class-suspendcalc.html
+                output: web, pdf
+
 #            - title: Forguncy API - 메소드
 #              output: web, pdf
 #

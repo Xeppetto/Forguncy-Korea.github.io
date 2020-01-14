@@ -3,7 +3,7 @@ title: Forguncy API - Page - getCell
 tags: [Forguncy, JavaScript, API, getCell]
 keywords: Forguncy API, JavaScript API, getCell
 last_updated: Jan 9, 2020
-summary: "Forguncy API - Page 클래스 중 getCell에 대해 설명합니다."
+summary: "Forguncy API - Page 클래스 중 getCell Method에 대해 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-getcell.html
 folder: forguncy5_03_javascript_api

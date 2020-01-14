@@ -3,7 +3,7 @@ title: Forguncy API - Page - getUserName
 tags: [Forguncy, JavaScript, API, getUserName]
 keywords: Forguncy API, JavaScript API, getUserName
 last_updated: Jan 9, 2020
-summary: "Forguncy API - Page 클래스 중 getUserName에 대해 설명합니다."
+summary: "Forguncy API - Page 클래스 중 getUserName Method에 대해 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-getusername.html
 folder: forguncy5_03_javascript_api

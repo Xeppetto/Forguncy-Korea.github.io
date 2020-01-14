@@ -3,7 +3,7 @@ title: Forguncy API - Page - getCellByLocation
 tags: [Forguncy, JavaScript, API, getCellByLocation]
 keywords: Forguncy API, JavaScript API, getCellByLocation
 last_updated: Jan 8, 2020
-summary: "Forguncy API - Page 클래스 중 getCellByLocation을 설명합니다."
+summary: "Forguncy API - Page 클래스 중 getCellByLocation Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-getcellbylocation.html
 folder: forguncy5_03_javascript_api
@@ -22,6 +22,8 @@ Forguncy의 좌표값을 기반으로 Cell의 위치 정보를 참조하여 Cell
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
 | --- | --- | --- | --- |
 | cellLocation | [CellLocationInfo]() | 예 | 특정 Cell의 위치 정보를 입력합니다. |
+
+> 😄 CellLocationInfo 관련 내용은 준비 중입니다.
 
 CellLocationInfo 인터페이스 타입은 아래와 같이 정의되어 있습니다.
 

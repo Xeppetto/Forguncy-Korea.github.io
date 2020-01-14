@@ -3,7 +3,7 @@ title: Forguncy API - Page - getContainerCells
 tags: [Forguncy, JavaScript, API, getContainerCells]
 keywords: Forguncy API, JavaScript API, getContainerCells
 last_updated: Jan 9, 2020
-summary: "Forguncy API - Page 클래스 중 getContainerCells를 설명합니다."
+summary: "Forguncy API - Page 클래스 중 getContainerCells Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-getcontainercells.html
 folder: forguncy5_03_javascript_api
@@ -15,7 +15,10 @@ page.getContainerCells(includeSubPage)
 
 ### getContainerCells Method 설명
 페이지 내 [탭 컨테이너]()와 [내용이 포함된 컨테이너]() 등 다른 페이지를 불러오는 Cell 유형들을 그룹으로 묶어 해당 인스턴스 그룹의 속성을 가져옵니다.
-<br /><br />
+
+> 😄 탭 컨테이너 / 내용이 포함된 컨테이너 관련 내용은 준비 중입니다.
+
+<!-- <br /><br /> 위 memo를 삭제할 때 comment 제거 -->
 
 ### Parameter 설명
 

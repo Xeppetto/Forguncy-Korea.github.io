@@ -1,20 +1,20 @@
 ---
-title: Forguncy API - Page - resumeCalc
-tags: [Forguncy, JavaScript, API, resumeCalc]
-keywords: Forguncy API, JavaScript API, resumeCalc
+title: Forguncy API - Page - suspendCalc
+tags: [Forguncy, JavaScript, API, suspendCalc]
+keywords: Forguncy API, JavaScript API, suspendCalc
 last_updated: Jan 14, 2020
-summary: "Forguncy API - Page 클래스 중 resumeCalc Method에 대해 설명합니다."
+summary: "Forguncy API - Page 클래스 중 suspendCalc Method에 대해 설명합니다."
 sidebar: forguncy5_sidebar
-permalink: fgc5jsapi_page-class-resumecalc.html
+permalink: fgc5jsapi_page-class-suspendcalc.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Page - resumeCalc Method
-page.resumeCalc()
+### Page - suspendCalc Method
+page.suspendCalc()
 <br /><br />
 
-### resumeCalc Method 설명
-페이지 내 작동하지 않는 수식들을 다시 작동하도록 합니다. <br />페이지 내 계산을 일시 중지하기 위해 [suspendCalc](fgc5jsapi_page-class-suspendcalc.html)와 함께 사용하시기를 추천합니다.
+### suspendCalc Method 설명
+페이지 내 수식들을 작동하지 않도록 합니다. 페이지 내 계산을 다시 계속하기 위해 [resumeCalc](fgc5jsapi_page-class-resumecalc.html)와 함께 사용하시기를 추천합니다.
 <br /><br />
 
 ### Parameter 설명
@@ -26,7 +26,7 @@ page.resumeCalc()
 <br /><br />
 
 ### 활용 예제
-아래는 page.resumeCalc를 사용하는 관련 사용 예제입니다. suspendCalc와 함께 이용하면 해당 페이지의 수식 계산을 멈추거나, 계속 진행할 수 있습니다.
+아래는 page.suspendCalc를 사용하는 관련 사용 예제입니다. resumeCalc와 함께 이용하면 해당 페이지의 수식 계산을 멈추거나, 계속 진행할 수 있습니다.
 <br />
 
 ~~~javascript
@@ -34,7 +34,7 @@ page.resumeCalc()
   var page = Forguncy.Page;
   
   //페이지에서 수식 계산을 다시 진행합니다.
-  page.resumeCalc();
+  page.suspendCalc();
 ~~~
 
 <br />
