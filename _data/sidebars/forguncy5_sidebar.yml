@@ -137,6 +137,10 @@ entries:
                 url: /fgc5jsapi_page-class-unbindall.html
                 output: web, pdf
 
+              - title: Page - ready
+                url: /fgc5jsapi_page-class-ready.html
+                output: web, pdf
+
               - title: Page - getCellByLocation
                 url: /fgc5jsapi_page-class-getcellbylocation.html
                 output: web, pdf
@@ -173,28 +177,24 @@ entries:
                 url: /fgc5jsapi_page-class-getsubpageinfobypageid.html
                 output: web, pdf
 
-              - title: Page - ready
-                url: /fgc5jsapi_page-class-ready.html
-                output: web, pdf
-                
-              - title: Page - recalc
-                url: /fgc5jsapi_page-class-recalc.html
-                output: web, pdf
-
               - title: Page - reloadBindingData
                 url: /fgc5jsapi_page-class-reloadbindingdata.html
-                output: web, pdf
-                
-              - title: Page - resumeCalc
-                url: /fgc5jsapi_page-class-resumecalc.html
                 output: web, pdf
                 
               - title: Page - setCurrentRow
                 url: /fgc5jsapi_page-class-setcurrentrow.html
                 output: web, pdf
                 
+                - title: Page - recalc
+                url: /fgc5jsapi_page-class-recalc.html
+                output: web, pdf
+
               - title: Page - suspendCalc
                 url: /fgc5jsapi_page-class-suspendcalc.html
+                output: web, pdf
+
+              - title: Page - resumeCalc
+                url: /fgc5jsapi_page-class-resumecalc.html
                 output: web, pdf
 
 #            - title: Forguncy API - 메소드
