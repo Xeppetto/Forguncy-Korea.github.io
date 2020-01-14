@@ -55,22 +55,22 @@ page.ready(fn)
 
 1. 페이지를 한 개 생성하고, 셀 범위를 선택하여 "현재 사용자" 셀 유형을 추가합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-ready01.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-ready01.png)
     <br /><br />
 
 2. 버튼을 추가합니다. (✅중요) 이 때, 화면 좌측 상단에 Forguncy Cell Name을 'button'으로 지정해 줍니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-ready02.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-ready02.png)
     <br /><br />
 
 3. ready Method는 페이지의 실행 시점(OnLoad 시점)에 실행되는 스크립트이므로, 외부 파일로 만들어 해당 페이지에 연결해 줍니다.<br />
     아래 그림은 Notepad++로 스크립트를 작성 > 저장 > Forguncy에 가져오기 한 예제입니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-ready03.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-ready03.png)
     <br /><br />
 
 4. 해당 프로젝트를 실행하여 버튼을 클릭하면 아래와 같이 현재 사용자의 이름이 나타납니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-ready04.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-ready04.png)
 
 <br /><br />

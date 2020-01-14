@@ -73,16 +73,16 @@ C# 예) Forguncy Plugin을 만들 때 사용할 코드 예제입니다.
 
 1. 데이터베이스 테이블을 한 개 생성하고, 테이블 내에 레코드 값을 최소 3개 이상 작성합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-setcurrentrow01.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-setcurrentrow01.png)
     <br /><br />
 
 2. 페이지를 한 개 생성하고, 아래와 같이 데이터 테이블의 Column을 매핑시켜 줍니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-setcurrentrow02.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-setcurrentrow02.png)
     <br /><br />
     ※참고 : 데이터 테이블의 컬럼을 화면에 매핑시키는 방법은 아래 그림처럼 끌어다놓기(Drag & Drop) 하시면 됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-setcurrentrow03.gif)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-setcurrentrow03.gif)
     <br /><br />
 
 

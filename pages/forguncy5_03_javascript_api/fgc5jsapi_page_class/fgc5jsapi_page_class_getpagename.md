@@ -46,16 +46,16 @@ string : 해당 페이지의 이름을 반환
 
 1. 페이지를 한 개 생성하고 우측 패널에서 "페이지 설정" 탭을 선택 후 페이지의 "이름"을 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getpagename01.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getpagename01.png)
     <br /><br />
 
 2. 해당 페이지에 버튼을 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getpagename02.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getpagename02.png)
     <br /><br />
 
 3. 프로젝트를 실행하여 버튼을 누르면 해당 페이지에 설정했었던 페이지의 이름이 화면에 표시됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getpagename03.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getpagename03.png)
 
 <br /><br />

@@ -113,16 +113,16 @@ UserInfo 속성을 반환합니다. 자세한 내용은 UserInfo[]를 참고하�
 
 1. 페이지를 생성한 후 셀에 "현재 사용자" 셀 유형을 적용합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getuserinfo01.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getuserinfo01.png)
     <br /><br />
 
 2. 해당 페이지에 버튼을 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getuserinfo02.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getuserinfo02.png)
     <br /><br />
 
 3. 프로젝트를 실행하여 버튼을 누르면 getUserInfo를 화면에 표시합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getuserinfo03.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getuserinfo03.png)
         
 <br /><br />

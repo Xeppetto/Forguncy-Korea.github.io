@@ -46,21 +46,21 @@ string : 마스터페이지의 이름을 반환
 
 1. 페이지를 한 개 생성하여 아무 내용이나 넣습니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getmasterpagename01.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getmasterpagename01.png)
     <br /><br />
 
 2. 생성한 페이지 목록에서 마우스 오른쪽 클릭 > 마스터페이지 설정 > FGC_유저마스터페이지를 선택합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getmasterpagename02.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getmasterpagename02.png)
     <br /><br />
 
 3. 해당 페이지에 버튼을 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getmasterpagename03.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getmasterpagename03.png)
     <br /><br />
 
 4. 프로젝트를 실행하여 버튼을 누르면 해당 페이지에 설정했었던 마스터 페이지의 이름이 화면에 표시됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getmasterpagename04.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getmasterpagename04.png)
 
 <br /><br />

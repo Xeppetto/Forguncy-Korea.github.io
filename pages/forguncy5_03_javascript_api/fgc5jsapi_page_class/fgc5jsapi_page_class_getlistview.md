@@ -58,16 +58,16 @@ ListView 속성을 반환합니다. 자세한 내용은 ListView[]를 참고하�
 1. 페이지를 한 개 생성하여 Database Table을 연결하는 ListView를 생성합니다.<br />
     해당 ListView의 이름을 ListView1이라고 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getlistview01.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getlistview01.png)
     <br /><br />
 
 2. 해당 페이지에 버튼을 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 추가합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getlistview02.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getlistview02.png)
     <br /><br />
 
 3. 프로젝트를 실행하여 버튼을 누르면 getListView에서 화면의 ListView 인스턴스의 속성 중 이름을 화면에 표시합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getlistview03.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getlistview03.png)
 
 <br /><br />

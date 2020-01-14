@@ -74,17 +74,17 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 
 2. 버튼을 생성하고, 해당 바튼의 "명령 편집"을 실행하여, "자바스크립트로 직접 프로그래밍하기" 명령을 생성합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellbylocation01.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellbylocation01.png)
     <br /><br />
     
 3. 해당 프로젝트를 실행한 후, 버튼을 클릭하면 아래와 같이 Row 2, Column 3 위치에 배경색상이 변경됩니다.
     
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellbylocation02.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellbylocation02.png)
     <br /><br />
 
 4. Forguncy에서는 A Column을 0, 1 Row를 0으로 Index 값을 가지며, 이를 기준으로 Cell의 위치를 계산합니다.<br />
     그러므로 A1는 Index(0, 0), B2는 Index (1, 1)이 되는 방식입니다. 그러므로 Column 3, Row 2는 D3가 됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellbylocation03.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellbylocation03.png)
 
 <br /><br />

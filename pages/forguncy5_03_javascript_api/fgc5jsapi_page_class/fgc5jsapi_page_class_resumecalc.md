@@ -45,32 +45,32 @@ page.resumeCalc()
 
 1. 페이지를 한 개 생성하고, 셀 영역을 선택하여 "텍스트 상자"를 생성합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc01.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc01.png)
     <br /><br />
 
 2. 텍스트 상자 아래 쪽에 병합 셀을 하나 생성하고, 위에서 생성한 텍스트 상자를 참조하도록 합니다. (화면에서 =B2로 표현되어 있습니다.)
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc02.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc02.png)
     <br /><br />
 
 3. 해당 프로젝트를 실행하면 입력 박스 하나와 숫자 0이 나타납니다. 해당 입력 박스에 아무거나 입력 후 Enter키를 누르면 숫자 0은 입력한 대로 표시됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc03.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc03.png)
     <br /><br />
 
 4. Forguncy Editor로 돌아가 버튼을 한 개 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령을 생성하여 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc04.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc04.png)
     <br /><br />
 
 5. 다시 해당 프로젝트를 실행한 후 "버튼"을 클릭합니다. 이후 입력 창에 아무거나 입력 후 Enter키를 눌러 봅니다. 값이 변경되지 않으면 suspendCalc가 잘 적용된 것입니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc05.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc05.png)
     <br /><br />
 
 6. 다시 Forguncy Editor로 돌아가 버튼을 한 개 더 생성하고, 명령을 생성하여 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc06.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc06.png)
     <br /><br />
 
 7. 다시 한 번 해당 프로젝트를 생성하고, 다음의 방법으로 테스트를 진행합니다.<br />
@@ -79,7 +79,7 @@ page.resumeCalc()
     (3) resumeCalc를 적용한 버튼을 클릭합니다.<br />
     (4) 입력 상자에 아무거나 입력 후 Enter키를 누릅니다. ▶ 값이 입력한 대로 변하면 성공입니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc07.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc07.png)
     <br /><br />
 
 <br /><br />

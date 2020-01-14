@@ -58,25 +58,25 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 
 3. "페이지1"의 셀에는 myCell1, "페이지2"의 셀에는 myCell2라고 입력합니다. 화면 좌측 위에 입력하시면 됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell01.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell01.png)
 
 4. "페이지1"에서 아래와 같이 셀 범위를 선택 > 셀 유형을 "내용이 포함된 셀 타입" 선택 > 하위 페이지로 "페이지2"를 지정합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell03.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell03.png)
     <br /><br />
 
     ※ 참고 : "내용이 포함된 셀 타입"이라는 셀 유형은 아래와 같은 위치에 있습니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray01.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray01.png)
     <br /><br />
 
 5. "페이지1"에 버튼을 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell02.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell02.png)
     <br /><br />
 
 6. 해당 프로젝트를 실행하고, 버튼을 누르면 myCell1과 myCell2에 각각 Forguncy1, Forguncy2라고 입력됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell04.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell04.png)
 
 <br /><br />

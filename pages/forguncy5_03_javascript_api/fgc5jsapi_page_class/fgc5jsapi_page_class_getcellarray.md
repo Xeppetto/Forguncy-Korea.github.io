@@ -58,18 +58,18 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 1. Forguncy에서 빈 페이지 2개를 생성합니다. <br />
     "페이지1"에서 아래와 같이 셀 범위를 선택 > 셀 유형을 "내용이 포함된 셀 타입" 선택 > 하위 페이지로 "페이지2"를 지정합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray02.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray02.png)
     <br /><br />
 
     ※ 참고 : "내용이 포함된 셀 타입"이라는 셀 유형은 아래와 같은 위치에 있습니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray01.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray01.png)
     <br /><br />
 
 2. "페이지2"로 이동하여 아래 그림과 같이 셀 영역을 설정합니다. <br />
     (1) 셀을 병합하지 않습니다. 여러 개의 셀을 선택한 상태로 그냥 두시면 됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray03.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray03.png)
     <br />
     (2) 이후 영역이 선택된 상태에서 좌측 상단에 "myCell"이라고 붙여 줍니다.
 
@@ -84,7 +84,7 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 
     (3) "JavaScript로 직접 프로그래밍하기" 명령을 이용하여 스크립트를 작성합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray04.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray04.png)
     <br /><br />
 
 4. 프로젝트를 실행합니다.
@@ -92,6 +92,6 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 5. 웹브라우저에서 아래와 같이 '버튼'을 클릭하면, 10이라는 팝업창이 나타납니다.<br />
     myCell로 지정된 Cell의 영역이 총 10개이므로, myCell이라는 영역의 길이는 10으로 나타납니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray05.png)]
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray05.png)
 
 <br /><br />
