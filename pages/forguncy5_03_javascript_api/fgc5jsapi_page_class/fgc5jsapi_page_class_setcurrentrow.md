@@ -85,5 +85,13 @@ C# 예) Forguncy Plugin을 만들 때 사용할 코드 예제입니다.
     ![]({{site.url}}/images/forguncy5/ex-ss_page-setcurrentrow03.gif)
     <br /><br />
 
+3. 버튼을 한 개 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령을 이용하여 코드를 입력합니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-setcurrentrow04.png)
+    <br /><br />
+
+4. 해당 프로젝트를 실행하면 빈 화면이 나타납니다. 버튼을 입력하면 코드에 입력된 대로 Primary Key인 ID가 2인 정보가 화면에 나타납니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-setcurrentrow05.png)
 
 <br /><br />
