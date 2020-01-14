@@ -129,7 +129,7 @@ entries:
                 url: /fgc5jsapi_page-class-bind.html
                 output: web, pdf
 
-              - title: Page - bindall
+              - title: Page - unbind
                 url: /fgc5jsapi_page-class-unbind.html
                 output: web, pdf
 
