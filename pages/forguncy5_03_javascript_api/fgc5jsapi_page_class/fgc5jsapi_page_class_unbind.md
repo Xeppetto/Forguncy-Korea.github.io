@@ -1,19 +1,19 @@
 ---
-title: Forguncy API - Page - unbindall
-tags: [Forguncy, JavaScript, API, unbindall]
-keywords: Forguncy API, JavaScript API, unbindall
+title: Forguncy API - Page - unbind
+tags: [Forguncy, JavaScript, API, unbind]
+keywords: Forguncy API, JavaScript API, unbind
 last_updated: Jan 14, 2020
-summary: "Forguncy API - Page 클래스 중 unbindall Method를 설명합니다."
+summary: "Forguncy API - Page 클래스 중 unbind Method를 설명합니다."
 sidebar: forguncy5_sidebar
-permalink: fgc5jsapi_page-class-unbindall.html
+permalink: fgc5jsapi_page-class-unbind.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Page - UnbindAll Method
-page.unbindall (targetPage)
+### Page - Unbind Method
+page.unbind (eventType, fn, targetPage)
 <br /><br />
 
-### UnbindAll Method 설명
+### Unbind Method 설명
 특정 페이지에 이벤트들을 unbind합니다. Event handler를 페이지에서 제거하거나, 발생한 특정 이벤트를 종료시킬 수 있습니다.
 <br /><br />
 
@@ -21,16 +21,20 @@ page.unbindall (targetPage)
 
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
 | --- | --- | --- | --- |
+| eventType | any | 예 | 페이지의 이벤트 유형입니다. 페이지에서 지원하는 이벤트에 대해서는 [PageEvents]() 클래스를 참조하여 주십시오. |
+| fn | function | 아니오 | Event handler를 의미하며, 입력하지 않으실 경우 모든 이벤트에 적용됩니다. |
 | targetPage | string	| 아니오 | 이벤트를 Unbind할 페이지의 이름입니다.<br />전체 페이지에 Unbind하는 경우 "*"를 사용하시면 됩니다.<br />아무 것도 입력하지 않으시면 현재 페이지에만 Unbind합니다. |
 
-<br />
+> 😄 PageEvents 관련 내용은 준비 중입니다.
+
+<!-- <br /><br /> 위 memo를 삭제할 때 comment 제거 -->
 
 ### Response 시 반환값
 없음, void
 <br /><br />
 
 ### 활용 예제
-아래는 page.unbindall을 사용하는 예제입니다. 다음 예제들을 응용하여 페이지 내에서 작동하는 이벤트를 Bind/Unbind 할 수 있습니다.
+아래는 page.unbind을 사용하는 예제입니다. 다음 예제들을 응용하여 페이지 내에서 작동하는 이벤트를 Bind/Unbind 할 수 있습니다.
 <br />
 
 ~~~javascript
@@ -47,14 +51,17 @@ page.unbindall (targetPage)
   //위에서 설정한 이벤트를 페이지에 bind합니다.
   page.bind("Loaded", eventHandler);
   
-  //현재 페이지에 bind된 이벤트들을 모두 unbind all/모두 해제합니다.
-  page.unbindAll();
-  
   //'페이지1'이라는 이름을 가진 페이지에서만 이벤트를 unbind all합니다.
-  page.unbindAll("페이지1");
+  page.unbind("페이지1");
   
-  //모든 페이지에서 이벤트를 unbind all합니다.
-  page.unbindAll("*");
+  //페이지에 설정한 이벤트를 unbind합니다.
+  page.unbind("Loaded", eventHandler);
+
+  //현재 페이지에 binding되어 있는 모든 Event handler의 binding을 unbinding/해제합니다.
+  Forguncy.Page.unbind("Loaded");
+ 
+  //특정 페이지의 모든 Event handler의 binding을 unbinding/해제합니다.
+  Forguncy.Page.unbind("Loaded", eventHandler, "*");
 ~~~
 
 <br />
