@@ -59,7 +59,8 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 3. "페이지1"의 셀에는 myCell1, "페이지2"의 셀에는 myCell2라고 입력합니다. 화면 좌측 위에 입력하시면 됩니다.
 
     ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell01.png)
-
+    <br /><br />
+    
 4. "페이지1"에서 아래와 같이 셀 범위를 선택 > 셀 유형을 "내용이 포함된 셀 타입" 선택 > 하위 페이지로 "페이지2"를 지정합니다.
 
     ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell03.png)

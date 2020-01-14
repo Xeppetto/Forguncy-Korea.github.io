@@ -20,6 +20,8 @@ folder: forguncy5_03_javascript_api
 | [getUserInfo](fgc5jsapi_page-class-getuserinfo.html) | 현재 로그인하여 서비스를 사용 중인 사용자 정보를 가져옵니다. |
 | [getUserName](fgc5jsapi_page-class-getusername.html) | 현재 로그인하여 서비스를 사용 중인 사용자의 이름을 가져옵니다. 로그인한 사용자가 없는 경우 null값을 반환합니다. |
 | [bind](fgc5jsapi_page-class-bind.html) | 특정 페이지에 이벤트들을 bind합니다. 현재 화면에 보이는 페이지, 지정한 특정 페이지 혹은 모든 페이지에 이벤트를 bind할 수 있습니다. |
+| unbind | 특정 이벤트에 대한 bind를 해제합니다. 이 메소드는 선택한 Event handler를 제거하거나, 선택한 이벤트의 실행을 종료시킬 수 있습니다. |
+| [unbindAll](fgc5jsapi_page-class-unbindall.html) | 페이지 내 모든 이벤트들에 대한 bind를 해제합니다. 이 메소드는 Event handler를 제거하거나, 특정 함수의 이벤트 실행을 종료시킬 수 있습니다. |
 | [getCellByLocation](fgc5jsapi_page-class-getcellbylocation.html) | 특정 Cell의 위치 정보를 참조하여 Cell 인스턴스의 속성을 가져옵니다. |
 | [getCell](fgc5jsapi_page-class-getcell.html) | 개별 Cell Name을 기반으로 Cell 인스턴스의 속성을 가져옵니다. |
 | [getCellArray](fgc5jsapi_page-class-getcellarray.html) | 여러 개의 Cell들을 그룹으로 묶어 Cell Group Name을 기반으로 Cell Group 인스턴스의 속성을 가져옵니다. |
@@ -35,7 +37,6 @@ folder: forguncy5_03_javascript_api
 | [resumeCalc](fgc5jsapi_page-class-resumecalc.html) | 페이지 내 작동하지 않는 수식들을 다시 작동하도록 합니다. <br />페이지 내 계산을 일시 중지하기 위해 [suspendCalc](fgc5jsapi_page-class-suspendcalc.html)와 함께 사용하시기를 추천합니다. |
 | [setCurrentRow](fgc5jsapi_page-class-setcurrentrow.html) | Database 특정 값이 들어 있는 행을 지정합니다. 예를 들어, 어떤 데이터가 어떤 테이블의 3번째 행에 들어 있다면, 그 3번째 행의 모든 내용들이 화면의 페이지에 표시될 수 있도록 Database Table의 특정 행을 선택합니다. |
 | [suspendCalc](fgc5jsapi_page-class-suspendcalc.html) | 페이지 내 수식들을 작동하지 않도록 합니다. 페이지 내 계산을 다시 계속하기 위해 [resumeCalc](fgc5jsapi_page-class-resumecalc.html)와 함께 사용하시기를 추천합니다. |
-| unbindAll | 페이지 내 모든 이벤트들에 대한 bind를 해제합니다. 이 메소드는 Event handler를 제거하거나, 특정 함수의 이벤트 실행을 종료시킬 수 있습니다. |
-| unbind | 특정 이벤트에 대한 bind를 해제합니다. 이 메소드는 선택한 Event handler를 제거하거나, 선택한 이벤트의 실행을 종료시킬 수 있습니다. |
+
 
 

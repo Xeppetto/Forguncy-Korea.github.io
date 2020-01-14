@@ -46,6 +46,7 @@ page.bind (type, data, fn, targetPage)
   
   //가져온 현재 페이지를 로딩 시에 arg1, arg2를 사용하는 어떤 함수를 실행하도록 이벤트를 Bind합니다.
   page.bind("loaded", function (arg1, arg2) {
+
     //arg2.현재 페이지 이름을 보여주는 팝업을 표시합니다.
     alert(arg2.pageName);
   });
@@ -58,10 +59,13 @@ page.bind (type, data, fn, targetPage)
 ~~~javascript
   //파라미터로 사용할 변수를 선언하고 값을 지정합니다.
   var text = "ready";
+
   //"페이지1"이라는 이름을 가진 페이지를 불러옵니다.
   var page = Forguncy.Page;
+
   //페이지 이벤트를 Bind합니다.
   page.bind("loaded", text, function (arg1, arg2) {
+
     //arg1.data를 보여주는 팝업을 표시합니다.
     alert(arg1.data);
   }, "페이지1");
@@ -74,8 +78,10 @@ page.bind (type, data, fn, targetPage)
 ~~~javascript
   //화면에 표시되는 페이지를 불러옵니다.
   var page = Forguncy.Page;
+
   //가져온 현재 페이지를 로딩 시에 arg1, arg2를 사용하는 어떤 함수를 실행하도록 이벤트를 Bind합니다.
   page.bind("loaded", function (arg1, arg2) {
+
     //"*"로 선언되어 모든 페이지에 적용되므로, 페이지1일 때는 페이지1의 내용을, 페이지2일 때는 페이지2의 내용을 팝업에 표시합니다.
     alert(arg2.pageName);
   }, "*");
@@ -87,7 +93,8 @@ page.bind (type, data, fn, targetPage)
 
 1. 페이지가 로딩되는 시점에 팝업 메시지를 띄우는 예제를 JavaScript로 생성하여, Forguncy의 특정 페이지(예제에서는 '페이지1'이라는 이름의 페이지)에 불러옵니다.
     ![]({{site.url}}/images/forguncy5/ex-ss_page-bind-01.png)
-
+    <br /><br />
+    
 2. 해당 프로젝트를 실행하면 페이지가 표시되기 전에 해당 Forguncy 페이지의 이름인 '페이지1'이 팝업으로 표시됩니다. 팝업에서 '확인'을 누르면 이후 페이지 내용이 표시됩니다.
     ![]({{site.url}}/images/forguncy5/ex-ss_page-bind-02.png)
 

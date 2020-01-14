@@ -32,7 +32,7 @@ Database 특정 값이 들어 있는 행을 지정합니다. 예를 들어, 어�
 ### 활용 예제
 아래는 page.setCurrentRow를 사용하는 관련 사용 예제입니다. 
 
-JavaScript 예) 데이터 테이블의 특정 조건을 검색 및 이용하여, 테이블의 특정 라인을 선택합니다.
+**JavaScript 예)** 데이터 테이블의 특정 조건을 검색 및 이용하여, 테이블의 특정 라인을 선택합니다.
 <br />
 
 ~~~javascript
@@ -52,7 +52,7 @@ JavaScript 예) 데이터 테이블의 특정 조건을 검색 및 이용하여,
   });
 ~~~
 
-C# 예) Forguncy Plugin을 만들 때 사용할 코드 예제입니다.
+**C# 예)** Forguncy Plugin을 만들 때 사용할 코드 예제입니다.
 
 ~~~c#
   SetCurrentRowCommand.prototype.execute = function () {

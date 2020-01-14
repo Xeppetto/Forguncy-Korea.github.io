@@ -129,6 +129,10 @@ entries:
                 url: /fgc5jsapi_page-class-bind.html
                 output: web, pdf
 
+              - title: Page - unbindall
+                url: /fgc5jsapi_page-class-unbind.html
+                output: web, pdf
+
               - title: Page - getCellByLocation
                 url: /fgc5jsapi_page-class-getcellbylocation.html
                 output: web, pdf
