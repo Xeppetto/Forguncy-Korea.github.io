@@ -18,7 +18,7 @@ folder: forguncy5_03_javascript_api
 | Method 목록 | 상세 설명 |
 | --- | --- |
 | [disable](fgc5jsapi_cell-class-disable.html) | 특정 셀을 비활성화합니다. 셀을 비활성화하면 클릭하거나 사용하실 수 없습니다. 다시 사용하시려면 활성화(enable)하셔야 합니다. |
-| [enable](fgc5jsapi_cell-class-disable.html) | |
+| [enable](fgc5jsapi_cell-class-disable.html) | 특정 셀을 활성화합니다. 셀을 비활성화하시려면 비활성화(disable) 메소드를 사용하셔야 합니다. |
 | [hide](fgc5jsapi_cell-class-hide.html) | |
 | [show](fgc5jsapi_cell-class-show.html) | |
 | [getValue](fgc5jsapi_cell-class-getvalue.html) | |
