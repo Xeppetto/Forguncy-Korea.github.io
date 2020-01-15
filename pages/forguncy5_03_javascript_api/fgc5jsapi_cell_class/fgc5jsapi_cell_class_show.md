@@ -1,20 +1,20 @@
 ---
-title: Forguncy API - Cell - hide
-tags: [Forguncy, JavaScript, API, hide]
-keywords: Forguncy API, JavaScript API, hide
+title: Forguncy API - Cell - show
+tags: [Forguncy, JavaScript, API, show]
+keywords: Forguncy API, JavaScript API, show
 last_updated: Jan 15, 2020
-summary: "Forguncy API - Cell 클래스 중 hide Method를 설명합니다."
+summary: "Forguncy API - Cell 클래스 중 show Method를 설명합니다."
 sidebar: forguncy5_sidebar
-permalink: fgc5jsapi_cell-class-hide.html
+permalink: fgc5jsapi_cell-class-show.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Page - Hide Method
-page.hide()
+### Page - Show Method
+page.show()
 <br /><br />
 
-### Hide Method 설명
-특정 셀을 숨기기합니다. 셀을 숨길 때 셀에 입력된 값과 유형 등은 숨길 수 있지만, 셀의 배경색상은 숨길 수 없습니다. [show()](fgc5jsapi_cell-class-show.html) 메소드와 함께 사용할 수 있습니다.
+### Show Method 설명
+특정 셀을 보이기합니다. 셀에 입력된 값과 유형 등을 보이기합니다. [hide()](fgc5jsapi_cell-class-hide.html) 메소드와 함께 사용할 수 있습니다.
 <br /><br />
 
 ### Parameter 설명
@@ -26,7 +26,7 @@ page.hide()
 <br /><br />
 
 ### 활용 예제
-아래는 page.hide를 사용하는 예제입니다. 버튼을 클릭하면 지정한 셀을 숨기기할 수 있습니다.
+아래는 page.show를 사용하는 예제입니다. 버튼을 클릭하면 지정한 셀을 숨기기할 수 있습니다.
 <br />
 
 ~~~javascript
@@ -37,7 +37,7 @@ page.hide()
   var cell = page.getCell("myCell");
 
   //myCell을 숨기기합니다.
-  cell.hide();
+  cell.show();
 ~~~
 
 <br />
