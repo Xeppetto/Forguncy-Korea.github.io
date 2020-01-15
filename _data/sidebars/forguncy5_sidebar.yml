@@ -122,7 +122,7 @@ entries:
                 output: web, pdf
 
               - title: Cell - enable
-                url: /fgc5jsapi_cell-class-disable.html
+                url: /fgc5jsapi_cell-class-enable.html
                 output: web, pdf
 
               - title: Cell - hide
