@@ -26,7 +26,7 @@ cell.getValue()
 <br /><br />
 
 ### 활용 예제
-아래는 page.getValue를 사용하는 예제입니다. 버튼을 클릭하면 지정된 셀을 비활성화할 수 있습니다.
+아래는 page.getValue를 사용하는 예제입니다. 특정 셀의 값을 불러올 수 있습니다.
 <br />
 
 ~~~javascript
@@ -48,10 +48,12 @@ cell.getValue()
 ### Forguncy 사용 예제
 
 1. 페이지를 한 개 생성하고, 셀에 텍스르를 입력합니다. 이후 좌측상단의 Cell Name에 myCell이라고 입력해 줍니다.
+
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-getvalue01.png)
     <br /><br />
 
 2. 버튼을 생성하여 아래와 같이 "자바스크립트로 직접 프로그래밍하기" 명령을 생성하고, 코드를 입력합니다.
+
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-getvalue02.png)
     <br /><br />
 

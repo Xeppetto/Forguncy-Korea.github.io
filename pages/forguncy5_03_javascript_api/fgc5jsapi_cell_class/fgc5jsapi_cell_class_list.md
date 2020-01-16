@@ -19,9 +19,9 @@ folder: forguncy5_03_javascript_api
 | --- | --- |
 | [disable](fgc5jsapi_cell-class-disable.html) | 특정 셀을 비활성화합니다. 셀을 비활성화하면 클릭하거나 사용하실 수 없습니다. 다시 사용하시려면 활성화(enable)하셔야 합니다. |
 | [enable](fgc5jsapi_cell-class-disable.html) | 특정 셀을 활성화합니다. 셀을 비활성화하시려면 비활성화(disable) 메소드를 사용하셔야 합니다. |
-| [hide](fgc5jsapi_cell-class-hide.html) | |
-| [show](fgc5jsapi_cell-class-show.html) | |
-| [getValue](fgc5jsapi_cell-class-getvalue.html) | |
+| [hide](fgc5jsapi_cell-class-hide.html) | 특정 셀을 숨기기합니다. 셀을 숨길 때 셀에 입력된 값과 유형 등은 숨길 수 있지만, 셀의 배경색상은 숨길 수 없습니다. [show()](fgc5jsapi_cell-class-show.html) 메소드와 함께 사용할 수 있습니다. |
+| [show](fgc5jsapi_cell-class-show.html) | 특정 셀을 보이기합니다. 셀에 입력된 값과 유형 등을 보이기합니다. [hide()](fgc5jsapi_cell-class-hide.html) 메소드와 함께 사용할 수 있습니다. |
+| [getValue](fgc5jsapi_cell-class-getvalue.html) | 특정 셀에 입력된 값을 가져옵니다. 셀의 값을 가져와 여러가지 작업을 수행할 수 있습니다. |
 | [setValue](fgc5jsapi_cell-class-setvalue.html) | |
 | [bind](fgc5jsapi_cell-class-bind.html) | |
 | [unbind](fgc5jsapi_cell-class-unbind.html) | |

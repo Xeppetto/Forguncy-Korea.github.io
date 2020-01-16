@@ -47,14 +47,17 @@ cell.show()
 ※참고 : show와 hide는 한 세트이므로 같은 예제가 구성되어 있습니다.
 
 1. 페이지를 한 개 생성하고, 아무 유형이나 선택해 셀을 하나 생성합니다. 이후 좌측상단의 Cell Name에 'myCell'이라고 입력해 줍니다.
+
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-hide01.png)
     <br /><br />
 
 2. 버튼을 생성하여 아래와 같이 "자바스크립트로 직접 프로그래밍하기" 명령을 생성하고, 코드를 입력합니다.
+
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-hide02.png)
     <br /><br />
 
 3. 또 다른 버튼을 추가로 생성하여 아래와 같이 "자바스크립트로 직접 프로그래밍하기" 명령을 생성하고, 코드를 입력합니다.
+
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-hide03.png)
     <br /><br />
 
