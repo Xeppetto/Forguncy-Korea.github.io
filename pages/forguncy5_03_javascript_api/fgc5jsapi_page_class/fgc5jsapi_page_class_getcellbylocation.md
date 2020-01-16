@@ -81,7 +81,7 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
     
 3. 해당 프로젝트를 실행한 후, 버튼을 클릭하면 아래와 같이 Row 2, Column 3 위치에 배경색상이 변경됩니다.
     
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellbylocation02.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellbylocation02.gif)
     <br /><br />
 
 4. Forguncy에서는 A Column을 0, 1 Row를 0으로 Index 값을 가지며, 이를 기준으로 Cell의 위치를 계산합니다.<br />

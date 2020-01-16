@@ -71,6 +71,6 @@ page.ready(fn)
 
 4. 해당 프로젝트를 실행하여 버튼을 클릭하면 아래와 같이 현재 사용자의 이름이 나타납니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-ready04.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-ready04.gif)
 
 <br /><br />

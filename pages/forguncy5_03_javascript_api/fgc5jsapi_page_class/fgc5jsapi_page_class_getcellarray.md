@@ -92,6 +92,6 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 5. 웹브라우저에서 아래와 같이 '버튼'을 클릭하면, 10이라는 팝업창이 나타납니다.<br />
     myCell로 지정된 Cell의 영역이 총 10개이므로, myCell이라는 영역의 길이는 10으로 나타납니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray05.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcellarray05.gif)
 
 <br /><br />

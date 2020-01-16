@@ -57,7 +57,7 @@ string : 사용자의 이름을 반환
 
 3. 프로젝트를 실행하여 버튼을 누르면 getUserName을 화면에 표시합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getusername03.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getusername03.gif)
 
 
 <br /><br />

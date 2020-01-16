@@ -96,6 +96,6 @@ page.bind (type, data, fn, targetPage)
     <br /><br />
     
 2. 해당 프로젝트를 실행하면 페이지가 표시되기 전에 해당 Forguncy 페이지의 이름인 '페이지1'이 팝업으로 표시됩니다. 팝업에서 '확인'을 누르면 이후 페이지 내용이 표시됩니다.
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-bind-02.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-bind-02.gif)
 
 <br /><br />

@@ -81,6 +81,6 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 
 5. 해당 프로젝트를 실행하고, 버튼을 누르면 getContinerCells는 두 개의 셀 유형을 감지하여 2를 보여줍니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcontainercells05.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcontainercells05.gif)
 
 <br /><br />

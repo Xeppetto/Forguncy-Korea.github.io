@@ -92,6 +92,6 @@ Database 특정 값이 들어 있는 행을 지정합니다. 예를 들어, 어�
 
 4. 해당 프로젝트를 실행하면 빈 화면이 나타납니다. 버튼을 입력하면 코드에 입력된 대로 Primary Key인 ID가 2인 정보가 화면에 나타납니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-setcurrentrow05.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-setcurrentrow05.gif)
 
 <br /><br />

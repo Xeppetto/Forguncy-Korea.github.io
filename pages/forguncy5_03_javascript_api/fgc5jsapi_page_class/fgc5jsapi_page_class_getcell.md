@@ -78,6 +78,6 @@ Cell 속성을 반환합니다. 자세한 내용은 Cell[]을 참고하세요.
 
 6. 해당 프로젝트를 실행하고, 버튼을 누르면 myCell1과 myCell2에 각각 Forguncy1, Forguncy2라고 입력됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell04.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getcell04.gif)
 
 <br /><br />

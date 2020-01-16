@@ -61,6 +61,6 @@ string : 마스터페이지의 이름을 반환
 
 4. 프로젝트를 실행하여 버튼을 누르면 해당 페이지에 설정했었던 마스터 페이지의 이름이 화면에 표시됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getmasterpagename04.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getmasterpagename04.gif)
 
 <br /><br />

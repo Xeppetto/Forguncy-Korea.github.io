@@ -66,6 +66,6 @@ ListView 속성을 반환합니다. 자세한 내용은 ListView[]를 참고하�
 
 3. 프로젝트를 실행하여 버튼을 누르면 getListViews에서 화면의 ListView 개수를 화면에 표시합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-getlistviews03.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-getlistviews03.gif)
 
 <br /><br />

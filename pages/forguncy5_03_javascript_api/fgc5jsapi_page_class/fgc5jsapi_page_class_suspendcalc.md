@@ -79,7 +79,7 @@ page.suspendCalc()
     (3) resumeCalc를 적용한 버튼을 클릭합니다.<br />
     (4) 입력 상자에 아무거나 입력 후 Enter키를 누릅니다. ▶ 값이 입력한 대로 변하면 성공입니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc07.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_page-resumecalc07.gif)
     <br /><br />
 
 <br /><br />
