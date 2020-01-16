@@ -277,7 +277,12 @@ entries:
               - title: Page - resumeCalc
                 url: /fgc5jsapi_page-class-resumecalc.html
                 output: web, pdf
-      - title: Overview
-        url: /forguncy5_faq_general.html
+
+      - title: F.A.Q.
         output: web, pdf
+        folderitems:
+          - title: Forguncy 제품관련 FAQ
+            url: /forguncy5_faq_general.html
+            output: web, pdf
+        
       
