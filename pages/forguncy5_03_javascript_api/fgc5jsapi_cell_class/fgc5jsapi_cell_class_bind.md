@@ -77,16 +77,16 @@ cell.bind (type, data, fn)
 
 1. 페이지 한 개를 생성하고, 버튼을 생성한 후 왼쪽 위 Cell Name에 button이라고 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind-01.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind01.png)
     <br /><br />
 
 2. 해당 버튼에 "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind-02.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind02.png)
     <br /><br />
     
 3. 해당 프로젝트를 실행하고 버튼을 클릭하면 화면에 지정한 이벤트의 문자열이 화면에 표시됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind-03.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind03.gif)
 
 <br /><br />

@@ -1,16 +1,16 @@
 ---
-title: Forguncy API - Cell - unbind
-tags: [Forguncy, JavaScript, API, unbind]
-keywords: Forguncy API, JavaScript API, unbind
+title: Forguncy API - Cell - Unbind
+tags: [Forguncy, JavaScript, API, Unbind]
+keywords: Forguncy API, JavaScript API, Unbind
 last_updated: Jan 16, 2020
-summary: "Forguncy API - Cell 클래스 중 unbindaMethod를 설명합니다."
+summary: "Forguncy API - Cell 클래스 중 Unbind Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_cell-class-unbind.html
 folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - Unbind Method
-cell.unbind (targetPage)
+cell.unbind(type, fn)
 <br /><br />
 
 ### Unbind Method 설명
