@@ -61,26 +61,26 @@ cell.unbind(type, fn)
 
 1. 페이지 한 개를 생성하고, 버튼을 생성한 후 왼쪽 위 Cell Name에 button이라고 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind-01.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind01.png)
     <br /><br />
 
 2. 해당 버튼에 "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind-02.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind02.png)
     <br /><br />
     
 3. 해당 프로젝트를 실행하고 버튼을 클릭하면 화면에 지정한 이벤트의 문자열이 화면에 표시됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind-03.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind03.gif)
     <br /><br />
 
 4. 해당 버튼의 자바스크립트 명령에 unbind 코드를 추가합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-unbind-04.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-unbind04.png)
     <br /><br />
 
 5. 해당 프로젝트를 실행하고 버튼을 클릭해도 아무런 이벤트가 발생하지 않습니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-unbind-05.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-unbind05.gif)
 
 <br /><br />
