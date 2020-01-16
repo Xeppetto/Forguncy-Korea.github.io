@@ -17,7 +17,10 @@ Forguncy는 웹개발에 대한 지식이 없는 사람들도 Excel을 사용하
 사용 중에 기술 문의 또는 구매에 대한 상담이 필요하실 경우, 언제든지 연락 부탁드립니다.
 <br /><br />
 
-**기술문의:** [support-kor@grapecity.com](mailto:support-kor@grapecity.com) <br />
-**구매문의:** [sales-kor@grapecity.com](mailto:sales-kor@grapecity.com)<br />
-**전화번호:** [1670-0583](telto:1670-0583)<br />
+**ㆍ기술문의:** [support-kor@grapecity.com](mailto:support-kor@grapecity.com) <br />
+
+**ㆍ구매문의:** [sales-kor@grapecity.com](mailto:sales-kor@grapecity.com)<br />
+
+**ㆍ전화번호:** [1670-0583](telto:1670-0583)<br />
+
 <br /><br />
