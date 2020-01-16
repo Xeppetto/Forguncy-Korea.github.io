@@ -38,11 +38,13 @@ folder: forguncy5_90_frequently_asked_questions
 
 ### 그 외) 알리는 말씀
 
-* 고객으로부터 들어오는 잦은 질문들에 대해 답변을 준비 중입니다. 글이 길어지는 경우 세부적인 카테고리로 나누어질 수 있습니다. 
+* 고객으로부터 들어오는 잦은 질문들에 대해 최선을 다해 답변을 준비하고 있습니다. 글이 길어지는 경우 세부적인 카테고리로 나누어질 수 있습니다. 
 
-    구입 문의나 기술지원 문의는 아래와 연락처로 연락 부탁드립니다.
+    제품에 대한 구입 문의나 기술지원 문의는 아래와 연락처로 연락 부탁드립니다.
 
     * 그레이프시티 코리아 영업 대표: [sales-kor@grapecity.com](mailto:sales-kor@grapecity.com)
     * 그레이프시티 코리아 기술지원([support-kor@grapecity.com](mailto:support-kor@grapecity.com)
+
+    그레이프시티 제품을 사용해 주셔서 감사합니다.
 
 <br /><br />
