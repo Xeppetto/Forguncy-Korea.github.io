@@ -9,7 +9,7 @@ permalink: fgc5jsapi_cell-class-list.html
 folder: forguncy5_03_javascript_api
 ---
 
-## Page Cell 목록 설명
+## Cell Class 목록 설명
 본 페이지에서는 Cell Class 전체 Method 목록을 표시합니다.
 <br /><br />
 

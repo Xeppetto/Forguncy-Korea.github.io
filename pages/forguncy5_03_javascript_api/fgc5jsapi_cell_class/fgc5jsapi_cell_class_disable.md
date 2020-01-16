@@ -9,8 +9,8 @@ permalink: fgc5jsapi_cell-class-disable.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Page - Disable Method
-page.disable()
+### Cell - Disable Method
+cell.disable()
 <br /><br />
 
 ### Disable Method 설명

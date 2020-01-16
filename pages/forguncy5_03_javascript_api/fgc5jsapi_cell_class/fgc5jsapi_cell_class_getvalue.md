@@ -9,12 +9,12 @@ permalink: fgc5jsapi_cell-class-getvalue.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Page - getValue Method
-page.getValue()
+### Cell - getValue Method
+cell.getValue()
 <br /><br />
 
 ### getValue Method 설명
-특정 셀을 활성화합니다. 셀을 비활성화하시려면 비활성화(disable) 메소드를 사용하셔야 합니다.
+특정 셀에 입력된 값을 가져옵니다. 셀의 값을 가져와 여러가지 작업을 수행할 수 있습니다.
 <br /><br />
 
 ### Parameter 설명

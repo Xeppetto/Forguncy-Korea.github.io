@@ -9,8 +9,8 @@ permalink: fgc5jsapi_cell-class-enable.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Page - Enable Method
-page.enable()
+### Cell - Enable Method
+cell.enable()
 <br /><br />
 
 ### Enable Method 설명

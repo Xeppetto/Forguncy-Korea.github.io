@@ -9,8 +9,8 @@ permalink: fgc5jsapi_cell-class-hide.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Page - Hide Method
-page.hide()
+### Cell - Hide Method
+cell.hide()
 <br /><br />
 
 ### Hide Method 설명

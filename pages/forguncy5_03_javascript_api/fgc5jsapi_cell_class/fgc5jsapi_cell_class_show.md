@@ -9,8 +9,8 @@ permalink: fgc5jsapi_cell-class-show.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Page - Show Method
-page.show()
+### Cell - Show Method
+cell.show()
 <br /><br />
 
 ### Show Method 설명
