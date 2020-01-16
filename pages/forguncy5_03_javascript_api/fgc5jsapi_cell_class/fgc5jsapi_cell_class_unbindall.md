@@ -1,16 +1,16 @@
 ---
-title: Forguncy API - Cell - UnbindAll
-tags: [Forguncy, JavaScript, API, UnbindAll]
-keywords: Forguncy API, JavaScript API, UnbindAll
+title: Forguncy API - Cell - unbindAll
+tags: [Forguncy, JavaScript, API, unbindAll]
+keywords: Forguncy API, JavaScript API, unbindAll
 last_updated: Jan 16, 2020
-summary: "Forguncy API - Cell 클래스 중 UnbindAll Method를 설명합니다."
+summary: "Forguncy API - Cell 클래스 중 unbindAll Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_cell-class-unbindall.html
 folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - UnbindAll Method
-cell.unbindall()
+cell.unbindAll을()
 <br /><br />
 
 ### Unbind Method 설명
@@ -26,7 +26,7 @@ cell.unbindall()
 <br /><br />
 
 ### 활용 예제
-아래는 cell.unbindall을 사용하는 예제입니다. cell.bind 메소드에서 사용한 예제를 unbind하여 작동하지 않도록 합니다.
+아래는 cell.unbindAll을 사용하는 예제입니다. cell.bind 메소드에서 사용한 예제를 unbind하여 작동하지 않도록 합니다.
 <br />
 
 ~~~javascript
