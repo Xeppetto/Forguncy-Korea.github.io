@@ -24,7 +24,7 @@ folder: forguncy5_03_javascript_api
 | [getValue](fgc5jsapi_cell-class-getvalue.html) | 특정 셀에 입력된 값을 가져옵니다. 셀의 값을 가져와 여러가지 작업을 수행할 수 있습니다. |
 | [setValue](fgc5jsapi_cell-class-setvalue.html) | 지정한 특정 셀에 지정한 값을 입력합니다. 값은 임의의 값일 수 있으며, 웹에서 표현할 수 있는 형식이라면 제한이 없습니다. |
 | [bind](fgc5jsapi_cell-class-bind.html) | 선택한 특정 셀에 한 개 이상의 이벤트를 bind하고, 이벤트 발생 시 실행할 함수를 지정합니다. |
-| [unbind](fgc5jsapi_cell-class-unbind.html) | |
+| [unbind](fgc5jsapi_cell-class-unbind.html) | 선택한 셀에 지정된 이벤트들을 unbind/해제하거나, 발생한 특정 이벤트를 종료시킬 수 있습니다. |
 | [unbindall](fgc5jsapi_cell-class-unbindall.html) | |
 | [getActiveTabIndex](fgc5jsapi_cell-class-getactivetabindex.html) | |
 | [getContentPage](fgc5jsapi_cell-class-getcontentpage.html) | |

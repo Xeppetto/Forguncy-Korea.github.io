@@ -85,7 +85,7 @@ cell.bind (type, data, fn)
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind-02.png)
     <br /><br />
     
-3. 해당 프로젝트를 실행하고, 버튼을 클릭하면 화면에 지정한 이벤트의 문자열이 화면에 표시됩니다.
+3. 해당 프로젝트를 실행하고 버튼을 클릭하면 화면에 지정한 이벤트의 문자열이 화면에 표시됩니다.
 
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-bind-03.gif)
 
