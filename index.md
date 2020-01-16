@@ -15,7 +15,9 @@ Forguncy는 웹개발에 대한 지식이 없는 사람들도 Excel을 사용하
 본 트레이닝 센터에서는 Forguncy의 **라이선스 인증 방법부터 개발, 배포**에 이르는 전반적인 내용을 학습하실 수 있으며, 이를 통해 **Forguncy로 웹개발을 하는 웹개발자**로의 여정에 사용자와 함께 합니다.
 
 사용 중에 기술 문의 또는 구매에 대한 상담이 필요하실 경우, 언제든지 연락 부탁드립니다.
+<br /><br />
 
-  * **기술문의:** [support-kor@grapecity.com](mailto:support-kor@grapecity.com)
-  * **구매문의:** [sales-kor@grapecity.com](mailto:sales-kor@grapecity.com)
-  * **전화번호:** [1670-0583](telto:1670-0583)
+**기술문의:** [support-kor@grapecity.com](mailto:support-kor@grapecity.com) <br />
+**구매문의:** [sales-kor@grapecity.com](mailto:sales-kor@grapecity.com)<br />
+**전화번호:** [1670-0583](telto:1670-0583)<br />
+<br /><br />
