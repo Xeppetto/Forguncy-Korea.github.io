@@ -247,11 +247,11 @@ entries:
                 output: web, pdf
 
               - title: Page - getPageName
-                url: /fgc5jsapi_page-class-getPageName.html
+                url: /fgc5jsapi_page-class-getpagename.html
                 output: web, pdf
 
               - title: Page - getMasterPageName
-                url: /fgc5jsapi_page-class-getMasterPageName.html
+                url: /fgc5jsapi_page-class-getmasterpagename.html
                 output: web, pdf
 
               - title: Page - getSubPageInfoByPageID

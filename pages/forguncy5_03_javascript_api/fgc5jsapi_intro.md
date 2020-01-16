@@ -69,9 +69,9 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 
 | Class | 상세 설명 |
 | --- | --- |
-| Cell | Cell Object를 관련 Class입니다. |
+| [Cell](fgc5jsapi_cell-class-list.html) | Cell Object를 관련 Class입니다. |
 | CellEvents | Cell에서 사용할 수 있는 이벤트 관련 Class입니다. |
-| Page | Page Object를 관련 Class입니다. |
+| [Page](fgc5jsapi_page-class-list.html) | Page Object를 관련 Class입니다. |
 | Helper | Helper Method와 관련한 정보들의 속성을 제공하는 Class입니다. |
 | ListView | ListView Object를 관련 Class입니다. |
 | ListViewEvents | ListView에서 사용할 수 있는 이벤트를 설정하는 Class입니다. |
