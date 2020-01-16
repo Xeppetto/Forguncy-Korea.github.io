@@ -1,16 +1,16 @@
 ---
-title: Forguncy API - Page - unbindall
+title: Forguncy API - Cell - unbindall
 tags: [Forguncy, JavaScript, API, unbindall]
 keywords: Forguncy API, JavaScript API, unbindall
-last_updated: Jan 14, 2020
-summary: "Forguncy API - Page 클래스 중 unbindall Method를 설명합니다."
+last_updated: Jan 16, 2020
+summary: "Forguncy API - Cell 클래스 중 unbindall Method를 설명합니다."
 sidebar: forguncy5_sidebar
-permalink: fgc5jsapi_page-class-unbindall.html
+permalink: fgc5jsapi_cell-class-unbindall.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Page - UnbindAll Method
-page.unbindall (targetPage)
+### Cell - UnbindAll Method
+cell.unbindall (targetPage)
 <br /><br />
 
 ### UnbindAll Method 설명
@@ -30,7 +30,7 @@ page.unbindall (targetPage)
 <br /><br />
 
 ### 활용 예제
-아래는 page.unbindall을 사용하는 예제입니다. 다음 예제들을 응용하여 페이지 내에서 작동하는 이벤트를 Bind/Unbind 할 수 있습니다.
+아래는 cell.unbindall을 사용하는 예제입니다. 다음 예제들을 응용하여 페이지 내에서 작동하는 이벤트를 Bind/Unbind 할 수 있습니다.
 <br />
 
 ~~~javascript

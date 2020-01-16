@@ -26,7 +26,7 @@ cell.getValue()
 <br /><br />
 
 ### 활용 예제
-아래는 page.getValue를 사용하는 예제입니다. 특정 셀의 값을 불러올 수 있습니다.
+아래는 cell.getValue를 사용하는 예제입니다. 특정 셀의 값을 불러올 수 있습니다.
 <br />
 
 ~~~javascript

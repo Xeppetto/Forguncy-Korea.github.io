@@ -30,7 +30,7 @@ cell.setValue(value)
 <br /><br />
 
 ### 활용 예제
-아래는 page.setValue를 사용하는 예제입니다. 지정한 특정 셀에 값을 입력합니다.
+아래는 cell.setValue를 사용하는 예제입니다. 지정한 특정 셀에 값을 입력합니다.
 <br />
 
 ~~~javascript
