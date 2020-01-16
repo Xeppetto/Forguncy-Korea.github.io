@@ -9,7 +9,7 @@ permalink: forguncy5_faq_general.html
 folder: forguncy5_90_frequently_asked_questions
 ---
 
-### Q) Forguncy는 어디에 가장 강력한가요?
+### Q) Forguncy는 왜 도입해야 하나요?
     
 * 다음 중 하나에 해당하시면 Forguncy 도입을 고려해 보세요. Forguncy는 어떻게 사용하느냐에 따라 아래 문제들을 효율적으로 해결해 줍니다.
 
