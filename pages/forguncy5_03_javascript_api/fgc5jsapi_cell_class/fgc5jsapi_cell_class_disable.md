@@ -2,7 +2,7 @@
 title: Forguncy API - Cell - disable
 tags: [Forguncy, JavaScript, API, disable]
 keywords: Forguncy API, JavaScript API, disable
-last_updated: Jan 14, 2020
+last_updated: Jan 16, 2020
 summary: "Forguncy API - Cell 클래스 중 disable Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_cell-class-disable.html
@@ -54,7 +54,7 @@ page.disable()
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-disable02.png)
     <br /><br />
 
-3. 또 라른 버튼을 하나 추가로 생성하여 아래와 같이 "자바스크립트로 직접 프로그래밍하기" 명령을 생성하고, 코드를 입력합니다.
+3. 또 다른 버튼을 하나 추가로 생성하여 아래와 같이 "자바스크립트로 직접 프로그래밍하기" 명령을 생성하고, 코드를 입력합니다.
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-disable03.png)
     <br /><br />
 

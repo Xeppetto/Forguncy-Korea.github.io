@@ -2,7 +2,7 @@
 title: Forguncy API - Cell - enable
 tags: [Forguncy, JavaScript, API, enable]
 keywords: Forguncy API, JavaScript API, enable
-last_updated: Jan 14, 2020
+last_updated: Jan 16, 2020
 summary: "Forguncy API - Cell 클래스 중 enable Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_cell-class-enable.html
@@ -44,23 +44,24 @@ page.enable()
 
 ### Forguncy 사용 예제
 
-1. 페이지를 한 개 생성하고, "하이퍼링크" 셀을 하나 생성합니다. 이후 좌측상단의 Cell Name에 'hyperlink'라고 입력해 줍니다.
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-enable01.png)
+※참고 : disable과 enable은 한 세트이므로 같은 예제가 구성되어 있습니다.
+
+1. 페이지를 한 개 생성하고, 체크박스 셀을 하나 생성합니다. 이후 좌측상단의 Cell Name에 checkbox라고 입력해 줍니다.
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-disable01.png)
     <br /><br />
 
-2. 하이퍼링크 셀을 선택하고 오른쪽 '셀 유형' 탭을 선택하고 "기타 > 비활성화하기"를 선택합니다.<br />
-    이렇게 선택하면 해당 셀은 웹페이지 시작 시 비활성화된 상태로 표시됩니다.
-
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-enable02.png)
+2. 버튼을 생성하여 아래와 같이 "자바스크립트로 직접 프로그래밍하기" 명령을 생성하고, 코드를 입력합니다.
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-disable02.png)
     <br /><br />
 
-3. 버튼을 생성하여 아래와 같이 "자바스크립트로 직접 프로그래밍하기" 명령을 생성하고, 코드를 입력합니다.
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-enable03.png)
+3. 또 다른 버튼을 하나 추가로 생성하여 아래와 같이 "자바스크립트로 직접 프로그래밍하기" 명령을 생성하고, 코드를 입력합니다.
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-disable03.png)
     <br /><br />
 
-4. 해당 프로젝트를 실행하면 하이퍼링크가 비활성화된 상태로 마우스 커서를 올려도 변하지 않습니다.<br />
-    이후 버튼을 클릭하면 하이퍼링크가 활성화되며, 마우스 커서를 올리면 손가락 모양으로 클릭할 수 있게 표시됩니다.
+4. 해당 프로젝트를 실행하고 체크박스를 클릭할 수 있는 지 확인합니다.<br />
+    Disable 버튼을 클릭하면 체크박스가 회색으로 변경되며, 클릭이 불가능하게 변경됩니다.<br />
+    Enable 버튼을 클릭하면 체크박스가 다시 클릭 가능한 상태로 변경됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-enable04.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-disable04.gif)
 
 <br /><br />
