@@ -44,6 +44,8 @@ page.disable()
 
 ### Forguncy 사용 예제
 
+※참고 : disable과 enable은 한 세트이므로 같은 예제가 구성되어 있습니다.
+
 1. 페이지를 한 개 생성하고, 체크박스 셀을 하나 생성합니다. 이후 좌측상단의 Cell Name에 checkbox라고 입력해 줍니다.
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-disable01.png)
     <br /><br />
@@ -52,8 +54,14 @@ page.disable()
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-disable02.png)
     <br /><br />
 
-3. 해당 프로젝트를 실행하고 체크박스를 클릭할 수 있는 지 확인합니다.<br />
-    이후 버튼을 클릭하면 체크박스가 회색으로 변경되며, 클릭이 불가능하게 변경됩니다.
+3. 또 라른 버튼을 하나 추가로 생성하여 아래와 같이 "자바스크립트로 직접 프로그래밍하기" 명령을 생성하고, 코드를 입력합니다.
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-disable03.png)
+    <br /><br />
+
+4. 해당 프로젝트를 실행하고 체크박스를 클릭할 수 있는 지 확인합니다.<br />
+    Disable 버튼을 클릭하면 체크박스가 회색으로 변경되며, 클릭이 불가능하게 변경됩니다.<br />
+    Enable 버튼을 클릭하면 체크박스가 다시 클릭 가능한 상태로 변경됩니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-disable04.gif)
 
 <br /><br />
