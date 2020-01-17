@@ -26,7 +26,7 @@ cell.getTabCount()
 <br /><br />
 
 ### 활용 예제
-아래는 cell.getTabCount를 사용하는 예제입니다. 전체 탭의 수를 보여줍니다.
+아래는 cell.getTabCount를 사용하는 예제입니다. 페이지 내 탭 컨트롤 셀 유형에 포함된 전체 탭의 수를 보여줍니다.
 <br />
 
 ~~~javascript
@@ -49,7 +49,7 @@ cell.getTabCount()
 
 1. 페이지를 여러 개 생성합니다. 예제에서는 총 5개의 페이지를 생성했습니다.<br />
     '페이지2 ~ 페이지5'까지는 그림이나 텍스트 등 컨텐츠를 입력합니다. 
-    
+
     ![]({{site.url}}/images/forguncy5/ex-ss_cell-getactivetabindex01.png)
     <br /><br />
 
