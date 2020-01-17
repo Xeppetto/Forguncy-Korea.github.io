@@ -48,25 +48,26 @@ cell.showTab()
 
 ### Forguncy 사용 예제
 
-1. 페이지를 두 개 생성합니다. 첫 번 째 페이지에는 "페이지 내 탭 컨트롤 셀"을 선택합니다.<br />
-    화면 왼쪽 상단의 Cell Name에 tabControl이라고 이름을 붙여줍니다.
+1. 페이지를 여러 개 생성합니다. 예제에서는 총 5개의 페이지를 생성했습니다.<br />
+    '페이지2 ~ 페이지5'까지는 그림이나 텍스트 등 컨텐츠를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-gettabpage01.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-getactivetabindex01.png)
     <br /><br />
 
-2. 두 번 째 페이지에는 아무 컨텐츠나 컨텐츠를 넣어 줍니다. 예제에서는 화면 내 결과 출력을 위해 텍스트를 입력했습니다. <br />
-    이후 페이지 왼쪽 위에 해당 Cell Name을 myCell이라고 적어줍니다.
+2. '페이지1'에 "페이지 내 탭 컨트롤 셀" 유형의 셀을 생성합니다. <br />
+    오른쪽 '셀 유형'에 "탭"을 '페이지2 ~ 페이지5'까지 나타나도록 지정합니다.<br />
+    이후 페이지 왼쪽 위에 해당 Cell Name을 tabControl이라고 적어줍니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-getcontainerpage02.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-getactivetabindex02.png)
     <br /><br />
 
 3. 페이지 내에 버튼을 한 개 추가하고, 해당 버튼에 "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-gettabcount03.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-showtab03.png)
     <br /><br />
     
-4. 해당 프로젝트를 실행하고 탭을 이동하면서 버튼을 클릭하면 지정한 Tab Index 탭의 특정 셀 내용이 화면에 표시됩니다.
+4. 해당 프로젝트를 실행하고 탭을 이동하면서 버튼을 클릭하면 지정한 Tab Index 탭이 활성화되어 화면에 표시됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-gettabcount04.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-showtab04.gif)
 
 <br /><br />
