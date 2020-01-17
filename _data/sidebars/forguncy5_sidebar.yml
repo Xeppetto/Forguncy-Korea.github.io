@@ -281,7 +281,7 @@ entries:
       - title: F.A.Q.
         output: web, pdf
         folderitems:
-          - title: Forguncy 제품관련 FAQ
+          - title: Forguncy 제품 관련 FAQ
             url: /forguncy5_faq_general.html
             output: web, pdf
         

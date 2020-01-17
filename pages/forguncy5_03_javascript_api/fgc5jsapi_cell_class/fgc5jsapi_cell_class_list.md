@@ -27,7 +27,7 @@ folder: forguncy5_03_javascript_api
 | [unbind](fgc5jsapi_cell-class-unbind.html) | 선택한 셀에 지정된 이벤트들을 unbind/해제하거나, 발생한 특정 이벤트를 종료시킬 수 있습니다. |
 | [unbindall](fgc5jsapi_cell-class-unbindall.html) | 모든 셀에 지정된 이벤트들을 모두 unbind/해제하거나, 발생한 모든 이벤트를 종료시킬 수 있습니다. |
 | [getActiveTabIndex](fgc5jsapi_cell-class-getactivetabindex.html) | 탭페이지 셀 유형을 사용할 때, 활성화된 탭의 index 번호를 가져옵니다. |
-| [getContentPage](fgc5jsapi_cell-class-getcontentpage.html) | |
+| [getContentPage](fgc5jsapi_cell-class-getcontentpage.html) | "내용이 포함된 셀" 유형을 사용하는 경우, 내용란에 들어가는 하위 페이지 객체를 가져옵니다. |
 | [getTabCount](fgc5jsapi_cell-class-gettabcount.html) | |
 | [getTabPage](fgc5jsapi_cell-class-gettabpage.html) | |
 | [showTab](fgc5jsapi_cell-class-showtab.html) | |
