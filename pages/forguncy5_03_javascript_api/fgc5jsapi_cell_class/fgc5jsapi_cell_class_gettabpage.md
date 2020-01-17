@@ -68,11 +68,11 @@ cell.getTabPage()
 
 3. 페이지 내에 버튼을 한 개 추가하고, 해당 버튼에 "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-gettapage03.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-getabpage03.png)
     <br /><br />
     
 4. 해당 프로젝트를 실행하고 탭을 이동하면서 버튼을 클릭하면 지정한 Tab Index 탭의 특정 셀 내용이 화면에 표시됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-gettapage04.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-getabpage04.gif)
 
 <br /><br />
