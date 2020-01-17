@@ -28,9 +28,9 @@ folder: forguncy5_03_javascript_api
 | [unbindall](fgc5jsapi_cell-class-unbindall.html) | 모든 셀에 지정된 이벤트들을 모두 unbind/해제하거나, 발생한 모든 이벤트를 종료시킬 수 있습니다. |
 | [getTabCount](fgc5jsapi_cell-class-gettabcount.html) | 아래는 cell.getTabCount를 사용하는 예제입니다. 전체 탭의 수를 보여줍니다. |
 | [getActiveTabIndex](fgc5jsapi_cell-class-getactivetabindex.html) | 탭페이지 셀 유형을 사용할 때, 활성화된 탭의 index 번호를 가져옵니다. |
+| [showTab](fgc5jsapi_cell-class-showtab.html) | "페이지 내 탭 컨트롤 셀" 유형을 사용하여 지정한 탭을 화면에 활성화합니다. |
 | [getTabPage](fgc5jsapi_cell-class-gettabpage.html) | 탭의 index 번호를 입력합니다. 탭의 index는 0부터 시작합니다. |
 | [getContentPage](fgc5jsapi_cell-class-getcontentpage.html) | "내용이 포함된 셀" 유형을 사용하는 경우, 내용란에 들어가는 하위 페이지 객체를 가져옵니다. |
-| [showTab](fgc5jsapi_cell-class-showtab.html) | |
 | [hasFocus](fgc5jsapi_cell-class-hasfocus.html) | |
 | [setFocus](fgc5jsapi_cell-class-setfocus.html) | |
 | [setBackColor](fgc5jsapi_cell-class-setbackcolor.html) | |

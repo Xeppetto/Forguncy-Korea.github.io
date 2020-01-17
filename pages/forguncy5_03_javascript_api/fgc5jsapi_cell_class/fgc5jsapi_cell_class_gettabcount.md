@@ -22,7 +22,7 @@ cell.getTabCount()
 <br /><br />
 
 ### Response 시 반환값
-없음
+없음, void
 <br /><br />
 
 ### 활용 예제

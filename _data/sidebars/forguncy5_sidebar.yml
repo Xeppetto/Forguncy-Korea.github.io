@@ -161,16 +161,16 @@ entries:
                 url: /fgc5jsapi_cell-class-getactivetabindex.html
                 output: web, pdf
 
+              - title: Cell - showTab
+                url: /fgc5jsapi_cell-class-showtab.html
+                output: web, pdf
+
               - title: Cell - getTabPage
                 url: /fgc5jsapi_cell-class-gettabpage.html
                 output: web, pdf
 
               - title: Cell - getContentPage
                 url: /fgc5jsapi_cell-class-getcontentpage.html
-                output: web, pdf
-
-              - title: Cell - showTab
-                url: /fgc5jsapi_cell-class-showtab.html
                 output: web, pdf
 
               - title: Cell - hasFocus

@@ -1,20 +1,20 @@
 ---
-title: Forguncy API - Cell - getTabPage
-tags: [Forguncy, JavaScript, API, getTabPage]
-keywords: Forguncy API, JavaScript API, getTabPage
+title: Forguncy API - Cell - showTab
+tags: [Forguncy, JavaScript, API, showTab]
+keywords: Forguncy API, JavaScript API, showTab
 last_updated: Jan 16, 2020
-summary: "Forguncy API - Cell 클래스 중 getTabPage Method를 설명합니다."
+summary: "Forguncy API - Cell 클래스 중 showTab Method를 설명합니다."
 sidebar: forguncy5_sidebar
-permalink: fgc5jsapi_cell-class-gettabpage.html
+permalink: fgc5jsapi_cell-class-showtab.html
 folder: forguncy5_03_javascript_api
 ---
 
-### Cell - getTabPage Method
-cell.getTabPage()
+### Cell - showTab Method
+cell.showTab()
 <br /><br />
 
-### getTabPage Method 설명
-"페이지 내 탭 컨트롤 셀" 유형을 사용하여, 지정한 탭의 하위 페이지 객체 정보를 가져옵니다.
+### showTab Method 설명
+"페이지 내 탭 컨트롤 셀" 유형을 사용하여 지정한 탭을 화면에 활성화합니다.
 <br /><br />
 
 ### Parameter 설명
@@ -30,7 +30,7 @@ cell.getTabPage()
 <br /><br />
 
 ### 활용 예제
-아래는 cell.getTabPage를 사용하는 예제입니다. 페이지의 탭컨트롤 내부 특정 탭에 포함된 하위 페이지 객체 정보를 가져와 화면에 보여줍니다.
+아래는 cell.showTab를 사용하는 예제입니다. 페이지의 탭컨트롤 내부 특정 탭에 포함된 하위 페이지 객체 정보를 가져와 화면에 보여줍니다.
 <br />
 
 ~~~javascript
@@ -40,14 +40,8 @@ cell.getTabPage()
   //Cell Name이 tabControl로 되어 있는 셀 인스턴스의 정보를 가져옵니다.
   var tabControlCell = page.getCell("tabControl");
 
-  //tabControl 셀에서 index가 0인 하위 페이지의 객체 정보를 불러옵니다.
-  var tab1 = tabControlCell.getTabPage(0);
-
-  //하위 페이지 내에서 Cell Name이 myCell인 셀 인스턴스의 정보를 가져옵니다.
-  var subPageCell = tab1.getCell("myCell");
-
-  //가져온 셀의 값을 화면에 표시합니다.
-  alert(subPageCell.getValue());
+  //tabConrol의 index가 1인 탭을 활성화하여 화면에 표시합니다.
+  tabControlCell.showTab(1);
 ~~~
 
 <br />
@@ -68,11 +62,11 @@ cell.getTabPage()
 
 3. 페이지 내에 버튼을 한 개 추가하고, 해당 버튼에 "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-gettapage03.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-gettabcount03.png)
     <br /><br />
     
 4. 해당 프로젝트를 실행하고 탭을 이동하면서 버튼을 클릭하면 지정한 Tab Index 탭의 특정 셀 내용이 화면에 표시됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cell-gettapage04.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cell-gettabcount04.gif)
 
 <br /><br />
