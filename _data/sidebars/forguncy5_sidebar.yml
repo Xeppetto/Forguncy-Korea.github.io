@@ -153,20 +153,20 @@ entries:
                 url: /fgc5jsapi_cell-class-unbindall.html
                 output: web, pdf
 
+              - title: Cell - getTabCount
+                url: /fgc5jsapi_cell-class-gettabcount.html
+                output: web, pdf
+
               - title: Cell - getActiveTabIndex
                 url: /fgc5jsapi_cell-class-getactivetabindex.html
                 output: web, pdf
 
-              - title: Cell - getContentPage
-                url: /fgc5jsapi_cell-class-getcontentpage.html
-                output: web, pdf
-
-              - title: Cell - getTabCount
-                url: /fgc5jsapi_cell-class-gettabcount.html
-                output: web, pdf
-                
               - title: Cell - getTabPage
                 url: /fgc5jsapi_cell-class-gettabpage.html
+                output: web, pdf
+
+              - title: Cell - getContentPage
+                url: /fgc5jsapi_cell-class-getcontentpage.html
                 output: web, pdf
 
               - title: Cell - showTab

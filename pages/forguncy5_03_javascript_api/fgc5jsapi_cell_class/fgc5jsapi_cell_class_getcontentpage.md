@@ -29,7 +29,7 @@ SubPage 속성을 반환합니다. 자세한 내용은 SubPage[]을 참고하세
 <!-- <br /><br /> 위 memo를 삭제할 때 comment 제거 -->
 
 ### 활용 예제
-아래는 cell.getContentPage를 사용하는 예제입니다. 활성화된 탭의 인덱스를 보여줍니다.
+아래는 cell.getContentPage를 사용하는 예제입니다. 페이지 내에 포함된 하위 페이지 객체 내부의 정보를 불러옵니다.
 <br />
 
 ~~~javascript
