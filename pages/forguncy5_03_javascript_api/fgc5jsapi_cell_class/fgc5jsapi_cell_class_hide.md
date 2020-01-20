@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - Hide Method
-cell.hide()
+Cell.hide()
 <br /><br />
 
 ### Hide Method 설명

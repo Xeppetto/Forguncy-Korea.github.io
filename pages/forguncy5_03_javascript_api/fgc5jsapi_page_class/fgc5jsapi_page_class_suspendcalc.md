@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - suspendCalc Method
-page.suspendCalc()
+Page.suspendCalc()
 <br /><br />
 
 ### suspendCalc Method 설명

@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - setFocus Method
-cell.setFocus()
+Cell.setFocus()
 <br /><br />
 
 ### setFocus Method 설명

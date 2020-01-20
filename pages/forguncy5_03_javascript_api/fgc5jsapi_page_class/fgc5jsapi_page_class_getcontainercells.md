@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - getContainerCells Method
-page.getContainerCells(includeSubPage)
+Page.getContainerCells(includeSubPage)
 <br /><br />
 
 ### getContainerCells Method 설명

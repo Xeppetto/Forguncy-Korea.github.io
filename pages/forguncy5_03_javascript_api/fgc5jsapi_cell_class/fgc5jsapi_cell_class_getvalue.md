@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - getValue Method
-cell.getValue()
+Cell.getValue()
 <br /><br />
 
 ### getValue Method 설명

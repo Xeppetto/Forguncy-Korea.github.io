@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - getActiveTabIndex Method
-cell.getActiveTabIndex()
+Cell.getActiveTabIndex()
 <br /><br />
 
 ### getActiveTabIndex Method 설명

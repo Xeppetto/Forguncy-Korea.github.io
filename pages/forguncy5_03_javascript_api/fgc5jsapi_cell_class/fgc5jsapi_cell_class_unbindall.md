@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - UnbindAll Method
-cell.unbindAll을()
+Cell.unbindAll을()
 <br /><br />
 
 ### Unbind Method 설명

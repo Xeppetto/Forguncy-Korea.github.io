@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - setBackcolor Method
-cell.setBackcolor(color)
+Cell.setBackcolor(color)
 <br /><br />
 
 ### setBackcolor Method 설명

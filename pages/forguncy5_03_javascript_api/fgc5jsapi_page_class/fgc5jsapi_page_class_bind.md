@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - Bind Method
-page.bind (type, data, fn, targetPage)
+Page.bind (type, data, fn, targetPage)
 <br /><br />
 
 ### Bind Method 설명

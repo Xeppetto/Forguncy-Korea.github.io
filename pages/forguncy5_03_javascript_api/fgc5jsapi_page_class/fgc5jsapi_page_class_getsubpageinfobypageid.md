@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - getSubPageInfoByPageID Method
-page.getSubPageInfoByPageID(pageID)
+Page.getSubPageInfoByPageID(pageID)
 <br /><br />
 
 ### getSubPageInfoByPageID Method 설명

@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - Show Method
-cell.show()
+Cell.show()
 <br /><br />
 
 ### Show Method 설명

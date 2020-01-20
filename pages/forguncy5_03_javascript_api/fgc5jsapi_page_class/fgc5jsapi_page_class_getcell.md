@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - getCell Method
-page.getCell(name, includeSubPage)
+Page.getCell(name, includeSubPage)
 <br /><br />
 
 ### getCell Method 설명

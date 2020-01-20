@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - getMasterPageName Method
-page.getMasterPageName()
+Page.getMasterPageName()
 <br /><br />
 
 ### getMasterPageName Method 설명

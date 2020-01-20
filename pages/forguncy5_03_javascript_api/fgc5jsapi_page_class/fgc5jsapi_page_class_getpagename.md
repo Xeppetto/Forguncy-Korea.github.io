@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - getPageName Method
-page.getPageName()
+Page.getPageName()
 <br /><br />
 
 ### getPageName Method 설명

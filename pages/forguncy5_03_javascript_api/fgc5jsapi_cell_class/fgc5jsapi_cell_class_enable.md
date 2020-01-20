@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - Enable Method
-cell.enable()
+Cell.enable()
 <br /><br />
 
 ### Enable Method 설명

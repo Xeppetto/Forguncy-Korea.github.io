@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - UnbindAll Method
-page.unbindall (targetPage)
+Page.unbindall (targetPage)
 <br /><br />
 
 ### UnbindAll Method 설명

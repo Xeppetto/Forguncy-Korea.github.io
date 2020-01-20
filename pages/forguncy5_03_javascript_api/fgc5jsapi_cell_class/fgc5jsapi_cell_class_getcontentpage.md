@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - getContentPage Method
-cell.getContentPage()
+Cell.getContentPage()
 <br /><br />
 
 ### getContentPage Method 설명

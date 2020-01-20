@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - Bind Method
-cell.bind (type, data, fn)
+Cell.bind (type, data, fn)
 <br /><br />
 
 ### Bind Method 설명

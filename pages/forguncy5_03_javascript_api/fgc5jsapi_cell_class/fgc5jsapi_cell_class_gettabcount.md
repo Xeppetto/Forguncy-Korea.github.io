@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - getTabCount Method
-cell.getTabCount()
+Cell.getTabCount()
 <br /><br />
 
 ### getTabCount Method 설명

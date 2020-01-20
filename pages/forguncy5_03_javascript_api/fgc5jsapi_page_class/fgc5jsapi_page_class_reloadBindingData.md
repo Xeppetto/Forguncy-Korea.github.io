@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - reloadBindingData Method
-page.reloadBindingData(tableName)
+Page.reloadBindingData(tableName)
 <br /><br />
 
 ### reloadBindingData Method 설명

@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - setForecolor Method
-cell.setForecolor(color)
+Cell.setForecolor(color)
 <br /><br />
 
 ### setForecolor Method 설명

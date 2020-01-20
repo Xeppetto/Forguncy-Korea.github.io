@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - getTabPage Method
-cell.getTabPage()
+Cell.getTabPage()
 <br /><br />
 
 ### getTabPage Method 설명

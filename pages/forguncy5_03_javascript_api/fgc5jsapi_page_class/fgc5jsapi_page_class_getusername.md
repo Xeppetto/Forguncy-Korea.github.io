@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - getUserName Method
-page.getUserName()
+Page.getUserName()
 <br /><br />
 
 ### getUserName Method 설명

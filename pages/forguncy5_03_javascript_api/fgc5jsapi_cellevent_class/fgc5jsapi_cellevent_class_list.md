@@ -17,11 +17,11 @@ folder: forguncy5_03_javascript_api
 
 | Method 목록 | 상세 설명 |
 | --- | --- |
-| [Click](fgc5jsapi_cellevent_class_click.md) | 이 이벤트는 셀을 클릭 할 때 트리거되며 버튼, 그림 및 하이퍼 링크 셀 유형을 지원합니다. |
-| [MouseEnter](fgc5jsapi_cellevent_class_mouseenter.md) | 이 이벤트는 마우스가 셀에 들어 오면 트리거되며 버튼, 그림 및 하이퍼 링크 셀 유형이 지원됩니다. |
-| [MouseLeave](fgc5jsapi_cellevent_class_mouseleave.md) | 이 이벤트는 마우스가 셀을 떠날 때 트리거되며 버튼, 그림 및 하이퍼 링크 셀 유형이 지원됩니다. |
-| [PivottableClick](fgc5jsapi_cellevent_class_pivottableclick.md) | 이 이벤트는 피벗 테이블의 셀을 클릭하면 트리거됩니다. |
-| [SelectionChanged](fgc5jsapi_cellevent_class_selectionchanged.md) | 이 이벤트는 선택한 셀 항목이 변경되면 시작됩니다. 콤보 상자 및 사용자 선택 상자 셀 유형을 지원합니다. |
-| [ValueChanged](fgc5jsapi_cellevent_class_valuechanged.md) | 이 이벤트는 셀 값이 변경 될 때 트리거됩니다.|
+| [Click](fgc5jsapi_cellevent_class_click.md) | 셀을 클릭하는 시점에 수행(trigger)되는 클릭 이벤트를 발생시킵니다. 버튼, 그림, 하이퍼링크 셀 유형을 지원합니다. |
+| [MouseEnter](fgc5jsapi_cellevent_class_mouseenter.md) | |
+| [MouseLeave](fgc5jsapi_cellevent_class_mouseleave.md) | |
+| [PivottableClick](fgc5jsapi_cellevent_class_pivottableclick.md) | |
+| [SelectionChanged](fgc5jsapi_cellevent_class_selectionchanged.md) | |
+| [ValueChanged](fgc5jsapi_cellevent_class_valuechanged.md) | |
 
 <br /><br />

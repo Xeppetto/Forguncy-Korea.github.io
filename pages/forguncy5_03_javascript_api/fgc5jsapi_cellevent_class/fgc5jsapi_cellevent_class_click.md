@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### CellEvent - Click Method
-Forguncy.CellEvents.Click
+CellEvents.Click
 <br /><br />
 
 ### Click Method 설명

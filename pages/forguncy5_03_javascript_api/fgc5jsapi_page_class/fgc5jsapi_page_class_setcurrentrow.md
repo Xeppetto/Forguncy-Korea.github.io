@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - setCurrentRow Method
-page.setCurrentRow(currentRowParam) 혹은 page.setCurrentRow(currentRowInfoPluginParam)
+Page.setCurrentRow(currentRowParam) 혹은 page.setCurrentRow(currentRowInfoPluginParam)
 <br /><br />
 
 ### setCurrentRow Method 설명

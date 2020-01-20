@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - getUserInfo Method
-page.getUserInfo()
+Page.getUserInfo()
 <br /><br />
 
 ### getUserInfo Method 설명

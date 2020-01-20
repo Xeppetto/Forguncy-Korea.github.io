@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - hasFocus Method
-cell.hasFocus()
+Cell.hasFocus()
 <br /><br />
 
 ### hasFocus Method 설명

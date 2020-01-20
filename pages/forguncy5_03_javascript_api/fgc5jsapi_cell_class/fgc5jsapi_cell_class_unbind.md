@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - Unbind Method
-cell.unbind(type, fn)
+Cell.unbind(type, fn)
 <br /><br />
 
 ### Unbind Method 설명

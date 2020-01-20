@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - getListViews Method
-page.getListViews(includeSubPage)
+Page.getListViews(includeSubPage)
 <br /><br />
 
 ### getListViews Method 설명

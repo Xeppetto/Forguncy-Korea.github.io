@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - showTab Method
-cell.showTab()
+Cell.showTab()
 <br /><br />
 
 ### showTab Method 설명

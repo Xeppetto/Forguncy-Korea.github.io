@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - Unbind Method
-page.unbind (eventType, fn, targetPage)
+Page.unbind (eventType, fn, targetPage)
 <br /><br />
 
 ### Unbind Method 설명

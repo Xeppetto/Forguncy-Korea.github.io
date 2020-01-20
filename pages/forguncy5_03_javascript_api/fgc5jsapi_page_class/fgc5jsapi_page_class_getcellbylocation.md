@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - getCellByLocation Method
-page.getCellByLocation(cellLocation)
+Page.getCellByLocation(cellLocation)
 <br /><br />
 
 ### getCellByLocation Method 설명

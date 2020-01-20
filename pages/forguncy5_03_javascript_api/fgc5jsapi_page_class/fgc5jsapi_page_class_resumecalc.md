@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - resumeCalc Method
-page.resumeCalc()
+Page.resumeCalc()
 <br /><br />
 
 ### resumeCalc Method 설명

@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - recalc Method
-page.recalc()
+Page.recalc()
 <br /><br />
 
 ### recalc Method 설명

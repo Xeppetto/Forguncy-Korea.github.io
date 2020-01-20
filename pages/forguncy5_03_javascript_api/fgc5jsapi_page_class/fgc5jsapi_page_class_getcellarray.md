@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - getCellArray Method
-page.getCellArray(name, includeSubPage)
+Page.getCellArray(name, includeSubPage)
 <br /><br />
 
 ### getCellArray Method 설명

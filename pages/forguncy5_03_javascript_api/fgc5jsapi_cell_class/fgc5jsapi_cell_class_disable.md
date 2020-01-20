@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Cell - Disable Method
-cell.disable()
+Cell.disable()
 <br /><br />
 
 ### Disable Method 설명

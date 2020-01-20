@@ -10,7 +10,7 @@ folder: forguncy5_03_javascript_api
 ---
 
 ### Page - ready Method
-page.ready(fn)
+Page.ready(fn)
 <br /><br />
 
 ### ready Method 설명
