@@ -189,6 +189,39 @@ entries:
                 url: /fgc5jsapi_cell-class-setforecolor.html
                 output: web, pdf
                 
+            #Forguncy API - CellEvent 클래스 - subfolders
+            - title: Forguncy API - CellEvent 클래스
+              output: web, pdf
+              subfolderitems:
+
+              - title: CellEvent 클래스 -  전체 목록
+                url: /fgc5jsapi_cellevent-class-list.html
+                output: web, pdf
+
+              - title: CellEvent - Click
+                url: /fgc5jsapi_cellevent_class_click.html
+                output: web, pdf
+
+              - title: CellEvent - MouseEnter
+                url: /fgc5jsapi_cellevent_class_mouseenter.html
+                output: web, pdf
+
+              - title: CellEvent - MouseLeave
+                url: /fgc5jsapi_cellevent_class_mouseleave.html
+                output: web, pdf
+
+              - title: CellEvent - PivottableClick
+                url: /fgc5jsapi_cellevent_class_pivottableclick.html
+                output: web, pdf
+
+              - title: CellEvent - SelectionChanged
+                url: /fgc5jsapi_cellevent_class_selectionchanged.html
+                output: web, pdf
+
+              - title: CellEvent - ValueChanged
+                url: /fgc5jsapi_cellevent_class_valuechanged.html
+                output: web, pdf
+
             #Forguncy API - Page 클래스 - subfolders
             - title: Forguncy API - Page 클래스
               output: web, pdf
