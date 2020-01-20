@@ -14,7 +14,7 @@ cell.setBackcolor(color)
 <br /><br />
 
 ### setBackcolor Method 설명
-보통 상황에서는 사용자가 마우스로 클릭한 요소에 Focus가 배치됩니다. 하지만 setFocus를 이용해서 지정한 특정 셀에 Focus를 보낼 수 있습니다.
+지정한 특정 셀의 배경색상을 변경합니다.
 <br /><br />
 
 ### Parameter 설명
