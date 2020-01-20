@@ -20,7 +20,7 @@ folder: forguncy5_03_javascript_api
 | [getUserInfo](fgc5jsapi_page-class-getuserinfo.html) | 현재 로그인하여 서비스를 사용 중인 사용자 정보를 가져옵니다. |
 | [getUserName](fgc5jsapi_page-class-getusername.html) | 현재 로그인하여 서비스를 사용 중인 사용자의 이름을 가져옵니다. 로그인한 사용자가 없는 경우 null값을 반환합니다. |
 | [bind](fgc5jsapi_page-class-bind.html) | 특정 페이지에 이벤트들을 bind합니다. 현재 화면에 보이는 페이지, 지정한 특정 페이지 혹은 모든 페이지에 이벤트를 bind할 수 있습니다. |
-| [unbind](fgc5jsapi_page-class-unbindall.html) | 특정 이벤트에 대한 bind를 해제합니다. 이 메소드는 선택한 Event handler를 제거하거나, 선택한 이벤트의 실행을 종료시킬 수 있습니다. |
+| [unbind](fgc5jsapi_page-class-unbind.html) | 특정 이벤트에 대한 bind를 해제합니다. 이 메소드는 선택한 Event handler를 제거하거나, 선택한 이벤트의 실행을 종료시킬 수 있습니다. |
 | [unbindAll](fgc5jsapi_page-class-unbindall.html) | 페이지 내 모든 이벤트들에 대한 bind를 해제합니다. 이 메소드는 Event handler를 제거하거나, 특정 함수의 이벤트 실행을 종료시킬 수 있습니다. |
 | [ready](fgc5jsapi_page-class-ready.html) | 페이지 로딩이 완료된 후 Ready 메소드에 정의한 Callback 함수가 호출됩니다.<br />페이지 내 기능 로직을 처리하는 방법으로 페이지 내의 모든 요소들이 작동 준비되었을 때 Callback으로 처리하는 방식이 더 추천하는 방식입니다. |
 | [getCellByLocation](fgc5jsapi_page-class-getcellbylocation.html) | 특정 Cell의 위치 정보를 참조하여 Cell 인스턴스의 속성을 가져옵니다. |
