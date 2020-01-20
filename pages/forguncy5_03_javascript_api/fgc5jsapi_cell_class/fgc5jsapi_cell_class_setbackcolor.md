@@ -14,7 +14,7 @@ cell.setBackcolor(color)
 <br /><br />
 
 ### setBackcolor Method 설명
-지정한 특정 셀의 배경색상을 변경합니다.
+지정한 특정 셀의 배경 색상을 변경합니다.
 <br /><br />
 
 ### Parameter 설명
@@ -30,7 +30,7 @@ cell.setBackcolor(color)
 <br /><br />
 
 ### 활용 예제
-아래는 cell.setBackcolor를 사용하는 예제입니다. 지정한 특정 셀의 배경색상을 변경합니다.
+아래는 cell.setBackcolor를 사용하는 예제입니다. 지정한 특정 셀의 배경 색상을 변경합니다.
 <br />
 
 ~~~javascript
@@ -40,7 +40,7 @@ cell.setBackcolor(color)
   //Cell Name이 myCell로 지정된 셀 인스턴스 정보를 가져옵니다.
   var cell = page.getCell("myCell");
 
-  //셀의 배경색상을 red로 지정합니다.
+  //셀의 배경 색상을 red로 지정합니다.
   var setColor = cell.setBackColor("red");
 ~~~
 

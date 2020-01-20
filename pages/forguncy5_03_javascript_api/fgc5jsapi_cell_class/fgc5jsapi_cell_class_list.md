@@ -33,5 +33,5 @@ folder: forguncy5_03_javascript_api
 | [getContentPage](fgc5jsapi_cell-class-getcontentpage.html) | "내용이 포함된 셀" 유형을 사용하는 경우, 내용란에 들어가는 하위 페이지 객체를 가져옵니다. |
 | [hasFocus](fgc5jsapi_cell-class-hasfocus.html) | 지정한 특정 셀에 포커스가 되어 있는 지 여부를 확인하고, 포커스 되도록 설정할 수 있습니다. |
 | [setFocus](fgc5jsapi_cell-class-setfocus.html) | 보통 상황에서는 사용자가 마우스로 클릭한 요소에 Focus가 배치됩니다. 하지만 setFocus를 이용해서 지정한 특정 셀에 Focus를 보낼 수 있습니다. |
-| [setBackColor](fgc5jsapi_cell-class-setbackcolor.html) | 지정한 특정 셀의 배경색상을 변경합니다. |
-| [setForeColor](fgc5jsapi_cell-class-setforecolor.html) | |
+| [setBackColor](fgc5jsapi_cell-class-setbackcolor.html) | 지정한 특정 셀의 배경 색상을 변경합니다. |
+| [setForeColor](fgc5jsapi_cell-class-setforecolor.html) | 지정한 특정 셀의 글자 색상을 변경합니다. |
