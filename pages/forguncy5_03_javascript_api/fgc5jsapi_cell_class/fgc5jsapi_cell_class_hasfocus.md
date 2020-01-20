@@ -2,7 +2,7 @@
 title: Forguncy API - Cell - hasFocus
 tags: [Forguncy, JavaScript, API, hasFocus]
 keywords: Forguncy API, JavaScript API, hasFocus
-last_updated: Jan 16, 2020
+last_updated: Jan 20, 2020
 summary: "Forguncy API - Cell 클래스 중 hasFocus Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_cell-class-hasfocus.html
