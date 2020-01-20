@@ -17,11 +17,11 @@ folder: forguncy5_03_javascript_api
 
 | Method 목록 | 상세 설명 |
 | --- | --- |
-| [Click](fgc5jsapi_cellevent_class-click.html) | 셀을 클릭하는 시점에 수행(trigger)되는 클릭 이벤트를 발생시킵니다. 버튼, 그림, 하이퍼링크 셀 유형을 지원합니다. |
-| [MouseEnter](fgc5jsapi_cellevent_class-mouseenter.html) | |
-| [MouseLeave](fgc5jsapi_cellevent_class-mouseleave.html) | |
-| [PivottableClick](fgc5jsapi_cellevent_class-pivottableclick.html) | |
-| [SelectionChanged](fgc5jsapi_cellevent_class-selectionchanged.html) | |
-| [ValueChanged](fgc5jsapi_cellevent_class-valuechanged.html) | |
+| [Click](fgc5jsapi_cellevent-class-click.html) | 셀을 클릭하는 시점에 수행(trigger)되는 클릭 이벤트를 발생시킵니다. 버튼, 그림, 하이퍼링크 셀 유형을 지원합니다. |
+| [MouseEnter](fgc5jsapi_cellevent-class-mouseenter.html) | |
+| [MouseLeave](fgc5jsapi_cellevent-class-mouseleave.html) | |
+| [PivottableClick](fgc5jsapi_cellevent-class-pivottableclick.html) | |
+| [SelectionChanged](fgc5jsapi_cellevent-class-selectionchanged.html) | |
+| [ValueChanged](fgc5jsapi_cellevent-class-valuechanged.html) | |
 
 <br /><br />
