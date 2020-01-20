@@ -199,27 +199,27 @@ entries:
                 output: web, pdf
 
               - title: CellEvent - Click
-                url: /fgc5jsapi_cellevent_class_click.html
+                url: /fgc5jsapi_cellevent_class-click.html
                 output: web, pdf
 
               - title: CellEvent - MouseEnter
-                url: /fgc5jsapi_cellevent_class_mouseenter.html
+                url: /fgc5jsapi_cellevent_class-mouseenter.html
                 output: web, pdf
 
               - title: CellEvent - MouseLeave
-                url: /fgc5jsapi_cellevent_class_mouseleave.html
+                url: /fgc5jsapi_cellevent_class-mouseleave.html
                 output: web, pdf
 
               - title: CellEvent - PivottableClick
-                url: /fgc5jsapi_cellevent_class_pivottableclick.html
+                url: /fgc5jsapi_cellevent_class-pivottableclick.html
                 output: web, pdf
 
               - title: CellEvent - SelectionChanged
-                url: /fgc5jsapi_cellevent_class_selectionchanged.html
+                url: /fgc5jsapi_cellevent_class-selectionchanged.html
                 output: web, pdf
 
               - title: CellEvent - ValueChanged
-                url: /fgc5jsapi_cellevent_class_valuechanged.html
+                url: /fgc5jsapi_cellevent_class-valuechanged.html
                 output: web, pdf
 
             #Forguncy API - Page 클래스 - subfolders
