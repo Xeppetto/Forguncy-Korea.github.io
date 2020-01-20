@@ -202,16 +202,16 @@ entries:
                 url: /fgc5jsapi_cellevent-class-click.html
                 output: web, pdf
 
+              - title: CellEvent - PivottableClick
+                url: /fgc5jsapi_cellevent-class-pivottableclick.html
+                output: web, pdf
+
               - title: CellEvent - MouseEnter
                 url: /fgc5jsapi_cellevent-class-mouseenter.html
                 output: web, pdf
 
               - title: CellEvent - MouseLeave
                 url: /fgc5jsapi_cellevent-class-mouseleave.html
-                output: web, pdf
-
-              - title: CellEvent - PivottableClick
-                url: /fgc5jsapi_cellevent-class-pivottableclick.html
                 output: web, pdf
 
               - title: CellEvent - SelectionChanged

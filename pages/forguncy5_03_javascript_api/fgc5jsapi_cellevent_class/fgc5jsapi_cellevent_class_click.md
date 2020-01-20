@@ -62,8 +62,10 @@ string
     <br /><br />
 
 3. 해당 프로젝트를 실행하여 버튼을 클릭합니다.<br />
-    ※참고 : bind 메소드로 이벤트를 바인딩 하는 경우 binding하는 시점에는 아무 이벤트가 발생하지 않는 것처럼 보여 두 번 클릭하는 것처럼 보일 수 있습니다. 이는 첫 번 째 클릭 시에는 cell.bind가 실행되어 CallBack 함수인 onClickEventFunction 함수가 버튼에 바인딩되는 이벤트가 실행되기 때문에 실제 눈에 보이지 않아서 그렇습니다. CallBack 함수를 Binding하는 경우는 이벤트를 바인딩하는 시점에 한 스텝이 더 진행됩니다. ([Jquery - bind 메소드 참조](https://www.w3schools.com/jquery/event_bind.asp))
 
     ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-click03.gif)
+    <br /><br />
+
+    ※참고 : bind 메소드로 이벤트를 바인딩 하는 경우 binding하는 시점에는 아무 이벤트가 발생하지 않는 것처럼 보여 두 번 클릭하는 것처럼 보일 수 있습니다. 이는 첫 번 째 클릭 시에는 cell.bind가 실행되어 CallBack 함수인 onClickEventFunction 함수가 버튼에 바인딩되는 이벤트가 실행되기 때문에 실제 눈에 보이지 않아서 그렇습니다. CallBack 함수를 Binding하는 경우는 이벤트를 바인딩하는 시점에 한 스텝이 더 진행됩니다. ([Jquery - bind 메소드 참조](https://www.w3schools.com/jquery/event_bind.asp))
 
 <br /><br />
