@@ -31,7 +31,7 @@ folder: forguncy5_03_javascript_api
 | [showTab](fgc5jsapi_cell-class-showtab.html) | "페이지 내 탭 컨트롤 셀" 유형을 사용하여 지정한 탭을 화면에 활성화합니다. |
 | [getTabPage](fgc5jsapi_cell-class-gettabpage.html) | 탭의 index 번호를 입력합니다. 탭의 index는 0부터 시작합니다. |
 | [getContentPage](fgc5jsapi_cell-class-getcontentpage.html) | "내용이 포함된 셀" 유형을 사용하는 경우, 내용란에 들어가는 하위 페이지 객체를 가져옵니다. |
-| [hasFocus](fgc5jsapi_cell-class-hasfocus.html) | |
+| [hasFocus](fgc5jsapi_cell-class-hasfocus.html) | 지정한 특정 셀에 포커스가 되어 있는 지 여부를 확인하고, 포커스 되도록 설정할 수 있습니다. |
 | [setFocus](fgc5jsapi_cell-class-setfocus.html) | |
 | [setBackColor](fgc5jsapi_cell-class-setbackcolor.html) | |
 | [setForeColor](fgc5jsapi_cell-class-setforecolor.html) | |
