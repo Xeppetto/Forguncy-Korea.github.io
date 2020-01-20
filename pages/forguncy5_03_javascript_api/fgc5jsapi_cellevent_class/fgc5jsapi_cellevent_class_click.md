@@ -61,7 +61,7 @@ string
     ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-click02.png)
     <br /><br />
 
-3. 해당 프로젝트를 실행하여 버튼을 클릭합니다.<br />
+3. 해당 프로젝트를 실행하여 버튼을 클릭합니다.
 
     ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-click03.gif)
     <br /><br />

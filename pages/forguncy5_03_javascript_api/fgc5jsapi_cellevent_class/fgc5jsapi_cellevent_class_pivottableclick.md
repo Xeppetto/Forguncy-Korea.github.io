@@ -52,19 +52,29 @@ string
 
 ### Forguncy 사용 예제
 
-1. 페이지 한 개 생성합니다. "버튼" 유형의 셀을 생성하고, 왼쪽위 Cell Name으로 buitton이라고 이름을 지정합니다.
+1. 페이지 한 개 생성하고, ListView를 생성하여 Database Table에 연결합니다.<br />
+    Database에 Table을 생성하고 데이터를 넣는 방법과 ListView를 생성하는 방법 등은 자세한 설명을 생략합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-click01.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-pivottableclick01.png)
     <br /><br />
 
-2. 해당 버튼에 "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
+2. 페이지에 "피벗 테이블" 셀 유형을 추가합니다. 왼쪽위의 Cell Name에 pitvottablecell이라고 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-click02.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-pivottableclick02.png)
     <br /><br />
 
-3. 해당 프로젝트를 실행하여 버튼을 클릭합니다.<br />
-    ※참고 : bind 메소드로 이벤트를 바인딩 하는 경우 binding하는 시점에는 아무 이벤트가 발생하지 않는 것처럼 보여 두 번 클릭하는 것처럼 보일 수 있습니다. 이는 첫 번 째 클릭 시에는 cell.bind가 실행되어 CallBack 함수인 onClickEventFunction 함수가 버튼에 바인딩되는 이벤트가 실행되기 때문에 실제 눈에 보이지 않아서 그렇습니다. CallBack 함수를 Binding하는 경우는 이벤트를 바인딩하는 시점에 한 스텝이 더 진행됩니다. ([Jquery - bind 메소드 참조](https://www.w3schools.com/jquery/event_bind.asp))
+3. 오른쪽 '셀 유형' 패널에서 "피벗 테이블 설정"을 선택하여 피벗 테이블을 미리 설정한 ListView와 연동합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-click03.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-pivottableclick03.png)
+    <br /><br />
+
+4. JS 파일을 생성하고, 오른쪽 패널에서 "페이지 설정 > 사용자 JavaScript"에 해당 JavaScript 파일을 불러오기 합니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-pivottableclick04.png)
+    <br /><br />
+
+5. 해당 프로젝트를 실행하여 피벗 테이블을 클릭하면, 팝업창이 화면에 표시됩니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-pivottableclick05.gif)
 
 <br /><br />
