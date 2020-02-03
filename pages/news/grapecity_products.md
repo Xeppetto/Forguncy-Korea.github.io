@@ -9,6 +9,7 @@ summary: "이 페이지에서는 Forguncy 외 그레이프시티 코리아가 �
 
 ## SpreadJS
 
+<img align="left" src="{{site.url}}/images/forguncy5/Round - SpreadJS.png">
 [SpreadJS](https://www.grapecity.co.kr/spreadjs)는 HTML5와 JavaScript의 최신 기능을 활용하여 만든 강력한 스프레드시트 개발 컴포넌트로 웹과 모바일 어디에서나 Excel의 기능을 사용자에게 제공할 수 있습니다. 데이터 보안에 중점을 두고 개발되어 Excel 데이터를 안전하게 관리할 수 있으며 가볍고 빠른 성능을 제공하고 있어 대용량의 데이터를 바로 처리할수 있습니다. 뿐만 아니라 데이터 가져오기, 내보내기, 정렬, 필터링, 추가, 삭제, 변경, 찾기, 시각화, Excel 가져오기/내보내기 등 엑셀의 대부분의 기능을 지원하고 있기 때문에 더욱 쉽게 사용할 수 있습니다. [SpreadJS의 데모 사이트 바로가기](https://spreadjs-tutorial.web.app/)를 클릭하시면 SpreadJS로 구현된 데모와 샘플 코드를 보실 수 있습니다.
 
 
