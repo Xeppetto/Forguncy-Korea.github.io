@@ -14,7 +14,7 @@ CellEvents.mouseLeave
 <br /><br />
 
 ### MouseLeave Method 설명
-마우스 커서가 지정한 특정 셀에 들어왔따가 밖으로 나가는 시점에 수행(trigger)되는 이벤트입니다. 버튼, 그림, 하이퍼링크 셀 유형을 지원합니다.
+마우스 커서가 지정한 특정 셀에 들어왔다가 밖으로 나가는 시점에 수행(trigger)되는 이벤트입니다. 버튼, 그림, 하이퍼링크 셀 유형을 지원합니다.
 <br /><br />
 
 ### Parameter 설명
@@ -41,7 +41,7 @@ string
   //Cell Name이 picture라고 되어 있는 셀 인스턴스 속성을 가져옵니다.
   var cell = page.getCell("picture");
 
-  //picture 셀에 enteringMouseEvent 이벤트를 binding합니다.
+  //picture 셀에 leavingMouseEvent 이벤트를 binding합니다.
   cell.bind("mouseLeave", leavingMouseEvent);
 
   //mouseLeave는 클릭하여 이벤트를 binding해야 실행되는 점 참고하세요.
