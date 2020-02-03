@@ -26,7 +26,7 @@ string
 <br /><br />
 
 ### 활용 예제
-아래는 CellEvents.PivotTableClick를 사용하는 예제입니다. 버튼을 클릭하면 미리 지정한 글자 상자가 나타납니다.
+아래는 CellEvents.mouseEnter를 사용하는 예제입니다. 마우스가 지정한 그림 셀 위로 올라가면 글자 상자가 나타납니다.
 <br />
 
 ~~~javascript
@@ -49,29 +49,19 @@ string
 
 ### Forguncy 사용 예제
 
-1. 페이지 한 개 생성하고, ListView를 생성하여 Database Table에 연결합니다.<br />
-    Database에 Table을 생성하고 데이터를 넣는 방법과 ListView를 생성하는 방법 등은 자세한 설명을 생략합니다.
+1. 페이지 한 개 생성하고, 이미지 셀을 생성하여 그림을 삽입합니다.<br />
+  이후 왼쪽 상단의 Cell Name에 picture라고 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-pivottableclick01.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-mouseenter01.png)
     <br /><br />
 
-2. 페이지에 "피벗 테이블" 셀 유형을 추가합니다. 왼쪽위의 Cell Name에 pitvottablecell이라고 입력합니다.
+2. 그림 셀을 클릭 후 '명령 편집'에서 "자바크스립트로 직접 프로그래밍하기" 명령을 추갛하여, 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-pivottableclick02.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-mouseenter02.png)
     <br /><br />
 
-3. 오른쪽 '셀 유형' 패널에서 "피벗 테이블 설정"을 선택하여 피벗 테이블을 미리 설정한 ListView와 연동합니다.
+3. 해당 프로젝트를 실행하여 나타나는 그림에 마우스 커서를 올리면 팝업창이 화면에 표시됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-pivottableclick03.png)
-    <br /><br />
-
-4. JS 파일을 생성하고, 오른쪽 패널에서 "페이지 설정 > 사용자 JavaScript"에 해당 JavaScript 파일을 불러오기 합니다.
-
-    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-pivottableclick04.png)
-    <br /><br />
-
-5. 해당 프로젝트를 실행하여 피벗 테이블을 클릭하면, 팝업창이 화면에 표시됩니다.
-
-    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-pivottableclick05.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-mouseenter03.gif)
 
 <br /><br />
