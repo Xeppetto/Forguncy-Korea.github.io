@@ -12,13 +12,9 @@ entries:
             url: /under_construction.html
             output: web
             type: homepage
-          #- title: 2019 V12 Service Pack 1
-          #  url: /2019v12sp1_whatsnew.html
-          #  output: web
-          #  type: homepage
-          # - title: 2019 V1
-          #   url: /2019v1_whatsnew.html
-          #   output: web
           - title: GrapeCity 제품 소개
             url: /grapecity_products.html
+            output: web
+          - title: 튜토리얼페이지 로그
+            url: /tutotial_update_log.html
             output: web
