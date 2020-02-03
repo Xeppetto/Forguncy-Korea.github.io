@@ -30,7 +30,7 @@ Forguncy는 웹개발에 대한 지식이 없는 사람들도 Excel을 사용하
 
 [button url="{{site.url}}/tutotial_update_log.html"]
 
-{%include button.html url="{{site.url}}/tutotial_update_log.html" %}
+{% include button.html url="{{site.url}}/tutotial_update_log.html" %}
 
 
 <br /><br />
