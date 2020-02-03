@@ -27,9 +27,6 @@ Forguncy는 웹개발에 대한 지식이 없는 사람들도 Excel을 사용하
 
 <hr>
 
-[튜토리얼 업데이트 보기]({{site.url}}/tutotial_update_log.html){: .btn}
+튜토리얼 사이트는 지속적으로 업데이트 되고 있습니다. [튜토리얼 업데이트 보기]({{site.url}}/tutotial_update_log.html)를 클릭하셔서 업데이트 되는 자세한 내용을 보실 수 있습니다.
 
-
-
-
-<br /><br />
+<br /><br /><br />
