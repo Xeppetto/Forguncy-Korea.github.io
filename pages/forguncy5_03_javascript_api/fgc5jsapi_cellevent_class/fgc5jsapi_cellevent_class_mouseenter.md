@@ -1,20 +1,20 @@
 ---
-title: Forguncy API - CellEvent - PivotTableClick
-tags: [Forguncy, JavaScript, API, PivotTableClick]
-keywords: Forguncy API, JavaScript API, PivotTableClick
+title: Forguncy API - CellEvent - MouseEnter
+tags: [Forguncy, JavaScript, API, MouseEnter]
+keywords: Forguncy API, JavaScript API, MouseEnter
 last_updated: Jan 16, 2020
-summary: "Forguncy API - CellEvent 클래스 중 PivotTableClick Method를 설명합니다."
+summary: "Forguncy API - CellEvent 클래스 중 MouseEnter Method를 설명합니다."
 sidebar: forguncy5_sidebar
-permalink: fgc5jsapi_cellevent-class-pivottableclick.html
+permalink: fgc5jsapi_cellevent-class-mouseenter.html
 folder: forguncy5_03_javascript_api
 ---
 
-### CellEvent - PivotTableClick Method
-CellEvents.pivottableClick
+### CellEvent - MouseEnter Method
+CellEvents.mouseEnter
 <br /><br />
 
-### PivotTableClick Method 설명
-피벗테이블 셀을 클릭하는 시점에 수행(trigger)되는 이벤트입니다.
+### MouseEnter Method 설명
+마우스 커서가 지정한 특정 셀로 들어오는 시점에 수행(trigger)되는 이벤트입니다. 버튼, 그림, 하이퍼링크 셀 유형을 지원합니다.
 <br /><br />
 
 ### Parameter 설명
@@ -26,26 +26,23 @@ string
 <br /><br />
 
 ### 활용 예제
-아래는 CellEvents.PivotTableClick를 사용하는 예제입니다. 피벗 테이블을 클릭하면 미리 지정한 글자 상자가 나타납니다.
+아래는 CellEvents.PivotTableClick를 사용하는 예제입니다. 버튼을 클릭하면 미리 지정한 글자 상자가 나타납니다.
 <br />
 
 ~~~javascript
+  //CallBack으로 사용할 이벤트를 정의합니다.
+  var enteringMouseEvent = function(arg) {
+      alert("안녕하세요. Forguncy!");
+  }
+  
   //현재 페이지에 Namespace를 선언합니다.
   var page = Forguncy.Page;
 
-  //Cell Name이 pitvottablecell이라고 명명된 셀 인스턴스 정보를 가져옵니다.
-  var pivottable = page.getCell("pivottablecell");
+  //Cell Name이 picture라고 되어 있는 셀 인스턴스 속성을 가져옵니다.
+  var cell = page.getCell("picture");
 
-  //ready 메소드의 CallBack 함수를 생성합니다.
-  page.ready(function () {
-
-    //pitvottablecell 셀에 pivottableClick을 binding합니다.
-    pivottable.bind("pivottableClick", function () {
-
-    //미리 지정한 문구를 화면에 표시합니다.
-    alert("안녕하세요. Forguncy!");
-    });
-  });
+  //picture 셀에 enteringMouseEvent 이벤트를 binding합니다.
+  cell.bind("mouseEnter", enteringMouseEvent);
 ~~~
 
 <br />
