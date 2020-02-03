@@ -25,7 +25,7 @@ Forguncy는 웹개발에 대한 지식이 없는 사람들도 Excel을 사용하
 
 <br /><br />
 
-<hr>
+<hr color="blue">
 
 <h3>튜토리얼 센터 업데이트 정보 알림</h3>
 
