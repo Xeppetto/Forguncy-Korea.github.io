@@ -27,6 +27,8 @@ Forguncy는 웹개발에 대한 지식이 없는 사람들도 Excel을 사용하
 
 <hr>
 
+{% raw %}
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height=800 src="{{site.url}}/tutotial_update_log.html"></iframe>
+{% endraw %}
 
 <br /><br />
