@@ -26,6 +26,7 @@ Forguncy는 웹개발에 대한 지식이 없는 사람들도 Excel을 사용하
 <br /><br />
 
 <hr>
+
 [튜토리얼 업데이트 보기]({{site.url}}/tutotial_update_log.html){: .btn}
 
 [button url="{{site.url}}/tutotial_update_log.html"]
