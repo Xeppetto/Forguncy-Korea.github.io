@@ -55,7 +55,7 @@ string
     ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-mouseenter01.png)
     <br /><br />
 
-2. 그림 셀을 클릭 후 '명령 편집'에서 "자바크스립트로 직접 프로그래밍하기" 명령을 추갛하여, 코드를 입력합니다.
+2. 그림 셀을 클릭 후 '명령 편집'에서 "자바크스립트로 직접 프로그래밍하기" 명령을 추가하여, 코드를 입력합니다.
 
     ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-mouseenter02.png)
     <br /><br />
