@@ -14,7 +14,7 @@ CellEvents.selectionChanged
 <br /><br />
 
 ### SelectionChanged Method 설명
-지정한 특정 셀의 값이 변경되는 시점에 수행(trigger)되는 이벤트입니다. 콤보상자, 사용자선택상자 셀 유형을 지원합니다.
+지정한 특정 셀의 선택값이 변경되는 시점에 수행(trigger)되는 이벤트입니다. 콤보상자, 사용자선택상자 셀 유형을 지원합니다.
 <br /><br />
 
 ### Parameter 설명
@@ -38,7 +38,7 @@ string
   //현재 페이지에 Namespace를 선언합니다.
   var page = Forguncy.Page;
 
-  //Cell Name이 picture라고 되어 있는 셀 인스턴스 속성을 가져옵니다.
+  //Cell Name이 combo라고 되어 있는 셀 인스턴스 속성을 가져옵니다.
   var cell = page.getCell("combo");
 
   //combo 셀이 변경될 때 selectionChagnedEvent 이벤트를 binding합니다.
