@@ -59,9 +59,10 @@ string
     ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-valuechanged02.png)
     <br /><br />
 
-3. 해당 프로젝트를 실행하여 나타나는 텍스트 상자에 값을 입력 후 엔터키를 누릅니다. 이후 값을 변경한 후 다시 엔터키를 누르면 경고창이 나타납니다.<br />
-  이벤트가 중첩되어 실행되는 것은 JavaScript 라이브러리의 이슈입니다. 실제 구현하실 때는 이를 고려하셔서 구현해 주세요.
+3. 해당 프로젝트를 실행하여 나타나는 텍스트 상자에 값을 입력 후 엔터키를 누릅니다. 이후 값을 변경한 후 다시 엔터키를 누르면 경고창이 나타납니다.
 
     ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-valuechanged03.gif)
 
+    이벤트가 중첩되어 실행되는 것은 JavaScript 라이브러리의 이슈입니다. 실제 구현하실 때는 이를 고려하셔서 구현해 주세요.
+    
 <br /><br />

@@ -61,8 +61,9 @@ string
     <br /><br />
 
 3. 해당 프로젝트를 실행하여 나타나는 콤보박스의 값을 변경합니다. 첫 번 째 변경에 이벤트가 binding되고, 두 번 째 변경부터는 이벤트가 실행됩니다.<br />
-  이벤트가 중첩되어 실행되는 것은 JavaScript 라이브러리의 이슈입니다. 실제 구현하실 때는 이를 고려하셔서 구현해 주세요.
 
     ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-selectionchanged03.gif)
+
+    이벤트가 중첩되어 실행되는 것은 JavaScript 라이브러리의 이슈입니다. 실제 구현하실 때는 이를 고려하셔서 구현해 주세요.
 
 <br /><br />
