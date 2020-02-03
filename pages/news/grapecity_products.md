@@ -7,18 +7,22 @@ folder: news
 summary: "이 페이지에서는 Forguncy 외 그레이프시티 코리아가 판매하는 제품들을 소개합니다. 확장성 있는 컴포넌트를 도입하여 빠르고 규격화된 소프트웨어 개발을 진행해 보세요."
 ---
 
+
+
+[<img align="left" src="{{site.url}}/images/forguncy5/Round - SpreadJS.png">](https://www.grapecity.co.kr/spreadjs)\
+
 ## SpreadJS
 
-[<img align="left" src="{{site.url}}/images/forguncy5/Round - SpreadJS.png">](https://www.grapecity.co.kr/spreadjs)
 [SpreadJS](https://www.grapecity.co.kr/spreadjs)는 HTML5와 JavaScript의 최신 기능을 활용하여 만든 강력한 스프레드시트 개발 컴포넌트로 웹과 모바일 어디에서나 Excel의 기능을 사용자에게 제공할 수 있습니다. 데이터 보안에 중점을 두고 개발되어 Excel 데이터를 안전하게 관리할 수 있으며 가볍고 빠른 성능을 제공하고 있어 대용량의 데이터를 바로 처리할수 있습니다. 뿐만 아니라 데이터 가져오기, 내보내기, 정렬, 필터링, 추가, 삭제, 변경, 찾기, 시각화, Excel 가져오기/내보내기 등 엑셀의 대부분의 기능을 지원하고 있기 때문에 더욱 쉽게 사용할 수 있습니다. [SpreadJS의 데모 사이트 바로가기](https://spreadjs-tutorial.web.app/)를 클릭하시면 SpreadJS로 구현된 데모와 샘플 코드를 보실 수 있습니다.
-<br /><br />
 
+<br /><br />
 
 ## Wijmo
 
 [<img align="left" src="{{site.url}}/images/forguncy5/Round - Wijmo.png">](https://www.grapecity.co.kr/wijmojs)
 [Wijmo](https://www.grapecity.co.kr/wijmojs)는 ECMAScript 로 작성된 차세대 JavaScript/HTML5 UI 컨트롤로서 순수 JavaScript 뿐만 아니라, Angular, React, VueJS를 포함하는 인기있는 웹 개발 프레임워크를 지원합니다. 가장 빠른 JavaScript 데이터 그리드인 FlexGrid를 사용하여 추가 개발 없이도 필터, 그룹, 정렬 등 많은 기능을 쉽게 구현할 수 있습니다. 더욱이, 차트를 포함하는 80가지 이상의 컨트롤을 통해 직관적이고 아름다운 데이터 시각화 솔루션을 구현할 수 있습니다. 또한, Wijmo의 특화기능인 OLAP Pivot Grid를 사용하여 즉시 데이터를 분석할 수 있는 웹 어플리케이션이 개발 가능 합니다. [Wijmo의 데모 사이트 바로가기](https://www.grapecity.com/wijmo/demos/)를 클릭하시면 Wijmo로 구현된 데모와 샘플 코드를 보실 수 있습니다.
 
+<br /><br />
 
 ## Spread.NET
 
