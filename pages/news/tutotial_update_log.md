@@ -10,15 +10,16 @@ summary: "튜토리얼의 업데이트 기록입니다. 이 페이지는 정기�
 
 <h2>튜토리얼 센터 업데이트 정보 알림</h2>
 
+**2020년 2월 3일** : Forguncy API 중 [CellEvent 클래스]({{site.url}}/fgc5jsapi_cellevent-class-list.html) 작성을 완료하였습니다.<br /><br />
 
-**2020년 1월 31일** : Forguncy API 중 기본 객체, Page 클래스, Cell 클래스 작성을 완료하였습니다.<br /><br />
+**2020년 1월 31일** : Forguncy API 중 [기본 객체]({{site.url}}/fgc5jsapi_namespace.html), [페이지 객체]({{site.url}}/fgc5jsapi_page-variable.html), [Page 클래스]({{site.url}}/fgc5jsapi_page-class-list.html), [Cell 클래스]({{site.url}}/fgc5jsapi_cell-class-list.html) 작성을 완료하였습니다.<br /><br />
 
-**2020년 1월 16일** : 제품 관련 자주 묻는 질문, FAQ(Frequently Asked Question) 제작을 시작하였습니다. 향후 고객님들의 잦은 질문에 대한 답변을 지속적으로 업데이트 할 예정입니다.<br /><br />
+**2020년 1월 16일** : 제품 관련 자주 묻는 질문, [FAQ(Frequently Asked Question)]({{site.url}}/forguncy5_faq_general.html) 제작을 시작하였습니다. 향후 고객님들의 잦은 질문에 대한 답변을 지속적으로 업데이트 할 예정입니다.<br /><br />
 
 **2020년 1월 14일** : Forguncy API 문서 작성을 시작하였습니다. Forguncy에서 지원하는 자체 API를 모두 정리할 예정입니다.<br /><br />
 
-**2019년 11월 29일** : Forguncy 제품 소개와 특장점 소개 작성을 완료하였습니다. 제품 설치와 제거, 정품 인증 방법에 대해 매뉴얼 작성을 완료하였습니다.<br /><br />
+**2019년 11월 29일** : Forguncy [제품 소개]({{site.url}}/product_introduction.html)와 [특장점 소개]({{site.url}}/forguncy_characteristic.html) 작성을 완료하였습니다. 제품 설치와 제거, 정품 인증 방법에 대해 매뉴얼 작성을 완료하였습니다.<br /><br />
 
-**2019년 11월 25일** : Forguncy를 다운로드받으실 수 있고, 제품문의하실 수 있는 창구를 마련하였습니다.<br /><br />
+**2019년 11월 25일** : Forguncy를 [다운로드](https://www.grapecity.co.kr/download/forguncy) 받으실 수 있고, [제품 구입 관련 문의](mailto:sales-kor@grapecity.com)를 보내실 수 있는 창구를 마련하였습니다.<br /><br />
 
 **2019년 11월 22일** : Forguncy 튜토리얼 센터를 개설하였습니다. github.io에서 jekyll을 이용하기로 하였습니다.<br /><br />

@@ -19,9 +19,9 @@ folder: forguncy5_03_javascript_api
 | --- | --- |
 | [Click](fgc5jsapi_cellevent-class-click.html) | 셀을 클릭하는 시점에 수행(trigger)되는 클릭 이벤트를 발생시킵니다. 버튼, 그림, 하이퍼링크 셀 유형을 지원합니다. |
 | [PivottableClick](fgc5jsapi_cellevent-class-pivottableclick.html) | 피벗테이블 셀을 클릭하는 시점에 수행(trigger)되는 이벤트입니다. |
-| [MouseEnter](fgc5jsapi_cellevent-class-mouseenter.html) | |
-| [MouseLeave](fgc5jsapi_cellevent-class-mouseleave.html) | |
-| [SelectionChanged](fgc5jsapi_cellevent-class-selectionchanged.html) | |
-| [ValueChanged](fgc5jsapi_cellevent-class-valuechanged.html) | |
+| [MouseEnter](fgc5jsapi_cellevent-class-mouseenter.html) | 마우스 커서가 지정한 특정 셀로 들어오는 시점에 수행(trigger)되는 이벤트입니다. 버튼, 그림, 하이퍼링크 셀 유형을 지원합니다. |
+| [MouseLeave](fgc5jsapi_cellevent-class-mouseleave.html) | 마우스 커서가 지정한 특정 셀에 들어왔다가 밖으로 나가는 시점에 수행(trigger)되는 이벤트입니다. 버튼, 그림, 하이퍼링크 셀 유형을 지원합니다. |
+| [SelectionChanged](fgc5jsapi_cellevent-class-selectionchanged.html) | 지정한 특정 셀의 선택값이 변경되는 시점에 수행(trigger)되는 이벤트입니다. 콤보상자, 사용자선택상자 셀 유형을 지원합니다. |
+| [ValueChanged](fgc5jsapi_cellevent-class-valuechanged.html) | 지정한 특정 셀의 입력 값이 변경되는 시점에 수행(trigger)되는 이벤트입니다. 입력 상자, 여러 줄 입력 상자 등 입력하는 형식의 셀 유형을 지원합니다. |
 
 <br /><br />

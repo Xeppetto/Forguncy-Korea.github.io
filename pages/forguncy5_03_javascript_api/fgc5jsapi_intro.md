@@ -75,7 +75,7 @@ Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링�
 | Helper | Helper Method와 관련한 정보들의 속성을 제공하는 Class입니다. |
 | ListView | ListView Object를 관련 Class입니다. |
 | ListViewEvents | ListView에서 사용할 수 있는 이벤트를 설정하는 Class입니다. |
-| PageEvents | Page에서 사용할 수 있는 이벤트 관련 Class입니다. |
+| [PageEvents](fgc5jsapi_cellevent-class-list.html) | Page에서 사용할 수 있는 이벤트 관련 Class입니다. |
 | SpecialPath | Forguncy내 특정 경로와 관련된 Class입니다. |
 
 <br />
