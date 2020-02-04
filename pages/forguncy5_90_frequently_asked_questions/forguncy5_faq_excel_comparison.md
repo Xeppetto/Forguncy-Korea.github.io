@@ -1,5 +1,5 @@
 ---
-title: Forguncy FAQ
+title: Forguncy와 Excel 비교
 tags: [Forguncy, 자주 묻는 질문, FAQ, 엑셀, 비교, 함수]
 keywords: Forguncy, 엑셀, 비교, 함수
 last_updated: Feb 4, 2020
@@ -10,7 +10,9 @@ folder: forguncy5_90_frequently_asked_questions
 ---
 
 <h2>엑셀과 Forguncy 개요</h2>
-GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 Web-Grid Component 제품을 공급하고 있으며, Forguncy는 이 SpreadJS의 기술력을 바탕으로 사용자의 PC에서 작업한 Microsoft Excel의 함수들을 자동으로 변환해 줍니다. Forguncy
+GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 Web-Grid Component 제품을 공급하고 있으며, Forguncy는 이 SpreadJS의 기술력을 바탕으로 사용자의 PC에서 작업한 Microsoft Excel의 함수들을 자동으로 변환해 줍니다. Forguncy는 사용자의 Local PC에서 작업한 Excel의 기본 함수들을 거의 완벽하게 자동으로 변환해 줍니다.
+
+단, 다른 시트 참조, 다른 파일 참조 등 Excel의 기능 중 참조 기능은 자동 변환을 지원하지 않습니다.
 
 <br /><br />
 
