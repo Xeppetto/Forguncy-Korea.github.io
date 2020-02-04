@@ -10,6 +10,8 @@ summary: "튜토리얼의 업데이트 기록입니다. 이 페이지는 정기�
 
 <h2>튜토리얼 센터 업데이트 정보 알림</h2>
 
+**2020년 2월 4일** : [Forguncy와 Microsoft Excel 간 함수 지원 비교]({{site.url}}/forguncy5_faq_excel_comparison.html)에 대한 FAQ페이지를 생성하였습니다.<br /><br />
+
 **2020년 2월 3일** : Forguncy API 중 [CellEvent 클래스]({{site.url}}/fgc5jsapi_cellevent-class-list.html) 작성을 완료하였습니다.<br /><br />
 
 **2020년 1월 31일** : Forguncy API 중 [기본 객체]({{site.url}}/fgc5jsapi_namespace.html), [페이지 객체]({{site.url}}/fgc5jsapi_page-variable.html), [Page 클래스]({{site.url}}/fgc5jsapi_page-class-list.html), [Cell 클래스]({{site.url}}/fgc5jsapi_cell-class-list.html) 작성을 완료하였습니다.<br /><br />
