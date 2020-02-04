@@ -9,9 +9,12 @@ permalink: forguncy5_faq_excel_comparison.html
 folder: forguncy5_90_frequently_asked_questions
 ---
 
-<h2>엑셀과 Forguncy 함수 비교 표</h2>
+<h2>엑셀과 Forguncy 개요</h2>
+GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 Web-Grid Component 제품을 공급하고 있으며, Forguncy는 이 SpreadJS의 기술력을 바탕으로 사용자의 PC에서 작업한 Microsoft Excel의 함수들을 자동으로 변환해 줍니다. Forguncy
 
-GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 Web-Grid Component 제품을 공급하고 있으며, Forguncy는 이 SpreadJS의 기술력을 바탕으로 사용자의 PC에서 작업한 Microsoft Excel의 함수들을 자동으로 변환해 줍니다.
+<br /><br />
+
+<h2>엑셀과 Forguncy 함수 비교 표</h2>
 
 아래는 MS Excel과 Forguncy에서 지원하는 함수 비교표입니다.
 
@@ -165,7 +168,7 @@ GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 We
 | [ERFC](https://support.office.com/en-us/article/erfc-function-736e0318-70ba-4e8b-8d08-461fe68b71b3)	| [ERFC](https://www.grapecity.com/spreadjs/docs/v13/online/ERFC.html) |
 | [ERFC.PRECISE](https://support.office.com/en-us/article/erfc-precise-function-e90e6bab-f45e-45df-b2ac-cd2eb4d4a273)	| [ERFC.PRECISE](https://www.grapecity.com/spreadjs/docs/v13/online/ERFC.PRECISE.html) |
 | [ERROR.TYPE](https://support.office.com/en-us/article/error-type-function-10958677-7c8d-44f7-ae77-b9a9ee6eefaa)	| [ERROR.TYPE](https://www.grapecity.com/spreadjs/docs/v13/online/ERRORTYPE.html) |
-| (지원안함)	()	| [EURO](https://www.grapecity.com/spreadjs/docs/v13/online/EURO.html) |
+| (지원안함) | [EURO](https://www.grapecity.com/spreadjs/docs/v13/online/EURO.html) |
 | [EUROCONVERT](https://support.office.com/en-us/article/euroconvert-function-79c8fd67-c665-450c-bb6c-15fc92f8345c)	| [EUROCONVERT](https://www.grapecity.com/spreadjs/docs/v13/online/EUROCONVERT.html) |
 | [EVEN](https://support.office.com/en-us/article/even-function-197b5f06-c795-4c1e-8696-3c3b8a646cf9)	| [EVEN](https://www.grapecity.com/spreadjs/docs/v13/online/EVEN.html) |
 | [EXACT](https://support.office.com/en-us/article/exact-function-d3087698-fc15-4a15-9631-12575cf29926)	| [EXACT](https://www.grapecity.com/spreadjs/docs/v13/online/EXACT.html) |
@@ -180,8 +183,7 @@ GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 We
 | [F.DIST.RT](https://support.office.com/en-us/article/f-dist-rt-function-d74cbb00-6017-4ac9-b7d7-6049badc0520)	| [F.DIST.RT](https://www.grapecity.com/spreadjs/docs/v13/online/F.DIST.RT.html) |
 | [FILTER](https://support.office.com/en-us/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)	| [FILTER](https://www.grapecity.com/spreadjs/docs/v13/online/filter-dynamic-array.html) |
 | [FILTERXML](https://support.office.com/en-us/article/filterxml-function-4df72efc-11ec-4951-86f5-c1374812f5b7)	| (지원안함) |
-| [FIND, FINDBs](https://support.office.com/en-us/article/find-findb-functions-c7912941-af2a-4bdf-a553-d0d89b0a0628)	| [FIND](https://www.grapecity.com/spreadjs/docs/v13/online/FIND.html) |
-| []()	| [FINDB](https://www.grapecity.com/spreadjs/docs/v13/online/FINDB.html) |
+| [FIND, FINDBs](https://support.office.com/en-us/article/find-findb-functions-c7912941-af2a-4bdf-a553-d0d89b0a0628)	| [FIND](https://www.grapecity.com/spreadjs/docs/v13/online/FIND.html), [FINDB](https://www.grapecity.com/spreadjs/docs/v13/online/FINDB.html) |
 | [F.INV](https://support.office.com/en-us/article/f-inv-function-0dda0cf9-4ea0-42fd-8c3c-417a1ff30dbe)	| [F.INV](https://www.grapecity.com/spreadjs/docs/v13/online/F.INV.html) |
 | [F.INV.RT](https://support.office.com/en-us/article/f-inv-rt-function-d371aa8f-b0b1-40ef-9cc2-496f0693ac00)	| [F.INV.RT](https://www.grapecity.com/spreadjs/docs/v13/online/F.INV.RT.html) |
 | [FINV](https://support.office.com/en-us/article/finv-function-4d46c97c-c368-4852-bc15-41e8e31140b1)	| [FINV](https://www.grapecity.com/spreadjs/docs/v13/online/FINV.html) |
@@ -247,10 +249,10 @@ GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 We
 | [IMPRODUCT](https://support.office.com/en-us/article/improduct-function-2fb8651a-a4f2-444f-975e-8ba7aab3a5ba)	| [IMPRODUCT](https://www.grapecity.com/spreadjs/docs/v13/online/IMPRODUCT.html) |
 | [IMREAL](https://support.office.com/en-us/article/imreal-function-d12bc4c0-25d0-4bb3-a25f-ece1938bf366)	| [IMREAL](https://www.grapecity.com/spreadjs/docs/v13/online/IMREAL.html) |
 | [IMSEC](https://support.office.com/en-us/article/imsec-function-6df11132-4411-4df4-a3dc-1f17372459e0)	| [IMSEC](https://www.grapecity.com/spreadjs/docs/v13/online/IMSEC.html) |
-| (지원안함)	()	| [IMSECH](https://www.grapecity.com/spreadjs/docs/v13/online/IMSECH.html) |
-| (지원안함)	()	| [IMCOSH](https://www.grapecity.com/spreadjs/docs/v13/online/IMCOSH.html) |
-| (지원안함)	()	| [IMCOT](https://www.grapecity.com/spreadjs/docs/v13/online/IMCOT.html) |
-| (지원안함)	()	| [IMCSC](https://www.grapecity.com/spreadjs/docs/v13/online/IMCSC.html) |
+| (지원안함) | [IMSECH](https://www.grapecity.com/spreadjs/docs/v13/online/IMSECH.html) |
+| (지원안함) | [IMCOSH](https://www.grapecity.com/spreadjs/docs/v13/online/IMCOSH.html) |
+| (지원안함) | [IMCOT](https://www.grapecity.com/spreadjs/docs/v13/online/IMCOT.html) |
+| (지원안함) | [IMCSC](https://www.grapecity.com/spreadjs/docs/v13/online/IMCSC.html) |
 | [IMSECH](https://support.office.com/en-us/article/imsech-function-f250304f-788b-4505-954e-eb01fa50903b)	| [IMCSCH](https://www.grapecity.com/spreadjs/docs/v13/online/IMCSCH.html) |
 | [IMSIN](https://support.office.com/en-us/article/imsin-function-1ab02a39-a721-48de-82ef-f52bf37859f6)	| [IMSIN](https://www.grapecity.com/spreadjs/docs/v13/online/IMSIN.html) |
 | [IMSINH](https://support.office.com/en-us/article/imsinh-function-dfb9ec9e-8783-4985-8c42-b028e9e8da3d)	| [IMSINH](https://www.grapecity.com/spreadjs/docs/v13/online/IMSINH.html) |
@@ -285,10 +287,8 @@ GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 We
 | [KURT](https://support.office.com/en-us/article/kurt-function-bc3a265c-5da4-4dcb-b7fd-c237789095ab)	| [KURT](https://www.grapecity.com/spreadjs/docs/v13/online/KURT.html) |
 | [LARGE](https://support.office.com/en-us/article/large-function-3af0af19-1190-42bb-bb8b-01672ec00a64)	| [LARGE](https://www.grapecity.com/spreadjs/docs/v13/online/LARGE.html) |
 | [LCM](https://support.office.com/en-us/article/lcm-function-7152b67a-8bb5-4075-ae5c-06ede5563c94)	| [LCM](https://www.grapecity.com/spreadjs/docs/v13/online/LCM.html) |
-| [LEFT, LEFTBs](https://support.office.com/en-us/article/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c)	| [LEFT](https://www.grapecity.com/spreadjs/docs/v13/online/LEFT.html) |
-| []()	| [LEFTB](https://www.grapecity.com/spreadjs/docs/v13/online/LEFTB.html) |
-| [LEN, LENBs](https://support.office.com/en-us/article/len-lenb-functions-29236f94-cedc-429d-affd-b5e33d2c67cb)	| [LEN](https://www.grapecity.com/spreadjs/docs/v13/online/LEN.html) |
-| []()	| [LENB](https://www.grapecity.com/spreadjs/docs/v13/online/LENB.html) |
+| [LEFT, LEFTBs](https://support.office.com/en-us/article/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c)	| [LEFT](https://www.grapecity.com/spreadjs/docs/v13/online/LEFT.html), [LEFTB](https://www.grapecity.com/spreadjs/docs/v13/online/LEFTB.html) |
+| [LEN, LENBs](https://support.office.com/en-us/article/len-lenb-functions-29236f94-cedc-429d-affd-b5e33d2c67cb)	| [LEN](https://www.grapecity.com/spreadjs/docs/v13/online/LEN.html), [LENB](https://www.grapecity.com/spreadjs/docs/v13/online/LENB.html) |
 | [LINEST](https://support.office.com/en-us/article/linest-function-84d7d0d9-6e50-4101-977a-fa7abf772b6d)	| [LINEST](https://www.grapecity.com/spreadjs/docs/v13/online/LINEST.html) |
 | [LN](https://support.office.com/en-us/article/ln-function-81fe1ed7-dac9-4acd-ba1d-07a142c6118f)	| [LN](https://www.grapecity.com/spreadjs/docs/v13/online/LN.html) |
 | [LOG](https://support.office.com/en-us/article/log-function-4e82f196-1ca9-4747-8fb0-6c4a3abb3280)	| [LOG](https://www.grapecity.com/spreadjs/docs/v13/online/LOG.html) |
@@ -307,8 +307,7 @@ GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 We
 | [MDETERM](https://support.office.com/en-us/article/mdeterm-function-e7bfa857-3834-422b-b871-0ffd03717020)	| [MDETERM](https://www.grapecity.com/spreadjs/docs/v13/online/MDETERM.html) |
 | [MDURATION](https://support.office.com/en-us/article/mduration-function-b3786a69-4f20-469a-94ad-33e5b90a763c)	| [MDURATION](https://www.grapecity.com/spreadjs/docs/v13/online/MDURATION.html) |
 | [MEDIAN](https://support.office.com/en-us/article/median-function-d0916313-4753-414c-8537-ce85bdd967d2)	| [MEDIAN](https://www.grapecity.com/spreadjs/docs/v13/online/MEDIAN.html) |
-| [MID, MIDBs](https://support.office.com/en-us/article/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028)	| [MID](https://www.grapecity.com/spreadjs/docs/v13/online/MID.html) |
-| []()	| [MIDB](https://www.grapecity.com/spreadjs/docs/v13/online/MIDB.html) |
+| [MID, MIDBs](https://support.office.com/en-us/article/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028)	| [MID](https://www.grapecity.com/spreadjs/docs/v13/online/MID.html), [MIDB](https://www.grapecity.com/spreadjs/docs/v13/online/MIDB.html) |
 | [MIN](https://support.office.com/en-us/article/min-function-61635d12-920f-4ce2-a70f-96f202dcc152)	| [MIN](https://www.grapecity.com/spreadjs/docs/v13/online/MIN.html) |
 | [MINIFS](https://support.office.com/en-us/article/minifs-function-6ca1ddaa-079b-4e74-80cc-72eef32e6599)	| [MINIFS](https://www.grapecity.com/spreadjs/docs/v13/online/MINIFS.html) |
 | [MINA](https://support.office.com/en-us/article/mina-function-245a6f46-7ca5-4dc7-ab49-805341bc31d3)	| [MINA](https://www.grapecity.com/spreadjs/docs/v13/online/MINA.html) |
@@ -393,12 +392,10 @@ GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 We
 | [RATE](https://support.office.com/en-us/article/rate-function-9f665657-4a7e-4bb7-a030-83fc59e748ce)	| [RATE](https://www.grapecity.com/spreadjs/docs/v13/online/RATE.html) |
 | [RECEIVED](https://support.office.com/en-us/article/received-function-7a3f8b93-6611-4f81-8576-828312c9b5e5)	| [RECEIVED](https://www.grapecity.com/spreadjs/docs/v13/online/RECEIVED.html) |
 | [REGISTER.ID](https://support.office.com/en-us/article/register-id-function-f8f0af0f-fd66-4704-a0f2-87b27b175b50)	| (지원안함) |
-| (지원안함)	()	| [REFRESH](https://www.grapecity.com/spreadjs/docs/v13/online/REFRESH.html) |
-| [REPLACE, REPLACEBs](https://support.office.com/en-us/article/replace-replaceb-functions-8d799074-2425-4a8a-84bc-82472868878a)	| [REPLACE](https://www.grapecity.com/spreadjs/docs/v13/online/REPLACE.html) |
-| []()	| [REPLACEB](https://www.grapecity.com/spreadjs/docs/v13/online/REPLACEB.html) |
+| (지원안함) | [REFRESH](https://www.grapecity.com/spreadjs/docs/v13/online/REFRESH.html) |
+| [REPLACE, REPLACEBs](https://support.office.com/en-us/article/replace-replaceb-functions-8d799074-2425-4a8a-84bc-82472868878a)	| [REPLACE](https://www.grapecity.com/spreadjs/docs/v13/online/REPLACE.html), [REPLACEB](https://www.grapecity.com/spreadjs/docs/v13/online/REPLACEB.html) |
 | [REPT](https://support.office.com/en-us/article/rept-function-04c4d778-e712-43b4-9c15-d656582bb061)	| [REPT](https://www.grapecity.com/spreadjs/docs/v13/online/REPT.html) |
-| [RIGHT, RIGHTBs](https://support.office.com/en-us/article/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)	| [RIGHT](https://www.grapecity.com/spreadjs/docs/v13/online/RIGHT.html) |
-| []()	| [RIGHTB](https://www.grapecity.com/spreadjs/docs/v13/online/RIGHTB.html) |
+| [RIGHT, RIGHTBs](https://support.office.com/en-us/article/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)	| [RIGHT](https://www.grapecity.com/spreadjs/docs/v13/online/RIGHT.html), [RIGHTB](https://www.grapecity.com/spreadjs/docs/v13/online/RIGHTB.html) |
 | [ROMAN](https://support.office.com/en-us/article/roman-function-d6b0b99e-de46-4704-a518-b45a0f8b56f5)	| [ROMAN](https://www.grapecity.com/spreadjs/docs/v13/online/ROMAN.html) |
 | [ROUND](https://support.office.com/en-us/article/round-function-c018c5d8-40fb-4053-90b1-b3e7f61a213c)	| [ROUND](https://www.grapecity.com/spreadjs/docs/v13/online/ROUND.html) |
 | [ROUNDDOWN](https://support.office.com/en-us/article/rounddown-function-2ec94c73-241f-4b01-8c6f-17e6d7968f53)	| [ROUNDDOWN](https://www.grapecity.com/spreadjs/docs/v13/online/ROUNDDOWN.html) |
@@ -408,8 +405,7 @@ GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 We
 | [RRI](https://support.office.com/en-us/article/rri-function-6f5822d8-7ef1-4233-944c-79e8172930f4)	| [RRI](https://www.grapecity.com/spreadjs/docs/v13/online/RRI.html) |
 | [RSQ](https://support.office.com/en-us/article/rsq-function-d7161715-250d-4a01-b80d-a8364f2be08f)	| [RSQ](https://www.grapecity.com/spreadjs/docs/v13/online/RSQ.html) |
 | [RTD](https://support.office.com/en-us/article/rtd-function-e0cc001a-56f0-470a-9b19-9455dc0eb593)	| (지원안함) |
-| [SEARCH, SEARCHBs](https://support.office.com/en-us/article/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)	| [SEARCH](https://www.grapecity.com/spreadjs/docs/v13/online/SEARCH.html) |
-| []()	| [SEARCHB](https://www.grapecity.com/spreadjs/docs/v13/online/SEARCHB.html) |
+| [SEARCH, SEARCHBs](https://support.office.com/en-us/article/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)	| [SEARCH](https://www.grapecity.com/spreadjs/docs/v13/online/SEARCH.html, [SEARCHB](https://www.grapecity.com/spreadjs/docs/v13/online/SEARCHB.html) |
 | [SEC](https://support.office.com/en-us/article/sec-function-ff224717-9c87-4170-9b58-d069ced6d5f7)	| [SEC](https://www.grapecity.com/spreadjs/docs/v13/online/SEC.html) |
 | [SECH](https://support.office.com/en-us/article/sech-function-e05a789f-5ff7-4d7f-984a-5edb9b09556f)	| [SECH](https://www.grapecity.com/spreadjs/docs/v13/online/SECH.html) |
 | [SECOND](https://support.office.com/en-us/article/second-function-740d1cfc-553c-4099-b668-80eaa24e8af1)	| [SECOND](https://www.grapecity.com/spreadjs/docs/v13/online/SECOND.html) |
@@ -508,6 +504,56 @@ GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 We
 | [YIELDMAT](https://support.office.com/en-us/article/yieldmat-function-ba7d1809-0d33-4bcb-96c7-6c56ec62ef6f)	| [YIELDMAT](https://www.grapecity.com/spreadjs/docs/v13/online/YIELDMAT.html) |
 | [Z.TEST](https://support.office.com/en-us/article/z-test-function-d633d5a3-2031-4614-a016-92180ad82bee)	| [ZTEST](https://www.grapecity.com/spreadjs/docs/v13/online/ZTEST.html) |
 | [ZTEST](https://support.office.com/en-us/article/ztest-function-8f33be8a-6bd6-4ecc-8e3a-d9a4420c4a6a)	| [Z.TEST](https://www.grapecity.com/spreadjs/docs/v13/online/Z.TEST.html) |
+
+<br /><br />
+
+<h2>상호 지원하지 않는 함수 목록만 보기</h2>
+
+아래 정리된 목록은 위 전체 목록에도 있지만, 상호 지원하지 않는 함수만 보고 싶은 분들을 위해 따로 정리한 내용입니다.
+
+| 엑셀만 지원하는 함수 목록 | Forguncy만 지원하는 함수 목록 |
+| --- | --- |
+| [ASC](https://support.office.com/en-us/article/asc-function-0b6abf1c-c663-4004-a964-ebc00b723266)	| (지원안함) |
+| [CALL](https://support.office.com/en-us/article/call-function-32d58445-e646-4ffd-8d5e-b45077a5e995)	| (지원안함) |
+| [CELL](https://support.office.com/en-us/article/cell-function-51bd39a5-f338-4dbe-a33f-955d67c2b2cf)	| (지원안함) |
+| [CUBEKPIMEMBER](https://support.office.com/en-us/article/cubekpimember-function-744608bf-2c62-42cd-b67a-a56109f4b03b)	| (지원안함) |
+| [CUBEMEMBER](https://support.office.com/en-us/article/cubemember-function-0f6a15b9-2c18-4819-ae89-e1b5c8b398ad)	| (지원안함) |
+| [CUBEMEMBERPROPERTY](https://support.office.com/en-us/article/cubememberproperty-function-001e57d6-b35a-49e5-abcd-05ff599e8951)	| (지원안함) |
+| [CUBERANKEDMEMBER](https://support.office.com/en-us/article/cuberankedmember-function-07efecde-e669-4075-b4bf-6b40df2dc4b3)	| (지원안함) |
+| [CUBESET](https://support.office.com/en-us/article/cubeset-function-5b2146bd-62d6-4d04-9d8f-670e993ee1d9)	| (지원안함) |
+| [CUBESETCOUNT](https://support.office.com/en-us/article/cubesetcount-function-c4c2a438-c1ff-4061-80fe-982f2d705286)	| (지원안함) |
+| [CUBEVALUE](https://support.office.com/en-us/article/cubevalue-function-8733da24-26d1-4e34-9b3a-84a8f00dcbe0)	| (지원안함) |
+| [DBCS](https://support.office.com/en-us/article/dbcs-function-a4025e73-63d2-4958-9423-21a24794c9e5)	| (지원안함) |
+| (지원안함) | [EURO](https://www.grapecity.com/spreadjs/docs/v13/online/EURO.html) |
+| [FILTERXML](https://support.office.com/en-us/article/filterxml-function-4df72efc-11ec-4951-86f5-c1374812f5b7)	| (지원안함) |
+| [FORECAST.ETS](https://support.office.com/en-us/article/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e)	| (지원안함) |
+| [FORECAST.ETS.CONFINT](https://support.office.com/en-us/article/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e)	| (지원안함) |
+| [FORECAST.ETS.SEASONALITY](https://support.office.com/en-us/article/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e)	| (지원안함) |
+| [FORECAST.ETS.STAT](https://support.office.com/en-us/article/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e)	| (지원안함) |
+| [FORECAST.LINEAR](https://support.office.com/en-us/article/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e)	| (지원안함) |
+| [GETPIVOTDATA](https://support.office.com/en-us/article/getpivotdata-function-8c083b99-a922-4ca0-af5e-3af55960761f)	| (지원안함) |
+| [HYPERLINK](https://support.office.com/en-us/article/hyperlink-function-333c7ce6-c5ae-4164-9c47-7de9b76f577f)	| (지원안함) |
+| [IMCOSH](https://support.office.com/en-us/article/imcosh-function-053e4ddb-4122-458b-be9a-457c405e90ff)	| (지원안함) |
+| [IMCOT](https://support.office.com/en-us/article/imcot-function-dc6a3607-d26a-4d06-8b41-8931da36442c)	| (지원안함) |
+| [IMCSC](https://support.office.com/en-us/article/imcsc-function-9e158d8f-2ddf-46cd-9b1d-98e29904a323)	| (지원안함) |
+| [IMCSCH](https://support.office.com/en-us/article/imcsch-function-c0ae4f54-5f09-4fef-8da0-dc33ea2c5ca9)	| (지원안함) |
+| (지원안함) | [IMSECH](https://www.grapecity.com/spreadjs/docs/v13/online/IMSECH.html) |
+| (지원안함) | [IMCOSH](https://www.grapecity.com/spreadjs/docs/v13/online/IMCOSH.html) |
+| (지원안함) | [IMCOT](https://www.grapecity.com/spreadjs/docs/v13/online/IMCOT.html) |
+| (지원안함) | [IMCSC](https://www.grapecity.com/spreadjs/docs/v13/online/IMCSC.html) |
+| [INFO](https://support.office.com/en-us/article/info-function-725f259a-0e4b-49b3-8b52-58815c69acae)	| (지원안함) |
+| [JIS](https://support.office.com/en-us/article/jis-function-b72fb1a7-ba52-448a-b7d3-d2610868b7e2)	| (지원안함) |
+| [MUNIT](https://support.office.com/en-us/article/munit-function-c9fe916a-dc26-4105-997d-ba22799853a3)	| (지원안함) |
+| [NUMBERVALUE](https://support.office.com/en-us/article/numbervalue-function-1b05c8cf-2bfa-4437-af70-596c7ea7d879)	| (지원안함) |
+| [PHONETIC](https://support.office.com/en-us/article/phonetic-function-9a329dac-0c0f-42f8-9a55-639086988554)	| (지원안함) |
+| [REGISTER.ID](https://support.office.com/en-us/article/register-id-function-f8f0af0f-fd66-4704-a0f2-87b27b175b50)	| (지원안함) |
+| (지원안함) | [REFRESH](https://www.grapecity.com/spreadjs/docs/v13/online/REFRESH.html) |
+| [RTD](https://support.office.com/en-us/article/rtd-function-e0cc001a-56f0-470a-9b19-9455dc0eb593)	| (지원안함) |
+| [SHEET](https://support.office.com/en-us/article/sheet-function-44718b6f-8b87-47a1-a9d6-b701c06cff24)	| (지원안함) |
+| [SHEETS](https://support.office.com/en-us/article/sheets-function-770515eb-e1e8-45ce-8066-b557e5e4b80b)	| (지원안함) |
+| [WEBSERVICE](https://support.office.com/en-us/article/webservice-function-0546a35a-ecc6-4739-aed7-c0b7ce1562c4)	| (지원안함) |
+| [XLOOKUP](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929)	| (지원안함) |
+| [XMATCH](https://support.office.com/en-us/article/xmatch-function-d966da31-7a6b-4a13-a1c6-5a33ed6a0312)	| (지원안함) |
 
 <br /><br />
 
