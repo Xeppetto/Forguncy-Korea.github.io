@@ -317,5 +317,8 @@ entries:
           - title: Forguncy 제품 관련 FAQ
             url: /forguncy5_faq_general.html
             output: web, pdf
-        
+          - title: Forguncy와 Excel 함수 비교
+            url: /forguncy5_faq_excel_comparison.html
+            output: web, pdf
+            
       
