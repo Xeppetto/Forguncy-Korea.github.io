@@ -405,7 +405,7 @@ GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 We
 | [RRI](https://support.office.com/en-us/article/rri-function-6f5822d8-7ef1-4233-944c-79e8172930f4)	| [RRI](https://www.grapecity.com/spreadjs/docs/v13/online/RRI.html) |
 | [RSQ](https://support.office.com/en-us/article/rsq-function-d7161715-250d-4a01-b80d-a8364f2be08f)	| [RSQ](https://www.grapecity.com/spreadjs/docs/v13/online/RSQ.html) |
 | [RTD](https://support.office.com/en-us/article/rtd-function-e0cc001a-56f0-470a-9b19-9455dc0eb593)	| (지원안함) |
-| [SEARCH, SEARCHBs](https://support.office.com/en-us/article/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)	| [SEARCH](https://www.grapecity.com/spreadjs/docs/v13/online/SEARCH.html, [SEARCHB](https://www.grapecity.com/spreadjs/docs/v13/online/SEARCHB.html) |
+| [SEARCH, SEARCHBs](https://support.office.com/en-us/article/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)	| [SEARCH](https://www.grapecity.com/spreadjs/docs/v13/online/SEARCH.html), [SEARCHB](https://www.grapecity.com/spreadjs/docs/v13/online/SEARCHB.html) |
 | [SEC](https://support.office.com/en-us/article/sec-function-ff224717-9c87-4170-9b58-d069ced6d5f7)	| [SEC](https://www.grapecity.com/spreadjs/docs/v13/online/SEC.html) |
 | [SECH](https://support.office.com/en-us/article/sech-function-e05a789f-5ff7-4d7f-984a-5edb9b09556f)	| [SECH](https://www.grapecity.com/spreadjs/docs/v13/online/SECH.html) |
 | [SECOND](https://support.office.com/en-us/article/second-function-740d1cfc-553c-4099-b668-80eaa24e8af1)	| [SECOND](https://www.grapecity.com/spreadjs/docs/v13/online/SECOND.html) |
