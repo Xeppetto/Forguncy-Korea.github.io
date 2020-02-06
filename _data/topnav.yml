@@ -7,8 +7,8 @@ topnav:
         url: /index.html
       - title: 새로운 기능
         url: /under_construction.html
-      - title: 다운로드
-        external_url: https://www.grapecity.co.kr/download/forguncy
+      - title: 데모보기
+        external_url: https://forguncy.co.kr/demo
 #Topnav dropdowns
 # topnav_dropdowns:
 # - title: Topnav dropdowns
