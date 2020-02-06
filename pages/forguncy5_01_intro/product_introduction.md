@@ -9,9 +9,9 @@ permalink: product_introduction.html
 folder: forguncy5_01_intro
 ---
 
-Forguncy(포건시)는 GrapeCity에서 개발한 웹개발 도구입니다. Forguncy는 웹개발에 대한 지식이 없는 사람들도 Excel을 사용하는 정도의 학습으로 웹개발을 시작하실 수 있는 도구입니다. 
-
 > 본 페이지에서는 3가지 정도의 주요 장점을 소개합니다. 본 페이지 외 정보는 [Forguncy 온라인 제품 브로셔](https://www.grapecity.co.kr/solutions/forguncy)를 참고하여 주세요.
+
+Forguncy(포건시)는 GrapeCity에서 개발한 웹개발 도구입니다. Forguncy는 웹개발에 대한 지식이 없는 사람들도 Excel을 사용하는 정도의 학습으로 웹개발을 시작하실 수 있는 도구입니다. 
 
 Forguncy의 가장 강혁한 기능 중 하나는 여러 데이터 관리 시스템에 직접 연결하여 데이터를 관리할 수 있다는 점입니다. 업무상 중요한 데이터들을 이용하기 위해 시스템에 직접 연결하기 어렵거나, 여러 시스템의 데이터를 모아서 사용해야 하는 경우 가장 강력한 힘을 발휘합니다. 일반 업무에서 사용하는 Excel 또는 Access에서 관리하시던 데이터들을 Forguncy로 모아 새로운 업무 시스템을 개발하실 수 있습니다.
 
