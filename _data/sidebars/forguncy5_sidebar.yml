@@ -324,6 +324,10 @@ entries:
                 url: /fgc5jsapi_listview-class-addnewrow.html
                 output: web, pdf
 
+              - title: Page - addSelectedRow
+                url: /fgc5jsapi_listview-class-addselectedrow.html
+                output: web, pdf
+
       - title: F.A.Q.
         output: web, pdf
         folderitems:
