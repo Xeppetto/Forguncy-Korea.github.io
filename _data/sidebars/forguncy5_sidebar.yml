@@ -108,6 +108,95 @@ entries:
                 url: /fgc5jsapi_page-variable.html
                 output: web, pdf
 
+            #Forguncy API - Page 클래스 - subfolders
+            - title: Forguncy API - Page 클래스
+              output: web, pdf
+              subfolderitems:
+
+              - title: Page 클래스 -  전체 목록
+                url: /fgc5jsapi_page-class-list.html
+                output: web, pdf
+
+              - title: Page - getUserInfo
+                url: /fgc5jsapi_page-class-getuserinfo.html
+                output: web, pdf
+
+              - title: Page - getUserName
+                url: /fgc5jsapi_page-class-getusername.html
+                output: web, pdf
+
+              - title: Page - bind
+                url: /fgc5jsapi_page-class-bind.html
+                output: web, pdf
+
+              - title: Page - unbind
+                url: /fgc5jsapi_page-class-unbind.html
+                output: web, pdf
+
+              - title: Page - unbindall
+                url: /fgc5jsapi_page-class-unbindall.html
+                output: web, pdf
+
+              - title: Page - ready
+                url: /fgc5jsapi_page-class-ready.html
+                output: web, pdf
+
+              - title: Page - getCellByLocation
+                url: /fgc5jsapi_page-class-getcellbylocation.html
+                output: web, pdf
+
+              - title: Page - getCell
+                url: /fgc5jsapi_page-class-getcell.html
+                output: web, pdf
+
+              - title: Page - getCellArray
+                url: /fgc5jsapi_page-class-getcellarray.html
+                output: web, pdf
+
+              - title: Page - getContainerCells
+                url: /fgc5jsapi_page-class-getcontainercells.html
+                output: web, pdf
+                
+              - title: Page - getListView
+                url: /fgc5jsapi_page-class-getlistview.html
+                output: web, pdf
+
+              - title: Page - getListViews
+                url: /fgc5jsapi_page-class-getlistviews.html
+                output: web, pdf
+
+              - title: Page - getPageName
+                url: /fgc5jsapi_page-class-getpagename.html
+                output: web, pdf
+
+              - title: Page - getMasterPageName
+                url: /fgc5jsapi_page-class-getmasterpagename.html
+                output: web, pdf
+
+              - title: Page - getSubPageInfoByPageID
+                url: /fgc5jsapi_page-class-getsubpageinfobypageid.html
+                output: web, pdf
+
+              - title: Page - reloadBindingData
+                url: /fgc5jsapi_page-class-reloadbindingdata.html
+                output: web, pdf
+                
+              - title: Page - setCurrentRow
+                url: /fgc5jsapi_page-class-setcurrentrow.html
+                output: web, pdf
+                
+              - title: Page - recalc
+                url: /fgc5jsapi_page-class-recalc.html
+                output: web, pdf
+
+              - title: Page - suspendCalc
+                url: /fgc5jsapi_page-class-suspendcalc.html
+                output: web, pdf
+
+              - title: Page - resumeCalc
+                url: /fgc5jsapi_page-class-resumecalc.html
+                output: web, pdf
+
             #Forguncy API - Cell 클래스 - subfolders
             - title: Forguncy API - Cell 클래스
               output: web, pdf
@@ -222,93 +311,17 @@ entries:
                 url: /fgc5jsapi_cellevent-class-valuechanged.html
                 output: web, pdf
 
-            #Forguncy API - Page 클래스 - subfolders
-            - title: Forguncy API - Page 클래스
+            #Forguncy API - ListView 클래스 - subfolders
+            - title: Forguncy API - ListView 클래스
               output: web, pdf
               subfolderitems:
 
-              - title: Page 클래스 -  전체 목록
-                url: /fgc5jsapi_page-class-list.html
+              - title: ListView 클래스 -  전체 목록
+                url: /fgc5jsapi_listview-class-list.html
                 output: web, pdf
 
-              - title: Page - getUserInfo
-                url: /fgc5jsapi_page-class-getuserinfo.html
-                output: web, pdf
-
-              - title: Page - getUserName
-                url: /fgc5jsapi_page-class-getusername.html
-                output: web, pdf
-
-              - title: Page - bind
-                url: /fgc5jsapi_page-class-bind.html
-                output: web, pdf
-
-              - title: Page - unbind
-                url: /fgc5jsapi_page-class-unbind.html
-                output: web, pdf
-
-              - title: Page - unbindall
-                url: /fgc5jsapi_page-class-unbindall.html
-                output: web, pdf
-
-              - title: Page - ready
-                url: /fgc5jsapi_page-class-ready.html
-                output: web, pdf
-
-              - title: Page - getCellByLocation
-                url: /fgc5jsapi_page-class-getcellbylocation.html
-                output: web, pdf
-
-              - title: Page - getCell
-                url: /fgc5jsapi_page-class-getcell.html
-                output: web, pdf
-
-              - title: Page - getCellArray
-                url: /fgc5jsapi_page-class-getcellarray.html
-                output: web, pdf
-
-              - title: Page - getContainerCells
-                url: /fgc5jsapi_page-class-getcontainercells.html
-                output: web, pdf
-                
-              - title: Page - getListView
-                url: /fgc5jsapi_page-class-getlistview.html
-                output: web, pdf
-
-              - title: Page - getListViews
-                url: /fgc5jsapi_page-class-getlistviews.html
-                output: web, pdf
-
-              - title: Page - getPageName
-                url: /fgc5jsapi_page-class-getpagename.html
-                output: web, pdf
-
-              - title: Page - getMasterPageName
-                url: /fgc5jsapi_page-class-getmasterpagename.html
-                output: web, pdf
-
-              - title: Page - getSubPageInfoByPageID
-                url: /fgc5jsapi_page-class-getsubpageinfobypageid.html
-                output: web, pdf
-
-              - title: Page - reloadBindingData
-                url: /fgc5jsapi_page-class-reloadbindingdata.html
-                output: web, pdf
-                
-              - title: Page - setCurrentRow
-                url: /fgc5jsapi_page-class-setcurrentrow.html
-                output: web, pdf
-                
-              - title: Page - recalc
-                url: /fgc5jsapi_page-class-recalc.html
-                output: web, pdf
-
-              - title: Page - suspendCalc
-                url: /fgc5jsapi_page-class-suspendcalc.html
-                output: web, pdf
-
-              - title: Page - resumeCalc
-                url: /fgc5jsapi_page-class-resumecalc.html
+              - title: Page - addNewRow
+                url: /fgc5jsapi_listview-class-addnewrow.html
                 output: web, pdf
 
       - title: F.A.Q.
