@@ -18,7 +18,7 @@ folder: forguncy5_03_javascript_api
 | Method 목록 | 상세 설명 |
 | --- | --- |
 | [addNewRow](fgc5jsapi_listview-class-addnewrow.html) | 새로운 행(Row)를 추가합니다. 내용을 포함하여 추가할 수도 있습니댜. |
-| [addSelectedRow]() | (작성 중) |
+| [addSelectedRow](fgc5jsapi_listview-class-addselectedrow.html) | 테이블의 특정 행을 선택합니다. ListView의 다중 선택을 활성화하는 경우 특정 행을 선택할 수 있습니다. |
 | [bind]() | (작성 중) |
 | [clearAllSelectedRows]() | (작성 중) |
 | [clearSelectedRowByQuery]() | (작성 중) |

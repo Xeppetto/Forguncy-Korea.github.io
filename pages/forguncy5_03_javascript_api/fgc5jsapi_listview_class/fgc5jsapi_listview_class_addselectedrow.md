@@ -14,7 +14,7 @@ listview.addSelectedRow(rowIndex)
 <br /><br />
 
 ### addSelectedRow Method 설명
-테이블의 특정 행을 선택합니다. ListView의 다중 선택을 활성화하는 경우 특정 행을 선택/해제할 수 있습니다.
+테이블의 특정 행을 선택합니다. ListView의 다중 선택을 활성화하는 경우 특정 행을 선택할 수 있습니다.
 <br /><br />
 
 ### Parameter 설명
@@ -30,7 +30,7 @@ listview.addSelectedRow(rowIndex)
 <br /><br />
 
 ### 활용 예제
-아래는 listview.addSelectedRow를 사용하는 예제입니다. 버튼을 클릭하면 지정한 번호의 행이 ListView에서 선택/해제됩니다.
+아래는 listview.addSelectedRow를 사용하는 예제입니다. 버튼을 클릭하면 지정한 번호의 행이 ListView에서 선택됩니다.
 <br />
 
 ~~~javascript
