@@ -10,7 +10,7 @@ summary: "튜토리얼의 업데이트 기록입니다. 이 페이지는 정기�
 
 <h2>튜토리얼 센터 업데이트 정보 알림</h2>
 
-**2020년 2월 7일** : 상단 메뉴에 [데모보기](https://forguncy.co.kr/demo/) 링크를 추가하였습니다. 이제 매뉴얼 페이지에서 '데모보기'를 클릭하여 Forguncy로 구현한 여러 예제를 직접 보실 수 있습니다.
+**2020년 2월 7일** : 상단 메뉴에 [데모보기](https://forguncy.co.kr/demo/){:target="_blank"} 링크를 추가하였습니다. 이제 매뉴얼 페이지에서 '데모보기'를 클릭하여 Forguncy로 구현한 여러 예제를 직접 보실 수 있습니다.
 
 **2020년 2월 4일** : [Forguncy와 Microsoft Excel 간 함수 지원 비교]({{site.url}}/forguncy5_faq_excel_comparison.html)에 대한 FAQ페이지를 생성하였습니다.<br /><br />
 
@@ -24,6 +24,6 @@ summary: "튜토리얼의 업데이트 기록입니다. 이 페이지는 정기�
 
 **2019년 11월 29일** : Forguncy [제품 소개]({{site.url}}/product_introduction.html)와 [특장점 소개]({{site.url}}/forguncy_characteristic.html) 작성을 완료하였습니다. 제품 설치와 제거, 정품 인증 방법에 대해 매뉴얼 작성을 완료하였습니다.<br /><br />
 
-**2019년 11월 25일** : Forguncy를 [다운로드](https://www.grapecity.co.kr/download/forguncy) 받으실 수 있고, [제품 구입 관련 문의](mailto:sales-kor@grapecity.com)를 보내실 수 있는 창구를 마련하였습니다.<br /><br />
+**2019년 11월 25일** : Forguncy를 [다운로드](https://www.grapecity.co.kr/download/forguncy){:target="_blank"} 받으실 수 있고, [제품 구입 관련 문의](mailto:sales-kor@grapecity.com)를 보내실 수 있는 창구를 마련하였습니다.<br /><br />
 
 **2019년 11월 22일** : Forguncy 튜토리얼 센터를 개설하였습니다. github.io에서 jekyll을 이용하기로 하였습니다.<br /><br />
