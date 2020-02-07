@@ -9,7 +9,7 @@ permalink: product_introduction.html
 folder: forguncy5_01_intro
 ---
 
-> 본 페이지에서는 3가지 정도의 주요 장점을 소개합니다. 본 페이지 외 정보는 [Forguncy 온라인 제품 브로셔](https://www.grapecity.co.kr/solutions/forguncy)를 참고하여 주세요.
+> 본 페이지에서는 3가지 정도의 주요 장점을 소개합니다. 본 페이지 외 정보는 [Forguncy 온라인 제품 브로셔](https://www.grapecity.co.kr/solutions/forguncy){:target="_blank"}를 참고하여 주세요.
 
 Forguncy(포건시)는 GrapeCity에서 개발한 웹개발 도구입니다. Forguncy는 웹개발에 대한 지식이 없는 사람들도 Excel을 사용하는 정도의 학습으로 웹개발을 시작하실 수 있는 도구입니다. 
 
