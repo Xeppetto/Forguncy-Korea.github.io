@@ -17,7 +17,7 @@ folder: forguncy5_03_javascript_api
 
 | Method 목록 | 상세 설명 |
 | --- | --- |
-| [addNewRow]() | (작성 중) |
+| [addNewRow](fgc5jsapi_listview-class-addnewrow.html) | 새로운 행(Row)를 추가합니다. 내용을 포함하여 추가할 수도 있습니댜. |
 | [addSelectedRow]() | (작성 중) |
 | [bind]() | (작성 중) |
 | [clearAllSelectedRows]() | (작성 중) |

@@ -1,19 +1,19 @@
 ---
-title: Forguncy API - ListView - addNewRow
-tags: [Forguncy, JavaScript, API, addNewRow]
+title: Forguncy API - ListView - addSelectedRow
+tags: [Forguncy, JavaScript, API, addSelectedRow]
 keywords: Forguncy API, JavaScript API, Click
 last_updated: Feb 7, 2020
-summary: "Forguncy API - ListView 클래스 중 addNewRow Method를 설명합니다."
+summary: "Forguncy API - ListView 클래스 중 addSelectedRow Method를 설명합니다."
 sidebar: forguncy5_sidebar
-permalink: fgc5jsapi_listview-class-addnewrow.html
+permalink: fgc5jsapi_listview-class-addselectedrow.html
 folder: forguncy5_03_javascript_api
 ---
 
-### ListView - addNewRow Method
-listview.addNewRow(rowValues, isText)
+### ListView - addSelectedRow Method
+listview.addSelectedRow(rowIndex)
 <br /><br />
 
-### addNewRow Method 설명
+### addSelectedRow Method 설명
 새로운 행(Row)를 추가합니다. 내용을 포함하여 추가할 수도 있습니댜.
 <br /><br />
 
@@ -21,7 +21,7 @@ listview.addNewRow(rowValues, isText)
 
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
 | --- | --- | --- | --- |
-| rowValues | 일반 객체(Object) 또는 배열(Array) | 예	| 새로운 데이터 행(Row) |
+| rowValues | plain Object 또는 [] | 예	| 새로운 데이터 행(Row) |
 | isText | boolean | 아니오	| rowValue Paramter를 텍스트로 분석해야 하는 지 여부를 정합니다. 아무 것도 입력하지 않은 경우 기본 값은 fasle입니다. |
 
 <br /><br />
@@ -31,7 +31,7 @@ listview.addNewRow(rowValues, isText)
 <br /><br />
 
 ### 활용 예제
-아래는 listview.addNewRow를 사용하는 예제입니다. 버튼을 클릭하면 미리 지정한 글자 상자가 나타납니다.
+아래는 listview.addSelectedRow를 사용하는 예제입니다. 버튼을 클릭하면 미리 지정한 글자 상자가 나타납니다.
 <br />
 
 ~~~javascript
