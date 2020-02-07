@@ -22,16 +22,16 @@ listview.addNewRow(rowValues, isText)
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
 | --- | --- | --- | --- |
 | rowValues | 일반 객체(Object) 또는 배열(Array) | 예	| 새로운 데이터 행(Row) |
-| isText | boolean | 아니오	| rowValue Paramter를 텍스트로 분석해야 하는 지 여부를 정합니다. 아무 것도 입력하지 않은 경우 기본 값은 fasle입니다. |
+| isText | boolean | 아니오	| rowValue Paramter를 텍스트로 분석해야 하는 지 여부를 정합니다. 아무 것도 입력하지 않은 경우 기본 값은 false입니다. |
 
-<br /><br />
+<br />
 
 ### Response 시 반환값
 없음, void
 <br /><br />
 
 ### 활용 예제
-아래는 listview.addNewRow를 사용하는 예제입니다. 버튼을 클릭하면 미리 지정한 글자 상자가 나타납니다.
+아래는 listview.addNewRow를 사용하는 예제입니다. 버튼을 클릭하면 값이 ListView에 추가되어 나타납니다.
 <br />
 
 ~~~javascript
@@ -66,7 +66,7 @@ listview.addNewRow(rowValues, isText)
     ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow02.png)
     <br /><br />
 
-3. ListView에 데티어를 쉽게 입력하는 방법은 아래와 같습니다. 테이블의 열-이름을 드래그하면 됩니다.
+3. ListView에 데이터를 쉽게 입력하는 방법은 아래와 같습니다. 테이블의 열-이름을 드래그하면 됩니다.
 
     ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow03.gif)
     <br /><br />

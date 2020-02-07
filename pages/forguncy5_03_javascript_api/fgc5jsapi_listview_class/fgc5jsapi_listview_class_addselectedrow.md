@@ -14,24 +14,23 @@ listview.addSelectedRow(rowIndex)
 <br /><br />
 
 ### addSelectedRow Method 설명
-새로운 행(Row)를 추가합니다. 내용을 포함하여 추가할 수도 있습니댜.
+테이블의 특정 행을 선택합니다. ListView의 다중 선택을 활성화하는 경우 특정 행을 선택/해제할 수 있습니다.
 <br /><br />
 
 ### Parameter 설명
 
 | Parameter 이름 | 타입 | 필수 | 상세 설명 |
 | --- | --- | --- | --- |
-| rowValues | plain Object 또는 [] | 예	| 새로운 데이터 행(Row) |
-| isText | boolean | 아니오	| rowValue Paramter를 텍스트로 분석해야 하는 지 여부를 정합니다. 아무 것도 입력하지 않은 경우 기본 값은 fasle입니다. |
+| rowIndex | number | 예	| 0부터 시작하는 행의 인덱스 번호 |
 
-<br /><br />
+<br />
 
 ### Response 시 반환값
 없음, void
 <br /><br />
 
 ### 활용 예제
-아래는 listview.addSelectedRow를 사용하는 예제입니다. 버튼을 클릭하면 미리 지정한 글자 상자가 나타납니다.
+아래는 listview.addSelectedRow를 사용하는 예제입니다. 버튼을 클릭하면 지정한 번호의 행이 ListView에서 선택/해제됩니다.
 <br />
 
 ~~~javascript
@@ -41,13 +40,8 @@ listview.addSelectedRow(rowIndex)
     //이름이 ListView1인 ListView를 가져옵니다.
     var listview = page.getListView("ListView1");
 
-    //가져온 ListView에 이름, 생년월일, 부서 데이터를 입력합니다.
-    listview.addNewRow (
-    {
-      "이름" : "이설",
-      "생년월일" : new Date(2012, 2, 7),
-      "부서" : "마케팅"
-    });
+    //ListView의 2번째 행(Row)을 선택합니다.
+    listview.addSelectedRow(2);
 ~~~
 
 <br />
@@ -66,29 +60,28 @@ listview.addSelectedRow(rowIndex)
     ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow02.png)
     <br /><br />
 
-3. ListView에 데티어를 쉽게 입력하는 방법은 아래와 같습니다. 테이블의 열-이름을 드래그하면 됩니다.
+3. 생성한 ListView의 제일 왼쪽 셀을 클릭 한 뒤, "디자인 탭 > 선택한 열" 옵션을 클릭합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow03.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addselectedrow05.png)
     <br /><br />
 
-4. ListView의 이름을 설정합니다. ListView의 이름은 클릭 시 오른쪽의 '셀 유형' 탭에서 나타납니다.
+4. ListView에 데이터를 쉽게 입력하는 방법은 아래와 같습니다. 테이블의 열-이름을 드래그하면 됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow04.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addselectedrow06.gif)
     <br /><br />
 
-5. ListView 내부의 각 열-이름을 설정합니다. ListView의 2번 째 줄에 열 이름을 정할 수 있습니다.<br />
-  이렇게 설정해야 ListView라는 형식의 control을 웹에서 사용할 수 있습니다.
+5. 버튼을 한 개 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령을 이용하여 코드를 입력합니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow05.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addselectedrow07.png)
     <br /><br />
 
-6. 버튼을 한 개 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령을 이용하여 코드를 입력합니다.
+6. 프로젝트를 생성합니다. 버튼을 클릭하면 ListView의 세 번 째 줄의 체크 박스가 선택됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow06.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addselectedrow08.gif)
     <br /><br />
 
-7. 프로젝트를 생성합니다. 버튼을 클릭하면 ListView에 데이터가 입력됩니다.
+7. 참고 : ListView의 Index는 0에서부터 시작합니다. 첫 번 째 데이터부터 0, 1, 2, 3, ... 순으로 늘어납니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow07.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addselectedrow09.png)
 
 <br /><br />
