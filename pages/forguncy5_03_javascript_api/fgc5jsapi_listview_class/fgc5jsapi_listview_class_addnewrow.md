@@ -38,13 +38,13 @@ listview.addNewRow
     //현재 페이지에 Namespace를 선언합니다.
     var page = Forguncy.Page;
     
-    //Cell Name이 button이라고 지정된 셀을 가져옵니다.
-    var listview = page.getListView("listview1");
+    //이름이 ListView1인 ListView를 가져옵니다.
+    var listview = page.getListView("ListView1");
 
-    //button 셀에 onClickEventFunction를 click할 때 이벤트가 발생하도록 binding합니다.
+    //가져온 ListView에 이름, 생년월일, 부서 데이터를 입력합니다.
     listview.addNewRow (
     {
-      "이름" : "이 설",
+      "이름" : "이설",
       "생년월일" : new Date(2012, 2, 7),
       "부서" : "마케팅"
     });
@@ -54,21 +54,41 @@ listview.addNewRow
 
 ### Forguncy 사용 예제
 
-1. 페이지 한 개 생성합니다. "버튼" 유형의 셀을 생성하고, 왼쪽위 Cell Name으로 buitton이라고 이름을 지정합니다.
+1. 페이지 한 개 생성합니다. 데이터베이스 테이블을 한 개 생성한 후, 이름/생년월일/부서 열을 생성합니다.<br />
+  데이터는 넣어도 되고 안 넣어도 됩니다. 본 예제에서는 알아보기 쉽게 하기 위해 가짜 데이터를 입력했습니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-click01.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow01.png)
     <br /><br />
 
-2. 해당 버튼에 "자바스크립트로 직접 프로그래밍하기" 명령으로 코드를 입력합니다.
+2. 화면의 영역을 선택하고 "ListView로 설정" 기능을 이용하여, ListView를 생성합니다.<br />
+  이 때, 데이터베이스를 선택하라고 나타나는데, 위에서 생성한 테이블을 선택하시면 됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-click02.png)
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow02.png)
     <br /><br />
 
-3. 해당 프로젝트를 실행하여 버튼을 클릭합니다.
+3. ListView에 데티어를 쉽게 입력하는 방법은 아래와 같습니다. 테이블의 열-이름을 드래그하면 됩니다.
 
-    ![]({{site.url}}/images/forguncy5/ex-ss_cellevent-click03.gif)
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow03.gif)
     <br /><br />
 
-    ※참고 : bind 메소드로 이벤트를 바인딩 하는 경우 binding하는 시점에는 아무 이벤트가 발생하지 않는 것처럼 보여 두 번 클릭하는 것처럼 보일 수 있습니다. 이는 첫 번 째 클릭 시에는 cell.bind가 실행되어 CallBack 함수인 onClickEventFunction 함수가 버튼에 바인딩되는 이벤트가 실행되기 때문에 실제 눈에 보이지 않아서 그렇습니다. CallBack 함수를 Binding하는 경우는 이벤트를 바인딩하는 시점에 한 스텝이 더 진행됩니다. ([Jquery - bind 메소드 참조](https://www.w3schools.com/jquery/event_bind.asp))
+4. ListView의 이름을 설정합니다. ListView의 이름은 클릭 시 오른쪽의 '셀 유형' 탭에서 나타납니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow04.png)
+    <br /><br />
+
+5. ListView 내부의 각 열-이름을 설정합니다. ListView의 2번 째 줄에 열 이름을 정할 수 있습니다.<br />
+  이렇게 설정해야 ListView라는 형식의 control을 웹에서 사용할 수 있습니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow05.png)
+    <br /><br />
+
+6. 버튼을 한 개 생성하고, "자바스크립트로 직접 프로그래밍하기" 명령을 이용하여 코드를 입력합니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow06.png)
+    <br /><br />
+
+7. 프로젝트를 생성합니다. 버튼을 클릭하면 ListView에 데이터가 입력됩니다.
+
+    ![]({{site.url}}/images/forguncy5/ex-ss_listview-addnewrow07.gif)
 
 <br /><br />
