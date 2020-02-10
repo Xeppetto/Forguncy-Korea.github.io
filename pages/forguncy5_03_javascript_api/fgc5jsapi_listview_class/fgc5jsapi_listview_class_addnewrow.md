@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - ListView - addNewRow
 tags: [Forguncy, JavaScript, API, addNewRow]
-keywords: Forguncy API, JavaScript API, Click
+keywords: Forguncy API, JavaScript API, addNewRow
 last_updated: Feb 7, 2020
 summary: "Forguncy API - ListView 클래스 중 addNewRow Method를 설명합니다."
 sidebar: forguncy5_sidebar

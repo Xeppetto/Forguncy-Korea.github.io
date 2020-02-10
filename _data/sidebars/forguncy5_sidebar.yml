@@ -320,6 +320,10 @@ entries:
                 url: /fgc5jsapi_listview-class-list.html
                 output: web, pdf
 
+              - title: Page - reload
+                url: /fgc5jsapi_listview-class-reload.html
+                output: web, pdf
+
               - title: Page - addNewRow
                 url: /fgc5jsapi_listview-class-addnewrow.html
                 output: web, pdf

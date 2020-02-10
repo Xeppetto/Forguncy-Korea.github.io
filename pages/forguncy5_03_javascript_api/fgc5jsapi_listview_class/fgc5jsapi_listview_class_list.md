@@ -17,40 +17,40 @@ folder: forguncy5_03_javascript_api
 
 | Method 목록 | 상세 설명 |
 | --- | --- |
+| [reload](fgc5jsapi_listview-class-reload.html) | ListView를 다시 불러오기(reload) 합니다. ListView의 설정에 "자동으로 데이터 다시 불러오기" 옵션을 설정할 수도 있습니다. |
+| [deleteRow]() | (작성 중) |
 | [addNewRow](fgc5jsapi_listview-class-addnewrow.html) | 새로운 행(Row)를 추가합니다. 내용을 포함하여 추가할 수도 있습니댜. |
 | [addSelectedRow](fgc5jsapi_listview-class-addselectedrow.html) | 테이블의 특정 행을 선택합니다. ListView의 다중 선택을 활성화하는 경우 특정 행을 선택할 수 있습니다. |
-| [bind]() | (작성 중) |
+| [isSelectedRow]() | (작성 중) |
+| [selectAllRows]() | (작성 중) |
+| [selectRow]() | (작성 중) |
 | [clearAllSelectedRows]() | (작성 중) |
 | [clearSelectedRowByQuery]() | (작성 중) |
 | [clearSelectedRow]() | (작성 중) |
-| [deleteRow]() | (작성 중) |
+| [bind]() | (작성 중) |
+| [unbind]() | (작성 중) |
+| [unbindAll]() | (작성 중) |
 | [getDataTableName]() | (작성 중) |
 | [getDesignerRangeInfo]() | (작성 중) |
 | [getMergedColumnInfos]() | (작성 중) |
 | [getName]() | (작성 중) |
-| [getPaginationInfo]() | (작성 중) |
 | [getQuery]() | (작성 중) |
 | [getRowCount]() | (작성 중) |
 | [getSelectedRowIndex]() | (작성 중) |
 | [getSelectedRowIndexs]() | (작성 중) |
 | [getSelectedRowsData]() | (작성 중) |
-| [getText]() | (작성 중) |
-| [getValue]() | (작성 중) |
 | [goToFirstPage]() | (작성 중) |
 | [goToLastPage]() | (작성 중) |
 | [goToNextPage]() | (작성 중) |
 | [goToPreviousPage]() | (작성 중) |
 | [goToSpecifiedPage]() | (작성 중) |
 | [hiddenLoadingIndicator]() | (작성 중) |
-| [isSelectedRow]() | (작성 중) |
-| [reload]() | (작성 중) |
-| [selectAllRows]() | (작성 중) |
-| [selectRow]() | (작성 중) |
+| [getText]() | (작성 중) |
 | [setText]() | (작성 중) |
+| [getValue]() | (작성 중) |
 | [setValue]() | (작성 중) |
 | [showLoadingIndicator]() | (작성 중) |
-| [unbind]() | (작성 중) |
-| [unbindAll]() | (작성 중) |
+| [getPaginationInfo]() | (작성 중) |
 | [usePaginationDisplay]() | (작성 중) |
 
 <br /><br />
