@@ -13,11 +13,9 @@ Forguncy Server는 온라인에 다수의 서비스를 배포할 목적으로 �
 
 Forguncy Server를 사용하지 않아도 Forguncy Builder만으로 서비스를 제작하여 실행하는 것이 가능하며,  Forguncy Builder에서 프로젝트를 실행하면 가상 서버가 실행되므로, 실행 중인 해당 컴퓨터의 IP 혹은 컴퓨터 이름으로 접속하시면 실행 중인 서비스를 이용하실 수 있습니다. <font color="purple">여기(준비 중)</font>를 클릭하셔서 자세한 내용을 확인하세요.
 
-1. Forguncy Server는 아직 내부 정책상 온라인으로 배포하고 있지 않습니다. Forguncy Server는 다운로드 하시려면 그레이프시티 코리아 Forguncy 영업 담당자에게 연락해 주세요. 
+> Forguncy Server는 아직 내부 정책상 온라인으로 배포하고 있지 않습니다. Forguncy Server는 다운로드 하시려면 **그레이프시티 코리아 영업 대표:** [sales-kor@grapecity.com](mailto:sales-kor@grapecity.com)에게 연락해 주세요. 
 
-- **그레이프시티 코리아 영업 대표:** [sales-kor@grapecity.com](mailto:sales-kor@grapecity.com)
-
-2. Forguncy Server 설치 파일 다운로드가 완료되면, 다운로드 받은 Forguncy5.0.104_ServerKR.exe를 더블 클릭합니다. (본 매뉴얼은 해당 버전을 기준으로 설명합니다.)
+1. Forguncy Server 설치 파일 다운로드가 완료되면, 다운로드 받은 Forguncy5.0.104_ServerKR.exe를 더블 클릭합니다. (본 매뉴얼은 해당 버전을 기준으로 설명합니다.)
     
     ![]({{site.url}}/images/forguncy5/installation_server_icon.png)
 
@@ -37,7 +35,7 @@ Forguncy Server를 사용하지 않아도 Forguncy Builder만으로 서비스를
 
     ※ 참고 : ODBC 데이터 연결 시 외부 데이터베이스와 직접 동기화되거나, 권한을 얻어 사용하지 않습니다. 향후 Version6에서 관련 업그레이드 예정되어 있습니다.
 
-3. Forguncy Server 설치 화면이 나타납니다.
+2. Forguncy Server 설치 화면이 나타납니다.
 
     (1) "사용자 라이선스 동의서를 확인하였으며 이에 동의함"에 동의하셔야 설치가 진행됩니다.
 

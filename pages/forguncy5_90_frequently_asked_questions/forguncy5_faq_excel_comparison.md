@@ -1,5 +1,5 @@
 ---
-title: Forguncy와 Excel 비교
+title: Forguncy FAQ - Forguncy와 Excel 비교
 tags: [Forguncy, 자주 묻는 질문, FAQ, 엑셀, 비교, 함수]
 keywords: Forguncy, 엑셀, 비교, 함수
 last_updated: Feb 4, 2020
