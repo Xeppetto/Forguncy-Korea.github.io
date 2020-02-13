@@ -341,5 +341,7 @@ entries:
           - title: Forguncy와 Excel 함수 비교
             url: /forguncy5_faq_excel_comparison.html
             output: web, pdf
+          - title: Forguncy 라이선스 FAQ
+            url: /forguncy5_faq_license.html
+            output: web, pdf
             
-      
