@@ -46,7 +46,7 @@ Forguncy는 'Forguncy 빌더(Builder)'라고 부르는 클라이언트와 'Forgu
 
 Forguncy v5의 서버는 Windows Server를 사용하는 컴퓨터에 설치하셔서 사용하실 수 있습니다. Forguncy Server 설치와 관련된 자세한 내용과 설치하실 컴퓨터의 사양 등은 [Forguncy Server 설치](fgc5server_installation.html) 페이지를 참고하여 주세요.
 
-참고로 Microsoft가 .NET Core를 Linux도 지원하는 방식으로 변경했기 때문에, 이후 버전의 Forguncy에서는 Linux 서버도 지원하는 형태로 개발 중입니다. 
+참고로 Microsoft가 .NET Core를 Linux도 지원하는 방식으로 변경했기 때문에, 이후 버전의 Forguncy에서는 Linux 서버도 지원하는 형태로 개발 중입니다. (언제부터 지원될 지는 미정입니다.)
 <br /><br />
 
 ### Q) Forguncy 구입 시 신규 버전 업그레이드 및 기술 지원은 어떻게 받을 수 있나요?
