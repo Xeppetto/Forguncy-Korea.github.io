@@ -19,7 +19,7 @@ GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 We
 
 <h2>엑셀과 Forguncy 함수 비교 표</h2>
 
-아래는 MS Excel과 Forguncy에서 지원하는 함수 비교표입니다.
+아래는 MS Excel과 Forguncy에서 지원하는 함수 비교표입니다. Forguncy는 세계 최고 수준의 기술력인 SpreadJS를 탑재하고 있으며, 웹에서도 거의 완벽하게 엑셀 환경을 구현할 수 있는 기술력을 보유하고 있습니다.
 
 | 엑셀 함수 목록 | Forguncy 함수 목록 |
 | --- | --- |
