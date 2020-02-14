@@ -27,7 +27,7 @@ Forguncy는 'Forguncy 빌더(Builder)'라고 부르는 클라이언트와 'Forgu
 
 ### Q) Forguncy 가격은 어느 정도 예상하면 될까요?
 
-그레이프시티 공식 홈페이지의 [Forguncy 솔루션 페이지](https://www.grapecity.co.kr/solutions/forguncy)에서 가상 견적을 진행해 보실 수 있습니다.
+그레이프시티 공식 홈페이지의 [Forguncy 솔루션 페이지](https://www.grapecity.co.kr/solutions/forguncy){:target="_blank"}에서 가상 견적을 진행해 보실 수 있습니다.
 
 가상 견적은 말 그대로 '가상'입니다. 고객님의 상황에 따라 User 수가 변화할 수 있기 때문에 실제 견적은 영업 담당자가 직접 작성합니다. 그러므로 실제 구입을 진행하실 경우에는 영업 담당자에게 연락하셔서 견적을 받아주세요.
 <br /><br />
