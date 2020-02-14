@@ -29,7 +29,9 @@ Forguncy를 가장 잘 다룰 수 있는 사람은 '내부 시스템을 개발�
 
 ### Q) Forguncy 데모를 볼 수 있나요?
 
-예, 여러가지 데모는 [Forguncy 데모 사이트](https://forguncy.co.kr/demo){:target="_blank"}에서 보실 수 있습니다.
+예, 여러가지 데모는 [Forguncy 데모 사이트](https://forguncy.co.kr/demo){:target="_blank"}에서 보실 수 있습니다. 
+
+데모 사이트는 온전히 Forguncy로만 개발한 사이트입니다. Forguncy로 개발 가능한 많은 내용들을 만들어 보여드리는 데에 촛점을 맞추어 개발하고 있습니다.
 <br /><br />
 
 ### Q) 우리 회사는 소프트웨어와 관련이 없어서 도입하기가 망설여지네요.
