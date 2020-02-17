@@ -34,6 +34,10 @@ entries:
             url: /forguncy_characteristic.html
             output: web, pdf
 
+          - title: 업무와 교육용 Forguncy
+            url: /forguncy_for_whom.html
+            output: web, pdf
+
       - title: Forguncy Builder
         output: web, pdf
         folderitems:
