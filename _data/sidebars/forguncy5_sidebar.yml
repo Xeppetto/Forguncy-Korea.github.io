@@ -336,6 +336,19 @@ entries:
                 url: /fgc5jsapi_listview-class-addselectedrow.html
                 output: web, pdf
 
+      - title: Forguncy ListView
+        output: web, pdf
+        folderitems:
+        - title: ListView 학습자료
+          url: /forguncy5_listview_download_trainingmaterial.html
+          output: web, pdf
+        - title: ListView 생성하기
+          url: /forguncy5_listview_create.html
+          output: web, pdf
+        - title: ListView 세부 설정
+          url: /forguncy5_listview_contextmenu.html
+          output: web, pdf
+
       - title: F.A.Q.
         output: web, pdf
         folderitems:
