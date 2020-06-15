@@ -28,20 +28,38 @@ Forguncy v5.1에서는 Github를 사용하여 여러 사용자들이 하나의 �
 
   ![]({{site.url}}/images/forguncy5/forguncy-collaboration-02.png)
 
-2. 「고급 > 프로젝트 열기」를 선택합니다.
+2. 「고급 > 프로젝트 열기」를 선택합니다.아래와 같이 
 
   ![]({{site.url}}/images/forguncy5/forguncy-collaboration-03.png)
 
-https://github.com/Forguncy-Korea/Sample.Forguncy.ListViewTraining.git
+3. 아래와 같이 「협업 프로젝트 열기」 새 창이 나타납니다. 여기에 아래의 주소를 복사해서 붙여 넣거나, Github로 이동하여 직접 주소를 가져옵니다.
 
-※참고 : 포건시 리스트뷰 교육자료 Github 바로가기 (https://github.com/Forguncy-Korea/Sample.Forguncy.ListViewTraining.git){:target="_blank"}
+  ![]({{site.url}}/images/forguncy5/forguncy-collaboration-05.png)
 
+  > https://github.com/Forguncy-Korea/Sample.Forguncy.ListViewTraining.git
+
+  ※참고 : 포건시 리스트뷰 교육자료 Github 바로가기 (https://github.com/Forguncy-Korea/Sample.Forguncy.ListViewTraining.git){:target="_blank"}
+
+  ![]({{site.url}}/images/forguncy5/forguncy-collaboration-04.png)
+
+4. 프로젝트를 성공적으로 가뎌오면 탐색기와 아래와 같이 자물쇠 아이콘들이 나타납니다. 이 자물쇠 아이콘은 Github와 연결되어 있다는 의미이며, 권한이 없으면 저장이 되지 않습니다. 
+
+  ![]({{site.url}}/images/forguncy5/forguncy-collaboration-06.png)
+
+  그러므로 사용자의 현재 PC에 저장해 보겠습니다. 「파일 > 다른 이름으로 저장」을 선택하여 아무 위치에나 파일을 저장합니다.
+
+  ![]({{site.url}}/images/forguncy5/forguncy-collaboration-07.png)
+
+5. 저장하셨으면 현재 자물쇠 아이콘이 나타나는 프로젝트는 닫고, 저장한 파일을 열어 주십시오.
+
+  ![]({{site.url}}/images/forguncy5/forguncy-collaboration-08.png)
+
+  저장하신 파일을 열면 자물쇠 아이콘이 나오지 않으며, 이제 저장하시면 해당 파일에 프로젝트 내용이 저장됩니다.
 
 
 <br /><br />
 
-<h2>참고 링크</h2>
-* [Microsoft Excel 함수 목록 (영문 - Microsoft 본사 자료)](https://support.office.com/en-us/article/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188){:target="_blank"}
-* [GrapeCity SpreadJS 함수 목록 (영문 - GrapeCity 본사 자료)](https://www.grapecity.com/spreadjs/docs/v13/online/FormulaFunctions.html){:target="_blank"}
+<h2>참고</h2>
+* Github 가입과 관련한 정보는 인터넷을 검색하여 참고하여 주십시오.
 
 <br /><br />
