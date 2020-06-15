@@ -9,16 +9,23 @@ permalink: forguncy5_listview_download_trainingmaterial.html
 folder: forguncy5_04_listview
 ---
 
+<h2>Forguncy ListView Sample 사이트 바로보기 </h2>
+
+  포건시 리스트뷰는 포건시 서버에서만 작동합니다. 교육 자료를 데모 사이트에 업데이트 해 두었으므로 [리스트뷰 교육자료 데모 보기](https://forguncy.co.kr/sample.forguncy.listviewtraining){:target="_blank"}를 클릭하여 보실 수 있습니다.
+
+<br /><br />
+
+
 <h2>Forguncy v5.1 이상 다운로드</h2>
 
-Forguncy v5.1에서는 Github를 사용하여 여러 사용자들이 하나의 프로젝트를 협업할 수 있는 기능을 추가하였습니다. 이 기능을 이용하여 Github 서버에 연동하여 프로젝트 파일을 실시간으로 공동작업하실 수 있습니다.
+  Forguncy v5.1에서는 Github를 사용하여 여러 사용자들이 하나의 프로젝트를 협업할 수 있는 기능을 추가하였습니다. 이 기능을 이용하여 Github 서버에 연동하여 프로젝트 파일을 실시간으로 공동작업하실 수 있습니다.
 
-![]({{site.url}}/images/forguncy5/forguncy-collaboration-01.png)
+  ![]({{site.url}}/images/forguncy5/forguncy-collaboration-01.png)
 
 
-먼저 보유하신 Forguncy의 버전을 확인하여 주세요. 버전 정보는 「파일 > 도움말」 페이지로 가시면 보실 수 있습니다.
+  먼저 보유하신 Forguncy의 버전을 확인하여 주세요. 버전 정보는 「파일 > 도움말」 페이지로 가시면 보실 수 있습니다.
 
-![]({{site.url}}/images/forguncy5/checking-forguncy-version.png)
+  ![]({{site.url}}/images/forguncy5/checking-forguncy-version.png)
 
 <br /><br />
 
@@ -38,7 +45,7 @@ Forguncy v5.1에서는 Github를 사용하여 여러 사용자들이 하나의 �
 
     > https://github.com/Forguncy-Korea/Sample.Forguncy.ListViewTraining.git
 
-    ※참고 : 포건시 리스트뷰 교육자료 Github 바로가기 (https://github.com/Forguncy-Korea/Sample.Forguncy.ListViewTraining.git){:target="_blank"}
+    ※참고 : [포건시 리스트뷰 교육자료 Github 바로가기](https://github.com/Forguncy-Korea/Sample.Forguncy.ListViewTraining.git){:target="_blank"}
 
     ![]({{site.url}}/images/forguncy5/forguncy-collaboration-04.png)
 
