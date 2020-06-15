@@ -43,9 +43,7 @@ folder: forguncy5_04_listview
 
 <h2>조건부 서식 사용하기</h2>
 
-* 리스트뷰에 조건부 서식을 적용하여 특정 조건에서 아이콘이나 색상 등이 나타나게 할 수 있습니다. 자세한 사항은 교육자료 내 「조건부서식 사용하기」를 참고하세요.
-
-    [조건부 서식 사용하기](https://forguncy.co.kr/sample.forguncy.listviewtraining/ConditionFormat){:target="_blank"}
+* 리스트뷰에 조건부 서식을 적용하여 특정 조건에서 아이콘이나 색상 등이 나타나게 할 수 있습니다. 자세한 사항은 교육자료 내 [조건부 서식 사용하기](https://forguncy.co.kr/sample.forguncy.listviewtraining/ConditionFormat){:target="_blank"}를 참고하세요.
 
 <br /><br />
 
