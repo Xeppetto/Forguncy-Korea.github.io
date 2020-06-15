@@ -348,7 +348,7 @@ entries:
         - title: ListView 세부 설정
           url: /forguncy5_listview_contextmenu.html
           output: web, pdf
-        - title: ListView 세부 설정
+        - title: ListView 스타일 적용
           url: /forguncy5_listview_quickstyle.html
           output: web, pdf
           
