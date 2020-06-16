@@ -10,6 +10,10 @@ summary: "튜토리얼의 업데이트 기록입니다. 이 페이지는 정기�
 
 <h2>튜토리얼 센터 업데이트 정보 알림</h2>
 
+**2020년 6월 16일** : 포건시에서 사용하실 수 있는 추가 기능인 플러그인을 내려 받으실 수 있도록 [플러그인 다운로드 매뉴얼]({{site.url}}/forguncy5_plugins_download.html)을 작성하였습니다. [플러그인을 포건시에 설치]({{site.url}}/forguncy5_plugins_installation.html)하셔서 사용하실 수 있습니다.
+
+**2020년 6월 15일** : 리스트뷰를 학습하실 수 있도록 예제를 업로드하고, 이를 [내려받으실 수 있도록 매뉴얼]({{site.url}}/forguncy5_listview_download_trainingmaterial.html)을 작성하였습니다. 리스트뷰와 관련한 여러가지 정보를 보고 학습하실 수 있습니다.
+
 **2020년 2월 7일** : 상단 메뉴에 [데모보기](https://forguncy.co.kr/demo/){:target="_blank"} 링크를 추가하였습니다. 이제 매뉴얼 페이지에서 '데모보기'를 클릭하여 Forguncy로 구현한 여러 예제를 직접 보실 수 있습니다.
 
 **2020년 2월 4일** : [Forguncy와 Microsoft Excel 간 함수 지원 비교]({{site.url}}/forguncy5_faq_excel_comparison.html)에 대한 FAQ페이지를 생성하였습니다.<br /><br />

@@ -352,6 +352,16 @@ entries:
           url: /forguncy5_listview_quickstyle.html
           output: web, pdf
           
+      - title: Forguncy Plugins
+        output: web, pdf
+        folderitems:
+        - title: Plugin 내려받기
+          url: /forguncy5_plugins_download.html
+          output: web, pdf
+        - title: Plugin 설치하기
+          url: /forguncy5_plugins_installation.html
+          output: web, pdf
+
       - title: F.A.Q.
         output: web, pdf
         folderitems:
