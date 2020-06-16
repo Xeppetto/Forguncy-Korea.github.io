@@ -27,13 +27,13 @@ folder: forguncy5_81_plugins
 
 1. 포건시를 실행하고 「파일 > 플러그인」으로 이동합니다. 화면에 나타나는 「플러그인 설치」를 클릭합니다.
 
-    ![]({{site.url}}/images/forguncy5/lv02-styling02.png)
+    ![]({{site.url}}/images/forguncy5/forguncy5_plugins_02.png)
 
 2. 파일 선택창이 열리면 다운로드한 Plugin 파일들 중 필요한 플러그인을 선택하여 설치합니다.
 
 3. 설치가 완료되면 아래와 같이 나타납니다.
 
-    ![]({{site.url}}/images/forguncy5/lv02-styling03.png)
+    ![]({{site.url}}/images/forguncy5/forguncy5_plugins_03.png)
 
 <br /><br />
 
@@ -42,16 +42,16 @@ folder: forguncy5_81_plugins
 
 1. 플러그인을 설치하면 포건시 명령추가 창에 나타나거나, 웹페이지를 꾸미는 요소로 나타납니다.
 
-    ![]({{site.url}}/images/forguncy5/lv02-styling06.png)
+    ![]({{site.url}}/images/forguncy5/forguncy5_plugins_06.png)
 
 2. 예제를 하나 실행시켜 보겠습니다. 아래 예제는 HtmlRichEdtior 플러그인입니다.
 
-    ![]({{site.url}}/images/forguncy5/lv02-styling04.png)
+    ![]({{site.url}}/images/forguncy5/forguncy5_plugins_04.png)
 
 3. HtmlRichEditor를 페이지에 추가하여 실행하면 웹브라우저에서는 다음과 같이 나타납니다.
     아래 화면을 이용해서 사용자에게 텍스트와 그림을 입력받고 데이터베이스에 저장하는 등 편집기 기능을 활용하실 수 있습니다.
 
-    ![]({{site.url}}/images/forguncy5/lv02-styling05.png)
+    ![]({{site.url}}/images/forguncy5/forguncy5_plugins_05.png)
 
 
 <br /><br />
