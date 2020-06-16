@@ -28,22 +28,22 @@ folder: forguncy5_81_plugins
 
     | 파일 | 설명 | 유형 |
     | --- | --- | --- |
-    | BDMapCellType.zip | 중국 바이두 맵 연동. 한국에 필요 없음. | 셀 유형 | 
+    | ![BDMapCellType.zip]({{site.url}}/attached_files/Plugin_20191115/BDMapCellType.zip) | 중국 바이두 맵 연동. <br />한국에 필요 없음. | 셀 유형 | 
     | CarouselCellType.zip | 이미지 자동 전환. | 셀 유형 |
-    | FilePreviewer.zip | 서버에 파일을 업로드하고 목록을 볼 수 있음. 한글화 작업 중. | 셀 유형 |
+    | FilePreviewer.zip | 서버에 파일을 업로드하고 목록을 볼 수 있음. <br />한글화 작업 중. | 셀 유형 |
     | Forguncy.CustomMenu.zip | 가로/세로 메뉴를 만들 수 있음. | 셀 유형 |
     | HtmlRichEdtior.zip | 웹사이트에서 사용할 수 있는 편집기를 사용할 수 있음. | 셀 유형 |
     | ImportExportCSV.zip | CSV 파일을 불러오기, 내보내기 할 수 있음. | 명령 유형 |
     | PassListviewDataCommand.zip | 리스트뷰에서 다른 리스트뷰로 값을 넘길 수 있음. | 명령 유형 |
     | SelectionPanel.zip | 리스트뷰에서 선택된 항목을 표시할 수 있음. | 셀 유형 |
-    | SendWeChatMessage.zip | 중국 위챗 메신저 연동. 한국에 필요 없음. | 명령 유형 | 
+    | SendWeChatMessage.zip | 중국 위챗 메신저 연동. <br />한국에 필요 없음. | 명령 유형 | 
     | SetCurrentRowCommand.zip | 리스트뷰의 특정 행의 값을 선택할 수 있음. | 명령 유형 |
     | SetFocusCommand.zip | 페이지 내 특정 셀을 선택할 수 있음. | 명령 유형 |
     | SignatureCellType.zip | 웹/모바일 환경에서 서명을 받을 수 있음. | 명령 유형 |
     | SmartPhoneCommand.zip | 모바일 기기가 QR코드를 읽어오도록 할 수 있음. |
-    | TabManager.zip | 페이지 내에서 다른 사이트를 불러오기. 포건시 서버에서 보안 정책을 조정해야 작동함. | 셀 유형 |
-    | VideoPlayCellType.zip | 자신의 서버에 비디오를 업로드하고 이를 보여줄 수 있음. | 셀 유형 |
-    | WorkflowCommand.zip | 워크플로우 설정 명령. 워크 플로우를 사용하는 경우만 해당. | 명령 유형 |
+    | TabManager.zip | 페이지 내에서 다른 사이트를 불러오기. <br />포건시 서버에서 보안 정책을 조정해야 작동함. | 셀 유형 |
+    | VideoPlayCellType.zip | 서버에 비디오를 업로드하고 이를 플레이할 수 있음. | 셀 유형 |
+    | WorkflowCommand.zip | 워크플로우 설정 명령. <br />워크 플로우를 사용하는 경우만 해당. | 명령 유형 |
 
 <br /><br />
 
