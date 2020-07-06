@@ -17,6 +17,20 @@ GrapeCity는 보유한 세계 최고 수준의 기술력으로 SpreadJS라는 We
 
 <br /><br />
 
+<h2>마이크로소프트 엑셀 공식 (외부링크)</h2>
+
+마이크로소프트는 GrapeCity(그레이프시티)의 최대 고객 중 하나이며, 그레이프시티는 약 1980년대부터 마이크로소프트의 골드-파트너(Gold Partner)로 함께 일하고 있습니다. 아래는 마이크로소프트 공식 홈페이지에서 Forguncy 사용자들이 알아두시면 좋은 엑셀 관련 자료입니다.
+
+(※알림 : 아래 자료는 마이크로소프트의 자료이며, 그레이프시티와는 관련이 없습니다.)
+
+* [엑셀 수식 개요](https://support.microsoft.com/ko-kr/office/excel%EC%9D%98-%EC%88%98%EC%8B%9D-%EA%B0%9C%EC%9A%94-ecfdc708-9162-49e8-b993-c311f47ca173){:target="_blank"}
+* [엑셀 함수 - 사전 순](https://support.microsoft.com/ko-kr/office/excel-%ed%95%a8%ec%88%98-%ec%82%ac%ec%a0%84%ec%88%9c-b3944572-255d-4efb-bb96-c6d90033e188){:target="_blank"}
+* [엑셀 함수 - 범주별](https://support.microsoft.com/ko-kr/office/excel-%ED%95%A8%EC%88%98-%EB%B2%94%EC%A3%BC%EB%B3%84-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb){:target="_blank"}
+
+Forguncy는 Excel의 함수를 거의 모두 지원하며, 엑셀 함수를 웹에서 사용하실 수 있습니다. 따라서 Forguncy에도 비슷한 설명이 있으나 마이크로소프트사의 저작권 보호를 위해 그레이프시티에서 자체 제작 및 번역한 설명을 사용하고 있습니다.
+
+<br /><br />
+
 <h2>엑셀과 Forguncy 함수 비교 표</h2>
 
 아래는 MS Excel과 Forguncy에서 지원하는 함수 비교표입니다. Forguncy는 세계 최고 수준의 기술력인 SpreadJS를 탑재하고 있으며, 웹에서도 거의 완벽하게 엑셀 환경을 구현할 수 있는 기술력을 보유하고 있습니다.
