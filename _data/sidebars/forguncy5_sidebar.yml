@@ -355,12 +355,26 @@ entries:
       - title: Forguncy Plugins
         output: web, pdf
         folderitems:
-        - title: Plugin 내려받기
-          url: /forguncy5_plugins_download.html
-          output: web, pdf
-        - title: Plugin 설치하기
-          url: /forguncy5_plugins_installation.html
-          output: web, pdf
+          - title: Plugin 내려받기
+            url: /forguncy5_plugins_download.html
+            output: web, pdf
+          - title: Plugin 설치하기
+            url: /forguncy5_plugins_installation.html
+            output: web, pdf
+          
+            subfolders:
+            #Forguncy Plugin 개발하기 - subfolders
+            - title: Plugin 개발하기
+              output: web, pdf
+              subfolderitems:
+
+              - title: Plugin 개발환경
+                url: /forguncy5_plugins_development.html
+                output: web, pdf
+              
+              - title: Plugin 개발예제 - LayDate
+                url: /forguncy5_plugins_dev_laydate.html
+                output: web, pdf
 
       - title: F.A.Q.
         output: web, pdf

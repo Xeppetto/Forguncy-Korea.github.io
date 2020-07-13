@@ -1,6 +1,6 @@
 ---
 title: Forguncy Plugins - 플러그인 설치하기
-tags: [Forguncy, Plugins, Addons, 프로젝트, C$, C Sharp, Coding, Programming]
+tags: [Forguncy, Plugins, Addons, 프로젝트, C#, C Sharp, Coding, Programming]
 keywords: Forguncy, 엑셀, RPA, Plugins
 last_updated: Jun 16, 2020
 summary: "Forguncy에 플러그인을 설치하는 방법입니다."
