@@ -33,7 +33,7 @@ LayDate는 중국에서 제작되었으며, MIT License로 제공되는 오픈�
 <br /><br />
 
 
-<h2>LayDate 플러그인 제작하기</h2>
+<h2>LayDate달력 플러그인 제작하기</h2>
 
 1. [포건시 플러그인 생성 도구 다운로드]({{site.url}}/attached_files/Plugin_Files/etc/PluginTools_20200710.zip)하신 뒤 압축을 풀고, ForguncyPluginCreator.exe를 실행하십시오.<br />
 

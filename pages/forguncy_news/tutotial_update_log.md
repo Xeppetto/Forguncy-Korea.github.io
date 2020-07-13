@@ -4,7 +4,7 @@ sidebar: home_sidebar
 keywords: news, blog, updates, release notes, announcements
 permalink: tutotial_update_log.html
 folder: forguncy_news
-summary: "튜토리얼의 업데이트 기록입니다. 이 페이지는 정기적으로 업데이트 됩니다. 튜토리얼의 어떤 부분이 바뀌었는지 확인하세요."
+summary: "튜토리얼의 업데이트 기록입니다. 이 페이지는 사이트에 변경이 있을 때 정기적으로 업데이트 됩니다. 튜토리얼의 어떤 부분이 바뀌었는지 확인하세요."
 ---
 
 
