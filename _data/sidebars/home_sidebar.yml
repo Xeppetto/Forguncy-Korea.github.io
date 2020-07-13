@@ -8,10 +8,10 @@ entries:
       - title: 새로운 기능
         output: web, pdf
         folderitems:
-          - title: Forguncy 새로운 기능
-            url: /under_construction.html
-            output: web
-            type: homepage
+          #- title: Forguncy 새로운 기능
+          #  url: /under_construction.html
+          #  output: web
+          #  type: homepage
           - title: GrapeCity 제품 소개
             url: /grapecity_products.html
             output: web

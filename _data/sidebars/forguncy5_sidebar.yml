@@ -372,7 +372,7 @@ entries:
                 url: /forguncy5_plugins_development.html
                 output: web, pdf
               
-              - title: Plugin 개발예제 - LayDate
+              - title: Plugin 개발 예제 - LayDate
                 url: /forguncy5_plugins_dev_laydate.html
                 output: web, pdf
 
