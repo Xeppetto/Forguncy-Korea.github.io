@@ -5,19 +5,6 @@ entries:
     product: Forguncy
     version: V5
     folders:
-      - title:
-        output: pdf
-        type: frontmatter
-        folderitems:
-          - title:
-            url: /titlepage.html
-            output: pdf
-            type: frontmatter
-          - title:
-            url: /tocpage.html
-            output: pdf
-            type: frontmatter
-
       - title: Overview
         output: web, pdf
         folderitems:
@@ -370,6 +357,10 @@ entries:
 
               - title: Plugin 개발환경
                 url: /forguncy5_plugins_development.html
+                output: web, pdf
+              
+              - title: Plugin 개발 예제 - 자료형 사용
+                url: /forguncy5_plugins_dev_datatype.html
                 output: web, pdf
               
               - title: Plugin 개발 예제 - LayDate
