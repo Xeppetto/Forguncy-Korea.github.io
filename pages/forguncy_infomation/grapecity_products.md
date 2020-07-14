@@ -1,9 +1,10 @@
 ---
 title: 그레이프시티 제품군 소개
-sidebar: home_sidebar
+tags: [그레이프시티 제품군, 제품군, SpreadJS, ComponentOne, Spread, Excel, 엑셀]
 keywords: 그레이프시티 제품군, 제품군, SpreadJS, ComponentOne, Spread, Excel, 엑셀
+sidebar: home_sidebar
 permalink: grapecity_products.html
-folder: news
+folder: forguncy_infomation
 summary: "이 페이지에서는 Forguncy 외 그레이프시티 코리아가 판매하는 제품들을 소개합니다. 확장성 있는 컴포넌트를 도입하여 빠르고 규격화된 소프트웨어 개발을 진행해 보세요."
 ---
 
