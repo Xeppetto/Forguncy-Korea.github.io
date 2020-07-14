@@ -1,8 +1,8 @@
 ---
 title: Forguncy Plugins - 플러그인 개발 LayDate
-tags: [Forguncy, Plugins, Addons, 프로젝트, C#, C Sharp, Coding, Programming]
-keywords: Forguncy, 엑셀, Plugin, 플러그인
-last_updated: Jul 10, 2020
+tags: [Forguncy, Plugins, JavaScript, 프로젝트, C#, C Sharp, Coding, Programming]
+keywords: Forguncy, 엑셀, Plugin, 플러그인, 연동
+last_updated: Jul 13, 2020
 summary: "Forguncy 플러그인 개발 예제입니다. - LayDate"
 sidebar: forguncy5_sidebar
 permalink: forguncy5_plugins_dev_laydate.html
@@ -13,14 +13,14 @@ folder: forguncy5_81_plugins
 
 ※참고 : 여기서부터 진행되는 내용은 [Visual Studio Community Edition](https://visualstudio.microsoft.com/ko/vs/community/){:target="_blank"}을 먼저 설치하셨다고 전제 하고 진행합니다.
 
-<h2>LayDate 간단 소개</h2>
+<h2>LayDate 소개</h2>
 
 LayDate는 예쁜 모양의 달력을 웹에서 사용할 수 있도록 제작된 JavaScript 도구입니다. 이 페이지에서는 JavaScript 도구를 포건시에서 사용하는 플러그인을 만드는 방법을 소개하려 합니다.
 
+향후 이 페이지에서는 이 JavaScript를 「LayDate」라 칭하고, Forguncy Plugin은 「LayDate달력」이라 호칭하겠습니다.
+
 공식 홈페이지에서 다운로드 받은 layDate-v5.0.9를 실행했을 때 실제 작동하는 방식은 아래와 같습니다.
   ![]({{site.url}}/images/forguncy5/forguncy5_plugins_dev_laydate08.gif)
-
-향후 이 페이지에서는 이 JavaScript를 「LayDate」라 칭하고, Forguncy Plugin은 「LayDate달력」이라 호칭하겠습니다.
 <br /><br />
 
 
@@ -65,12 +65,12 @@ LayDate는 중국에서 제작되었으며, MIT License로 제공되는 오픈�
 
     <br />
 
-7. 그 후, 3개의 라이브러리 파일 GrapeCity.Forguncy.Plugin.dll, GrapeCity.Forguncy.CellTypes.dll, Forguncy.Commands.dll을 찾아 솔루션 탐색기에 추가하십시오.<br />
+7. 포건시 설치 위치에서 3개의 라이브러리 파일 GrapeCity.Forguncy.Plugin.dll, GrapeCity.Forguncy.CellTypes.dll, Forguncy.Commands.dll을 찾아 솔루션 탐색기에 추가하십시오.<br />
     ![]({{site.url}}/images/forguncy5/forguncy5_plugins_dev_12.png)
 
     <br />
 
-8. 해당 라이브러리 파일들을 추가하시려면 아래 화면에서 OK를 눌러 진행하십시오.<br />
+8. 해당 라이브러리 파일들을 추가하시려면 화면에서 OK를 눌러 진행하십시오.<br />
     ![]({{site.url}}/images/forguncy5/forguncy5_plugins_dev_laydate06.png)
 
     <br />
@@ -80,12 +80,12 @@ LayDate는 중국에서 제작되었으며, MIT License로 제공되는 오픈�
 
     <br />
 
-10. 아래 그림과 같이 LatDateCellType.cs에 System.ComponentModel을 추가합니다.<br />
-    ![]({{site.url}}/images/forguncy5/forguncy5_plugins_dev_laydate14.png)
+10. LatDateCellType.cs을 열어 상단의 using 부분을 확인합니다. 포건시에서 가져온 파일을 가져오면 아래 그림과 같이 자동으로 등록이 됩니다. 이번 플러그인을 위해서는 System.ComponentModel을 추가하고 진행하겠습니다.<br />
+    ![]({{site.url}}/images/forguncy5/forguncy5_plugins_dev_laydate13.png)
 
     <br />
 
-11. LayDateCellType.cs를 클릭하여 아래와 같이 편집합니다.
+11. LayDateCellType.cs를 열어 아래와 같이 편집합니다.
 
     ```c#
     //포건시 셀유형 선택 시 왼쪽에 표시할 아이콘의 모양을 정의하는 부분입니다.
@@ -94,6 +94,12 @@ LayDate는 중국에서 제작되었으며, MIT License로 제공되는 오픈�
     //셀에 표시할 기본값, 셀의 표시 모드의 선택, IReferenceFormular 등을 구현합니다.
     public class LayDateCellType : CellType, ISupportStyleInitialize, IReferenceFormula
     {
+        //포건시 셀유형 선택 목록에 표시되는 이름을 정의합니다.
+        public override string ToString()
+        {
+            return "LayDate달력";
+        }
+
         //포건시에서 셀유형 선택 시 오른쪽 패널에 나타날 옵션1을 정의합니다.
         [DisplayName("기본값")]
         [FormulaProperty]
@@ -109,12 +115,6 @@ LayDate는 중국에서 제작되었으며, MIT License로 제공되는 오픈�
         {
             get;
             set;
-        }
-
-        //포건시 셀유형 메뉴 선택 시 나타날 도구의 이름을 정의합니다.
-        public override string ToString()
-        {
-            return "LayDate달력";
         }
       
         //셀을 병합할 때 테두리가 남도록 합니다.
@@ -354,9 +354,11 @@ LayDate는 중국에서 제작되었으며, MIT License로 제공되는 오픈�
     빌드 결과물이 나온 위치에 아래 그림과 같이 zip 파일이 나타납니다. 해당 파일을 따로 복사해서 특정 폴더에 모으셔도 되고, 해당 위치에 두셔도 됩니다.<br />
     ![]({{site.url}}/images/forguncy5/forguncy5_plugins_dev_laydate20.png)
 
-    <br />
+<br /><br />
 
-21. 포건시를 실행하시고 「파일 > 플러그인」으로 이동하셔서 "플러그인 설치"를 클릭합니다.<br />
+<h2>포건시에서 LayDate달력 플러그인 사용하기</h2>
+
+1. 포건시를 실행하시고 「파일 > 플러그인」으로 이동하셔서 "플러그인 설치"를 클릭합니다.<br />
     ![]({{site.url}}/images/forguncy5/forguncy5_plugins_dev_laydate21.png)
 
     빌드 결과물이 나온 위치에 생성된 zip 파일을 불러옵니다.아래와 같이 플러그인 폴더에 추가되면 성공입니다.<br />
@@ -364,23 +366,23 @@ LayDate는 중국에서 제작되었으며, MIT License로 제공되는 오픈�
 
     <br />
 
-22. 다음은 생성한 플러그인을 활용하는 방법입니다.<br />
+2. 다음은 생성한 플러그인을 활용하는 방법입니다.<br />
     ![]({{site.url}}/images/forguncy5/forguncy5_plugins_dev_laydate23.png)
 
     해당 [포건시 프로젝트 파일을 다운로드]({{site.url}}/attached_files/Plugin_Files/V6_LayDate/LayDate달력_예제.fgko)하셔서 직접 열어 보실 수 있도록 해 두었습니다. 해당 프로젝트 파일은 Forguncy v6.0 이상을 사용하셔야 합니다.<br />
     
-    위 프로젝트를 간략히 설명하면 다음과 같습니다.<br/>
-    ① 통합 셀을 만든 뒤 "LayDate달력 셀유형" 이라고 적고, 배경색을 회색으로 칠했습니다.<br/>
-    ② 또 다른 통합 셀을 만들고, 까만색 테두리로 둘레를 표시 했습니다.<br/>
-    ③ 생성한 통합 셀의 유형을 LayDateCellType으로 지정했습니다.<br/>
-    ④ 셀의 기본 값을 오늘 날짜를 표시할 수 있도록 =TODAY()를 설정했습니다.<br/>
+    위 프로젝트를 간략히 설명하면 다음과 같습니다.<br />
+    ① 통합 셀을 만든 뒤 "LayDate달력 셀유형" 이라고 적고, 배경색을 회색으로 칠했습니다.<br />
+    ② 또 다른 통합 셀을 만들고, 까만색 테두리로 둘레를 표시 했습니다.<br />
+    ③ 생성한 통합 셀의 유형을 LayDateCellType으로 지정했습니다.<br />
+    ④ 셀의 기본 값을 오늘 날짜를 표시할 수 있도록 =TODAY()를 설정했습니다.<br />
 
     LayDate달력 셀유형을 활용한 프로젝트를 실행시키면 다음과 같이 나타납니다.<br />
     ![]({{site.url}}/images/forguncy5/forguncy5_plugins_dev_laydate24.gif)
 
     <br />
 
-23. 위에서 설명드린 내용은 여기 [▶LayDate달력 소스코드]({{site.url}}/attached_files/Plugin_Files/V6_LayDate/LayDateCellType_SourceCode.zip)를 클릭하셔서 다운로드 후 Microsoft Visual Studio에서 열어 작업하실 수 있습니다.
+3. 위에서 설명드린 내용은 여기 [▶LayDate달력 소스코드]({{site.url}}/attached_files/Plugin_Files/V6_LayDate/LayDateCellType_SourceCode.zip)를 클릭하셔서 다운로드 후 Microsoft Visual Studio에서 열어 작업하실 수 있습니다.
 
 <br /><br />
 
