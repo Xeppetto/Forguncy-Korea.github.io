@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Cell - getActiveTabIndex
-tags: [Forguncy, JavaScript, API, getActiveTabIndex]
-keywords: Forguncy API, JavaScript API, getActiveTabIndex
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, getActiveTabIndex, Web, JavaScript, API
 last_updated: Jan 16, 2020
 summary: "Forguncy API - Cell 클래스 중 getActiveTabIndex Method를 설명합니다."
 sidebar: forguncy5_sidebar

@@ -1,7 +1,7 @@
 ---
 title: Forguncy ListView - 리스트뷰 세부 메뉴 사용하기
-tags: [Forguncy, Github, 협업, 프로젝트, 리스트뷰, ListView]
-keywords: Forguncy, 엑셀, RPA, Github
+tags: [Forguncy, Github, Collaboration, 리스트뷰, ListView]
+keywords: Forguncy, 엑셀, RPA, Github, 협업, 프로젝트
 last_updated: Jun 15, 2020
 summary: "Forguncy ListView의 세부 메뉴를 볼 수 있는 방법을 설명합니다."
 sidebar: forguncy5_sidebar

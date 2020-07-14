@@ -1,6 +1,6 @@
 ---
 title: Forguncy Server 소개
-tags: [Forguncy 소개, Forguncy Server 소개]
+tags: [Forguncy, 소개]
 keywords: Forguncy 제품 소개, Forguncy Server 소개, Forguncy Server 특징
 last_updated: Jan 6, 2020
 summary: "Forguncy Server를 소개하고 특장점을 설명합니다."

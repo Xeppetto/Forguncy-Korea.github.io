@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Page - unbindall
-tags: [Forguncy, JavaScript, API, unbindall]
-keywords: Forguncy API, JavaScript API, unbindall
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, unbindall, Web, JavaScript, API
 last_updated: Jan 14, 2020
 summary: "Forguncy API - Page 클래스 중 unbindall Method를 설명합니다."
 sidebar: forguncy5_sidebar

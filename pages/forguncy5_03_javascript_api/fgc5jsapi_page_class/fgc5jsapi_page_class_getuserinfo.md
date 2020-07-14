@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Page - getUserInfo
-tags: [Forguncy, JavaScript, API, getUserInfo]
-keywords: Forguncy API, JavaScript API, getUserInfo
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, getUserInfo, Web, JavaScript, API
 last_updated: Jan 9, 2020
 summary: "Forguncy API - Page 클래스 중 getUserInfo Method에 대해 설명합니다."
 sidebar: forguncy5_sidebar

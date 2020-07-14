@@ -1,6 +1,6 @@
 ---
 title: Forguncy Builder 업그레이드
-tags: [제품 업그레이드, Forguncy 업그레이드]
+tags: [제품, 업그레이드]
 keywords: Forguncy 제품 업그레이드, Forguncy Builder 업그레이드, 업그레이드, Upgrade
 last_updated: Jan 03, 2020
 summary: "Forguncy Builder를 업그레이드하는 방법에 대해 알려드립니다."

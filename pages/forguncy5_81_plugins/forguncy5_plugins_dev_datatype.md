@@ -1,7 +1,7 @@
 ---
 title: Forguncy Plugins - 플러그인 개발 시 자료형 사용
-tags: [Forguncy, Plugins, DataType, 프로젝트, C#, C Sharp, Coding, Programming]
-keywords: Forguncy, 엑셀, Plugin, 플러그인, 연동
+tags: [Forguncy, Plugins, C Sharp, Programming]
+keywords: Forguncy, 엑셀, Plugin, 플러그인, 연동, DataType, 프로젝트, C#, Coding
 last_updated: Jul 14, 2020
 summary: "Forguncy 플러그인에서 자료형 사용을 확인하는 개발 예제입니다."
 sidebar: forguncy5_sidebar
@@ -11,7 +11,7 @@ folder: forguncy5_81_plugins
 
 <br />
 
-※참고 : 여기서부터 진행되는 내용은 [Visual Studio Community Edition](https://visualstudio.microsoft.com/ko/vs/community/){:target="_blank"}을 먼저 설치하셨다고 전제 하고 진행합니다.
+※참고 : 여기서부터 진행되는 내용은 [Visual Studio Community Edition](https://visualstudio.microsoft.com/ko/vs/community/){:target="_blank"}을 먼저 설치하셨다고 전제하고 진행합니다.
 
 <h2>포건시 플러그인에 자료형 소개</h2>
 

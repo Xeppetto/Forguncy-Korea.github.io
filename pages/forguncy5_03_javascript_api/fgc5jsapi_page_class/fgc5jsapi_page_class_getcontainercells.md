@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Page - getContainerCells
-tags: [Forguncy, JavaScript, API, getContainerCells]
-keywords: Forguncy API, JavaScript API, getContainerCells
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, getContainerCells, Web, JavaScript, API
 last_updated: Jan 9, 2020
 summary: "Forguncy API - Page 클래스 중 getContainerCells Method를 설명합니다."
 sidebar: forguncy5_sidebar

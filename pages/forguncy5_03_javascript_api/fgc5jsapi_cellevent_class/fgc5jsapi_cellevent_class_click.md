@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - CellEvent - Click
-tags: [Forguncy, JavaScript, API, Click]
-keywords: Forguncy API, JavaScript API, Click
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, Click, Web, JavaScript, API
 last_updated: Jan 16, 2020
 summary: "Forguncy API - CellEvent 클래스 중 Click Method를 설명합니다."
 sidebar: forguncy5_sidebar

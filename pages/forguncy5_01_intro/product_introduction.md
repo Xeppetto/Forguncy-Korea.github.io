@@ -1,7 +1,7 @@
 ---
 title: Forguncy 제품 소개
-tags: [제품 소개, Forguncy 소개]
-keywords: Forguncy 제품 소개, Forguncy Builder 소개, Forguncy Server 소개
+tags: [제품, 소개]
+keywords: Forguncy 제품 소개, Forguncy Builder 소개, Forguncy Server 소개, 스마트워크, 새로운 세상, RPA, Robotic Process Automation 
 last_updated: Nov 29, 2019
 summary: "새로운 웹개발 도구인 Forguncy를 소개합니다."
 sidebar: forguncy5_sidebar

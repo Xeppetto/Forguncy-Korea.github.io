@@ -1,7 +1,7 @@
 ---
 title: Forguncy는 누구에게 편리한가?
-tags: [제품 소개, Forguncy 소개, 새로운 세상]
-keywords: Forguncy 제품 소개, Forguncy로 함께 하는 업무 자동화와 스마트워크
+tags: [제품, 소개]
+keywords: Forguncy 제품 소개, Forguncy로 함께 하는 업무 자동화와 스마트워크, 새로운 세상, RPA, Robotic Process Automation 
 last_updated: Feb 17, 2020
 summary: "여러 직군의 분들께 Forguncy를 추천합니다."
 sidebar: forguncy5_sidebar

@@ -1,6 +1,6 @@
 ---
 title: Forguncy Builder 설치
-tags: [제품 설치, Forguncy Builder 설치]
+tags: [제품, 설치]
 keywords: Forguncy Builder 설치
 last_updated: Jan 03, 2020
 summary: "이 페이지에서는 Forguncy Builder를 설치하는 방법을 설명합니다."

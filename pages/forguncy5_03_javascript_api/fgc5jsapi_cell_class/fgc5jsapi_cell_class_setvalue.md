@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Cell - setValue
-tags: [Forguncy, JavaScript, API, setValue]
-keywords: Forguncy API, JavaScript API, setValue
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, setValue, Web, JavaScript, API
 last_updated: Jan 16, 2020
 summary: "Forguncy API - Cell 클래스 중 setValue Method를 설명합니다."
 sidebar: forguncy5_sidebar

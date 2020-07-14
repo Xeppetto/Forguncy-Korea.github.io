@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Page - suspendCalc
-tags: [Forguncy, JavaScript, API, suspendCalc]
-keywords: Forguncy API, JavaScript API, suspendCalc
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, suspendCalc, Web, JavaScript, API
 last_updated: Jan 14, 2020
 summary: "Forguncy API - Page 클래스 중 suspendCalc Method에 대해 설명합니다."
 sidebar: forguncy5_sidebar

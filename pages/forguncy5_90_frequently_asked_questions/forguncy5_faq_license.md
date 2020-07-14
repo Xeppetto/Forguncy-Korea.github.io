@@ -1,7 +1,7 @@
 ---
 title: Forguncy FAQ - 라이선스
-tags: [Forguncy, 자주 묻는 질문, FAQ]
-keywords: Forguncy, 구입, 비용, 가격, 라이선스
+tags: [Forguncy, FAQ, 라이선스]
+keywords: Forguncy, 구입, 비용, 가격, 라이선스, 자주 묻는 질문
 last_updated: Feb 14, 2020
 summary: "Forguncy 라이선스와 관련한 질문과 답변입니다."
 sidebar: forguncy5_sidebar

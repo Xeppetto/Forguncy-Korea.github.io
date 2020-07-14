@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Page - reloadBindingData
-tags: [Forguncy, JavaScript, API, reloadBindingData]
-keywords: Forguncy API, JavaScript API, reloadBindingData
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, reloadBindingData, Web, JavaScript, API
 last_updated: Jan 13, 2020
 summary: "Forguncy API - Page 클래스 중 reloadBindingData Method를 설명합니다."
 sidebar: forguncy5_sidebar

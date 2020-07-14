@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - ListView - addSelectedRow
-tags: [Forguncy, JavaScript, API, addSelectedRow]
-keywords: Forguncy API, JavaScript API, addSelectedRow
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, addSelectedRow, Web, JavaScript, API
 last_updated: Feb 7, 2020
 summary: "Forguncy API - ListView 클래스 중 addSelectedRow Method를 설명합니다."
 sidebar: forguncy5_sidebar

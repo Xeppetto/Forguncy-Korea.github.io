@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Page - unbind
-tags: [Forguncy, JavaScript, API, unbind]
-keywords: Forguncy API, JavaScript API, unbind
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, unbind, Web, JavaScript, API
 last_updated: Jan 14, 2020
 summary: "Forguncy API - Page 클래스 중 unbind Method를 설명합니다."
 sidebar: forguncy5_sidebar

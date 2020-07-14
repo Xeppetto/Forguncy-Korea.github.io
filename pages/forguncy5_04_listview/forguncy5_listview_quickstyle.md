@@ -1,7 +1,7 @@
 ---
 title: Forguncy ListView - 리스트뷰 스타일 적용하기
-tags: [Forguncy, Github, 협업, 프로젝트, 리스트뷰, ListView]
-keywords: Forguncy, 엑셀, RPA, Github
+tags: [Forguncy, Github, Collaboration, 리스트뷰, ListView]
+keywords: Forguncy, 엑셀, RPA, Github, 프로젝트, 협업
 last_updated: Jun 15, 2020
 summary: "Forguncy ListView의 색상 모양을 정하는 방법을 설명합니다."
 sidebar: forguncy5_sidebar

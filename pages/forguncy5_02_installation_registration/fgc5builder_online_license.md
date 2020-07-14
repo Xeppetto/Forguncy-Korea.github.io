@@ -1,6 +1,6 @@
 ---
 title: Forguncy Builder 온라인 인증
-tags: [제품 인증, Forguncy 인증, Forguncy Builder 정품 인증]
+tags: [제품, 정품 인증]
 keywords: Forguncy 제품 인증, Forguncy 인증, Forguncy Builder 인증, Forguncy 정품, Forguncy 정품 인증, Forguncy Builder 정품, Forguncy Builder 정품 인증
 last_updated: Jan 03, 2020
 summary: "Forguncy Builder를 온라인에서 정품 인증하는 방법입니다."

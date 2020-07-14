@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Page - getSubPageInfoByPageID
-tags: [Forguncy, JavaScript, API, getSubPageInfoByPageID]
-keywords: Forguncy API, JavaScript API, getSubPageInfoByPageID
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, getSubPageInfoByPageID, Web, JavaScript, API
 last_updated: Jan 9, 2020
 summary: "Forguncy API - Page 클래스 중 getSubPageInfoByPageID Method에 대해 설명합니다."
 sidebar: forguncy5_sidebar

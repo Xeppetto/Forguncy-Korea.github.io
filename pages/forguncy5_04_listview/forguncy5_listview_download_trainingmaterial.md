@@ -1,7 +1,7 @@
 ---
 title: Forguncy ListView - 학습자료 내려받기
-tags: [Forguncy, Github, 협업, 프로젝트, 리스트뷰, ListView]
-keywords: Forguncy, 엑셀, RPA, Github
+tags: [Forguncy, Github, Collaboration, 리스트뷰, ListView]
+keywords: Forguncy, 엑셀, RPA, Github, 협업, 프로젝트
 last_updated: Jun 15, 2020
 summary: "Forguncy의 ListView 사용에 대한 교육 자료를 내려 받는 방법입니다."
 sidebar: forguncy5_sidebar

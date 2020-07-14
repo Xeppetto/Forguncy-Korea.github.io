@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Page - getCellArray
-tags: [Forguncy, JavaScript, API, getCellArray]
-keywords: Forguncy API, JavaScript API, getCellArray
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, getCellArray, Web, JavaScript, API
 last_updated: Jan 8, 2020
 summary: "Forguncy API - Page 클래스 중 getCellArray Method를 설명합니다."
 sidebar: forguncy5_sidebar

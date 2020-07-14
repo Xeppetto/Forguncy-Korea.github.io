@@ -1,7 +1,7 @@
 ---
 title: Forguncy Plugins - 플러그인 개발 LayDate
-tags: [Forguncy, Plugins, JavaScript, 프로젝트, C#, C Sharp, Coding, Programming]
-keywords: Forguncy, 엑셀, Plugin, 플러그인, 연동
+tags: [Forguncy, Plugins, C Sharp, Programming, OpenSource]
+keywords: Forguncy, 엑셀, Plugin, 플러그인, 연동, JavaScript, 프로젝트, C#, Coding
 last_updated: Jul 13, 2020
 summary: "Forguncy 플러그인 개발 예제입니다. - LayDate"
 sidebar: forguncy5_sidebar

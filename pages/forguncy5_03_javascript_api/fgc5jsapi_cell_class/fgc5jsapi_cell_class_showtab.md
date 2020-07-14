@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Cell - showTab
-tags: [Forguncy, JavaScript, API, showTab]
-keywords: Forguncy API, JavaScript API, showTab
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, showTab, Web, JavaScript, API
 last_updated: Jan 16, 2020
 summary: "Forguncy API - Cell 클래스 중 showTab Method를 설명합니다."
 sidebar: forguncy5_sidebar

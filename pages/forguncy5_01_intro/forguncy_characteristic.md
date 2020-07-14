@@ -1,7 +1,7 @@
 ---
 title: Forguncy의 특징
-tags: [제품 특징, Forguncy 특징]
-keywords: Forguncy 제품 소개, Forguncy 특징
+tags: [제품, 소개]
+keywords: Forguncy 제품 소개, Forguncy 특징, 스마트워크, 새로운 세상, RPA, Robotic Process Automation 
 last_updated: Nov 29, 2019
 summary: "Forguncy의 특장점을 소개합니다."
 sidebar: forguncy5_sidebar

@@ -2,7 +2,7 @@
 title: Forguncy v5.0.2의 새로운 기능 (준비 중)
 tags: [News, Release Notes, Announcements]
 keywords: News, Release Notes, Announcements
-sidebar: home_sidebar
+sidebar: information_sidebar
 permalink: under_construction.html
 folder: forguncy_infomation
 summary: "Excel을 사용할 수 있는 사람이라면 누구나 웹개발자가 될 수 있는 도구 Forguncy의 v5.0.104가 출시되었습니다."

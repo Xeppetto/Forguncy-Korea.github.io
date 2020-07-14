@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - ListView - reload
-tags: [Forguncy, JavaScript, API, reload]
-keywords: Forguncy API, JavaScript API, reload
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, reload, Web, JavaScript, API
 last_updated: Feb 10, 2020
 summary: "Forguncy API - ListView 클래스 중 reload Method를 설명합니다."
 sidebar: forguncy5_sidebar

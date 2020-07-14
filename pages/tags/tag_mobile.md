@@ -1,9 +1,9 @@
 ---
-title: "Mobile Pages"
+title: "Mobile 태그"
+tagName: Mobile
 search: exclude
-tagName: mobile
-permalink: tag_mobile.html
-sidebar: mydoc_sidebar
+permalink: tag_Mobile.html
+sidebar: information_sidebar
 folder: tags
 ---
 {% include taglogic.html %}

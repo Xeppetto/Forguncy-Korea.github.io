@@ -1,9 +1,9 @@
 ---
-title: "Troubleshooting pages"
-tagName: troubleshooting
+title: "Troubleshooting 태그"
+tagName: Troubleshooting
 search: exclude
-permalink: tag_troubleshooting.html
-sidebar: mydoc_sidebar
+permalink: tag_Troubleshooting.html
+sidebar: information_sidebar
 folder: tags
 ---
 {% include taglogic.html %}

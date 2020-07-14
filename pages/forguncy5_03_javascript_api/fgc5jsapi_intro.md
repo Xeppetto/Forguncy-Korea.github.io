@@ -1,7 +1,7 @@
 ---
 title: Forguncy JavaScript API
 tags: [Forguncy, JavaScript, API]
-keywords: Forguncy API, JavaScript API
+keywords: Forguncy API, JavaScript API, Web, JavaScript, API
 last_updated: Jan 7, 2020
 summary: "Forguncy API를 소개합니다. 구분의 링크를 클릭하시면 세부 페이지 내용을 보실 수 있습니다."
 sidebar: forguncy5_sidebar

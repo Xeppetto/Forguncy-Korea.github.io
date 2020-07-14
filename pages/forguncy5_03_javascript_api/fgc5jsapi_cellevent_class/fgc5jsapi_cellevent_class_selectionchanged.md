@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - CellEvent - SelectionChanged
-tags: [Forguncy, JavaScript, API, SelectionChanged]
-keywords: Forguncy API, JavaScript API, SelectionChanged
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, SelectionChanged, Web, JavaScript, API
 last_updated: Jan 16, 2020
 summary: "Forguncy API - CellEvent 클래스 중 SelectionChanged Method를 설명합니다."
 sidebar: forguncy5_sidebar

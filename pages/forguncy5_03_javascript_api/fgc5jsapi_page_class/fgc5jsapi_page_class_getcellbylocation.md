@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Page - getCellByLocation
-tags: [Forguncy, JavaScript, API, getCellByLocation]
-keywords: Forguncy API, JavaScript API, getCellByLocation
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, getCellByLocation, Web, JavaScript, API
 last_updated: Jan 8, 2020
 summary: "Forguncy API - Page 클래스 중 getCellByLocation Method를 설명합니다."
 sidebar: forguncy5_sidebar

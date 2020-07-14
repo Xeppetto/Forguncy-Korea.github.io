@@ -1,7 +1,7 @@
 ---
 title: Forguncy Plugins - 플러그인 내려받기
-tags: [Forguncy, Plugins, Addons, 프로젝트, C#, C Sharp, Coding, Programming]
-keywords: Forguncy, 엑셀, RPA, Plugins
+tags: [Forguncy, Plugins, C Sharp, Programming]
+keywords: Forguncy, 엑셀, RPA, Plugins, Addons, 프로젝트, C#, Coding
 last_updated: Jun 16, 2020
 summary: "Forguncy에서 사용할 수 있도록 작성된 추가 기능인 플러그인을 내려 받으실 수 있습니다."
 sidebar: forguncy5_sidebar

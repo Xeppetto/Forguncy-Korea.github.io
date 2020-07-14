@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - CellEvent - PivotTableClick
-tags: [Forguncy, JavaScript, API, PivotTableClick]
-keywords: Forguncy API, JavaScript API, PivotTableClick
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, PivotTableClick, Web, JavaScript, API
 last_updated: Jan 16, 2020
 summary: "Forguncy API - CellEvent 클래스 중 PivotTableClick Method를 설명합니다."
 sidebar: forguncy5_sidebar

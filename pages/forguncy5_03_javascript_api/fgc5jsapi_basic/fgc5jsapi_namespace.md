@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Namespace
-tags: [Forguncy, JavaScript, API, Namespace]
-keywords: Forguncy API, JavaScript API, Namespace
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, Namespace, Web, JavaScript, API
 last_updated: Jan 7, 2020
 summary: "Forguncy API - Namespace를 사용하는 방법을 안내합니다."
 sidebar: forguncy5_sidebar

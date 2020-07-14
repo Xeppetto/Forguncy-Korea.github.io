@@ -1,7 +1,7 @@
 ---
 title: Forguncy API - Page - ready
-tags: [Forguncy, JavaScript, API, ready]
-keywords: Forguncy API, JavaScript API, ready
+tags: [Forguncy, JavaScript, API]
+keywords: Forguncy API, JavaScript API, ready, Web, JavaScript, API
 last_updated: Jan 13, 2020
 summary: "Forguncy API - Page 클래스 중 ready Method와 관련해 설명합니다."
 sidebar: forguncy5_sidebar
