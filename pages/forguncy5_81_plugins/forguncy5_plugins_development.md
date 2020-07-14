@@ -1,7 +1,7 @@
 ---
 title: Forguncy Plugins - 플러그인 개발하기
 tags: [Forguncy, Plugins, Addons, 프로젝트, C#, C Sharp, Coding, Programming]
-keywords: Forguncy, 엑셀, Plugin, 플러그인
+keywords: Forguncy, 엑셀, Plugin, 플러그인, 연동
 last_updated: Jul 10, 2020
 summary: "Forguncy 플러그인을 개발하는 방법입니다."
 sidebar: forguncy5_sidebar
