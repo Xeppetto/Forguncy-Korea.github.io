@@ -5,7 +5,7 @@ topnav:
     items:
       - title: 트레이닝 센터
         url: /index.html
-      - title: 새로운 기능
+      - title: 그 외 정보
         url: /under_construction.html
       - title: 데모보기
         external_url: https://forguncy.co.kr/demo

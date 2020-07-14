@@ -3,18 +3,21 @@
 entries:
   - title: sidebar
     product: Forguncy
-    version: News
+    version: 정보
     folders:
-      - title: 새로운 기능
+      - title: 새로운 정보
         output: web, pdf
         folderitems:
-          #- title: Forguncy 새로운 기능
-          #  url: /under_construction.html
-          #  output: web
-          #  type: homepage
-          - title: GrapeCity 제품 소개
-            url: /grapecity_products.html
+          - title: Forguncy 새로운 기능
+            url: /under_construction.html
             output: web
+            type: homepage
           - title: 튜토리얼페이지 로그
             url: /tutotial_update_log.html
+            output: web, pdf
+      - title: 기타 정보
+        output: web, pdf
+        folderitems:
+          - title: GrapeCity 제품 소개
+            url: /grapecity_products.html
             output: web
