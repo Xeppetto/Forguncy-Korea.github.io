@@ -933,6 +933,7 @@ a.no_icon:after
 
 .btn-default {
     margin-bottom: 10px;
+    background-color: #ecf8ff; /* Tag 버튼 배경 색을 위해 추가한 line - 다른 버튼에 영향 받는 경우 삭제해야 함.*/
 }
 
 /* algolia search */

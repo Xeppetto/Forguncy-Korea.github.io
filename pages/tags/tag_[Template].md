@@ -1,8 +1,8 @@
 ---
-title: "News 태그"
-tagName: News
+title: "[Template] 태그"
+tagName: [Template]
 search: exclude
-permalink: tag_News.html
+permalink: tag_[Template].html
 sidebar: information_sidebar
 folder: tags
 ---

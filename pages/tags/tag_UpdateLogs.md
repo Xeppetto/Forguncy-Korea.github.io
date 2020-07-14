@@ -1,8 +1,8 @@
 ---
-title: "News 태그"
-tagName: News
+title: "UpdateLogs 태그"
+tagName: UpdateLogs
 search: exclude
-permalink: tag_News.html
+permalink: tag_UpdateLogs.html
 sidebar: information_sidebar
 folder: tags
 ---
