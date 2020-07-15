@@ -79,28 +79,28 @@ entries:
             url: /fgc5server_uninstallation.html
             output: web, pdf
 
-      - title: Forguncy API
+      - title: Forguncy JavaScript API
         output: web, pdf
         folderitems:
-          - title: Forguncy API 소개
+          - title: JavaScript API 소개
             url: /fgc5jsapi_intro.html
             output: web, pdf
 
             subfolders:
-            - title: Forguncy API - 기본 객체
+            - title: JavaScript API - 기본 객체
               output: web, pdf
               subfolderitems:
                 
-              - title: Forguncy API - Namespace
+              - title: JavaScript API - Namespace
                 url: /fgc5jsapi_namespace.html
                 output: web, pdf
 
-              - title: Forguncy API - Page 변수
+              - title: JavaScript API - Page 변수
                 url: /fgc5jsapi_page-variable.html
                 output: web, pdf
 
             #Forguncy API - Page 클래스 - subfolders
-            - title: Forguncy API - Page 클래스
+            - title: JavaScript API - Page 클래스
               output: web, pdf
               subfolderitems:
 
@@ -189,7 +189,7 @@ entries:
                 output: web, pdf
 
             #Forguncy API - Cell 클래스 - subfolders
-            - title: Forguncy API - Cell 클래스
+            - title: JavaScript API - Cell 클래스
               output: web, pdf
               subfolderitems:
 
@@ -270,7 +270,7 @@ entries:
                 output: web, pdf
                 
             #Forguncy API - CellEvent 클래스 - subfolders
-            - title: Forguncy API - CellEvent 클래스
+            - title: JavaScript API - CellEvent 클래스
               output: web, pdf
               subfolderitems:
 
@@ -303,7 +303,7 @@ entries:
                 output: web, pdf
 
             #Forguncy API - ListView 클래스 - subfolders
-            - title: Forguncy API - ListView 클래스
+            - title: JavaScript API - ListView 클래스
               output: web, pdf
               subfolderitems:
 
