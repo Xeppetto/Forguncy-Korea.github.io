@@ -21,3 +21,6 @@ entries:
           - title: GrapeCity 제품 소개
             url: /grapecity_products.html
             output: web
+          - title: Forguncy Open Source 사용 고지
+            url: /fgc3rdparty_license_notice.html
+            output: web
