@@ -10,7 +10,9 @@ summary: "이 페이지에서는 Forguncy 외 그레이프시티 코리아가 �
 
 <h2> Forguncy 내 3rd party OpenSource License 고지 </h2>
 
-Forguncy는 [(주)그레이프시티](https://www.grapecity.com){:target="_blank"}의 소프트웨어 저작물이며, 대한민국 내에서는 [그레이프시티 한국 사무소](https://www.grapecity.co.kr){:target="_blank"}에서 관리하고 있습니다. Forguncy는 아래의 소프트웨어 목록에 나열된 오픈소스 소프트웨어를 포함하고 있으며, 해당 저작물들의 라이선스 정책을 고지합니다.
+Forguncy는 [(주)그레이프시티](https://www.grapecity.com){:target="_blank"}의 소프트웨어 저작물이며, 저작물의 권한에 대해서 대한민국 내에서는 [그레이프시티 한국 사무소](https://www.grapecity.co.kr){:target="_blank"}에서 관리하고 있습니다. 
+
+Forguncy는 아래의 소프트웨어 목록에 나열된 오픈소스 소프트웨어를 포함하고 있으며, 해당 저작물들의 라이선스 정책을 고지합니다.
 
 * [.NET Core Libraries (CoreFX)](https://github.com/dotnet/corefx/blob/master/LICENSE.TXT){:target="_blank"} (MIT License)
 * [.NET Standard](https://github.com/dotnet/standard/blob/master/LICENSE.TXT){:target="_blank"} (MIT License)
