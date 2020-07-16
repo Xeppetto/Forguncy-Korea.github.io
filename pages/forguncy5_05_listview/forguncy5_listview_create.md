@@ -1,6 +1,6 @@
 ---
 title: Forguncy ListView - 리스트뷰 만들기
-tags: [Forguncy, Github, Collaboration, 리스트뷰, ListView]
+tags: [Forguncy, Github, 리스트뷰, ListView]
 keywords: Forguncy, 엑셀, RPA, Github, 협업, 프로젝트
 last_updated: Jun 15, 2020
 summary: "데이터를 아주 사용하기 쉽게 해주는 Forguncy ListView를 생성해 보시겠습니다."
