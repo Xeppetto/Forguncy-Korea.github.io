@@ -1,9 +1,9 @@
 ---
-title: Forguncy API - Page - bind
+title: Forguncy JavaScript API - Page - bind
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, bind, Web, JavaScript, API
 last_updated: Jan 7, 2020
-summary: "Forguncy API - Page 클래스 중 Bind Method를 설명합니다."
+summary: "Forguncy JavaScript API - Page 클래스 중 Bind Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-bind.html
 folder: forguncy5_03_javascript_api

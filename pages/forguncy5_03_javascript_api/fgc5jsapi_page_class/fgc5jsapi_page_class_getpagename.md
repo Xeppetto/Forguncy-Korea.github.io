@@ -1,9 +1,9 @@
 ---
-title: Forguncy API - Page - getPageName
+title: Forguncy JavaScript API - Page - getPageName
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, getPageName, Web, JavaScript, API
 last_updated: Jan 9, 2020
-summary: "Forguncy API - Page 클래스 중 getPageName Method에 대해 설명합니다."
+summary: "Forguncy JavaScript API - Page 클래스 중 getPageName Method에 대해 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-getPageName.html
 folder: forguncy5_03_javascript_api

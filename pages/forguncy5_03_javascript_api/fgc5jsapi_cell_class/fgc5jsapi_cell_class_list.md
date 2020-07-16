@@ -1,9 +1,9 @@
 ---
-title: Forguncy API - Cell - 전체 목록
+title: Forguncy JavaScript API - Cell - 전체 목록
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, cell, Web, JavaScript, API
 last_updated: Jan 14, 2020
-summary: "Forguncy API - Cell Class의 전체 Method 목록입니다. 구분의 링크를 클릭하시면 세부 페이지 내용을 보실 수 있습니다."
+summary: "Forguncy JavaScript API - Cell Class의 전체 Method 목록입니다. 구분의 링크를 클릭하시면 세부 페이지 내용을 보실 수 있습니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_cell-class-list.html
 folder: forguncy5_03_javascript_api

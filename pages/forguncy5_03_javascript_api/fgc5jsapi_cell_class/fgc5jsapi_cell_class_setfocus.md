@@ -1,9 +1,9 @@
 ---
-title: Forguncy API - Cell - setFocus
+title: Forguncy JavaScript API - Cell - setFocus
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, setFocus, Web, JavaScript, API
 last_updated: Jan 20, 2020
-summary: "Forguncy API - Cell 클래스 중 setFocus Method를 설명합니다."
+summary: "Forguncy JavaScript API - Cell 클래스 중 setFocus Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_cell-class-setfocus.html
 folder: forguncy5_03_javascript_api

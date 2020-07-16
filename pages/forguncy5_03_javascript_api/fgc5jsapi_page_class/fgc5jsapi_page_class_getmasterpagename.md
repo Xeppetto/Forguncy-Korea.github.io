@@ -1,9 +1,9 @@
 ---
-title: Forguncy API - Page - getMasterPageName
+title: Forguncy JavaScript API - Page - getMasterPageName
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, getMasterPageName, Web, JavaScript, API
 last_updated: Jan 9, 2020
-summary: "Forguncy API - Page 클래스 중 getMasterPageName Method를 설명합니다."
+summary: "Forguncy JavaScript API - Page 클래스 중 getMasterPageName Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-getMasterPageName.html
 folder: forguncy5_03_javascript_api

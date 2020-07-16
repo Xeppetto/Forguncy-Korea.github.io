@@ -1,9 +1,9 @@
 ---
-title: Forguncy API - CellEvent - MouseLeave
+title: Forguncy JavaScript API - CellEvent - MouseLeave
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, MouseLeave, Web, JavaScript, API
 last_updated: Jan 16, 2020
-summary: "Forguncy API - CellEvent 클래스 중 MouseLeave Method를 설명합니다."
+summary: "Forguncy JavaScript API - CellEvent 클래스 중 MouseLeave Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_cellevent-class-mouseleave.html
 folder: forguncy5_03_javascript_api

@@ -1,9 +1,9 @@
 ---
-title: Forguncy API - Page 변수
+title: Forguncy JavaScript API - Page 변수
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, page, Web, JavaScript, API
 last_updated: Jan 7, 2020
-summary: "Forguncy API - Page Variable을 사용하는 방법을 안내합니다."
+summary: "Forguncy JavaScript API - Page Variable을 사용하는 방법을 안내합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-variable.html
 folder: forguncy5_03_javascript_api

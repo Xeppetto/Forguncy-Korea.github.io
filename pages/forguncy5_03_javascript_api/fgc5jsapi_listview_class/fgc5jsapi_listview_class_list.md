@@ -1,7 +1,7 @@
 ---
-title: Forguncy API - ListView - 전체 목록
+title: Forguncy JavaScript API - ListView - 전체 목록
 tags: [Forguncy, JavaScript, API, ListView]
-keywords: Forguncy API, JavaScript API, ListView, Web, JavaScript, API
+keywords: Forguncy JavaScript API, JavaScript API, ListView, Web, JavaScript, API
 last_updated: Feb 7, 2020
 summary: "Forguncy API - ListView Class의 전체 Method 목록입니다. 구분의 링크를 클릭하시면 세부 페이지 내용을 보실 수 있습니다."
 sidebar: forguncy5_sidebar

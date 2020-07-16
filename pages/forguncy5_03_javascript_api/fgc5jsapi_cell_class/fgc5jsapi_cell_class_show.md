@@ -1,9 +1,9 @@
 ---
-title: Forguncy API - Cell - show
+title: Forguncy JavaScript API - Cell - show
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, show, Web, JavaScript, API
 last_updated: Jan 15, 2020
-summary: "Forguncy API - Cell 클래스 중 show Method를 설명합니다."
+summary: "Forguncy JavaScript API - Cell 클래스 중 show Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_cell-class-show.html
 folder: forguncy5_03_javascript_api

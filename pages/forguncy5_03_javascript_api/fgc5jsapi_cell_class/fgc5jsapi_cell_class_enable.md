@@ -1,9 +1,9 @@
 ---
-title: Forguncy API - Cell - enable
+title: Forguncy JavaScript API - Cell - enable
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, enable, Web, JavaScript, API
 last_updated: Jan 16, 2020
-summary: "Forguncy API - Cell 클래스 중 enable Method를 설명합니다."
+summary: "Forguncy JavaScript API - Cell 클래스 중 enable Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_cell-class-enable.html
 folder: forguncy5_03_javascript_api

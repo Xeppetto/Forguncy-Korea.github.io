@@ -1,9 +1,9 @@
 ---
-title: Forguncy API - Cell - setBackcolor
+title: Forguncy JavaScript API - Cell - setBackcolor
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, setBackcolor, Web, JavaScript, API
 last_updated: Jan 20, 2020
-summary: "Forguncy API - Cell 클래스 중 setBackcolor Method를 설명합니다."
+summary: "Forguncy JavaScript API - Cell 클래스 중 setBackcolor Method를 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_cell-class-setbackcolor.html
 folder: forguncy5_03_javascript_api

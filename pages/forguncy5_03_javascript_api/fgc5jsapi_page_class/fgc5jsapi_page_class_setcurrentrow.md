@@ -1,9 +1,9 @@
 ---
-title: Forguncy API - Page - setCurrentRow
+title: Forguncy JavaScript API - Page - setCurrentRow
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, setCurrentRow, Web, JavaScript, API
 last_updated: Jan 14, 2020
-summary: "Forguncy API - Page 클래스 중 setCurrentRow Method에 대해 설명합니다."
+summary: "Forguncy JavaScript API - Page 클래스 중 setCurrentRow Method에 대해 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_page-class-setcurrentrow.html
 folder: forguncy5_03_javascript_api
