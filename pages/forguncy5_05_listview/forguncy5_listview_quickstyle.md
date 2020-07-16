@@ -6,7 +6,7 @@ last_updated: Jun 15, 2020
 summary: "Forguncy ListView의 색상 모양을 정하는 방법을 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: forguncy5_listview_quickstyle.html
-folder: forguncy5_04_listview
+folder: forguncy5_05_listview
 ---
 
 본 페이지에서는 리스트뷰에 색상을 입히고 꾸미는 방법에 대해 결명합니다.

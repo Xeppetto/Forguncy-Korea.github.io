@@ -6,7 +6,7 @@ last_updated: Jun 15, 2020
 summary: "Forguncy ListView의 세부 메뉴를 볼 수 있는 방법을 설명합니다."
 sidebar: forguncy5_sidebar
 permalink: forguncy5_listview_contextmenu.html
-folder: forguncy5_04_listview
+folder: forguncy5_05_listview
 ---
 
 <h2>리스트뷰 학습 방법</h2>

@@ -6,7 +6,7 @@ last_updated: Jun 15, 2020
 summary: "데이터를 아주 사용하기 쉽게 해주는 Forguncy ListView를 생성해 보시겠습니다."
 sidebar: forguncy5_sidebar
 permalink: forguncy5_listview_create.html
-folder: forguncy5_04_listview
+folder: forguncy5_05_listview
 ---
 
 <h2>리스트뷰 만들기</h2>

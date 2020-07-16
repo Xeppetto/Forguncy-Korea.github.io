@@ -6,7 +6,7 @@ last_updated: Jun 15, 2020
 summary: "Forguncy의 ListView 사용에 대한 교육 자료를 내려 받는 방법입니다."
 sidebar: forguncy5_sidebar
 permalink: forguncy5_listview_download_trainingmaterial.html
-folder: forguncy5_04_listview
+folder: forguncy5_05_listview
 ---
 
 <h2>Forguncy ListView Sample 사이트 바로보기 </h2>
