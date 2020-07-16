@@ -63,24 +63,24 @@ Forguncy Plugin은 Forguncy를 사용하는 각 개인들이 만든 저작물로
 
 Forguncy Plugin을 사용하셔서 신규 상용 서비스를 런칭하시려는 경우, 플러그인 사용자분들께서는 아래 오픈소스 라이선스를 명확히 이해하신 후 웹서비스를 배포하셔야 합니다.
 
-* HtmlRichEditor 플러그인 : [tinymce](https://github.com/tinymce/tinymce/blob/master/LICENSE.TXT){:target="_blank"} (LGPLv2.1)
-* Menu 플러그인 : [zTree](https://github.com/zTree/zTree_v3){:target="_blank"} (MIT License), [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
-* Signature 플러그인 : [signature_pad](){:target="_blank"} (MIT License)
-* Carousel 플러그인 : [Bootstrap](https://github.com/twbs/bootstrap/blob/main/LICENSE){:target="_blank"} (MIT License)
-* Import And Export CSV File 플러그인 : [PapaParse](https://github.com/mholt/PapaParse/blob/master/LICENSE){:target="_blank"} (MIT License), [chardet](https://github.com/chardet/chardet/blob/master/LICENSE){:target="_blank"} (LGPLv2.1)
-* TabManager 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
-* SendDingTalkMessage 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License), [Katana Project](https://github.com/aspnet/AspNetKatana/blob/dev/LICENSE.txt){:target="_blank"} (Apache License 2.0), [owin-hosting](https://github.com/owin-contrib/owin-hosting/blob/master/LICENSE.txt){:target="_blank"} (Apache License 2.0)
-* SendWeChatMessage 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License), [Katana Project](https://github.com/aspnet/AspNetKatana/blob/dev/LICENSE.txt){:target="_blank"} (Apache License 2.0), [owin-hosting](https://github.com/owin-contrib/owin-hosting/blob/master/LICENSE.txt){:target="_blank"} (Apache License 2.0)
-* Forguncy.BulitinCellTypeBase 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
-* Forguncy.CellTypes 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
-* FilePreviewer 플러그인 : [Bootstrap](https://github.com/twbs/bootstrap/blob/main/LICENSE){:target="_blank"} (MIT License), [TencentCOS](https://github.com/tencentyun/cos-js-sdk-v5/blob/master/LICENSE){:target="_blank"} (MIT License), [PDF.js](https://github.com/mozilla/pdf.js/blob/master/LICENSE){:target="_blank"} (Apache License 2.0)
-* GeneralSamlSecurityProvider 플러그인 : [Sustainsys/Saml2](https://github.com/Sustainsys/Saml2/blob/develop/LICENSE){:target="_blank"} (MIT License), [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
 * ADSecurityProvider 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
+* Carousel 플러그인 : [Bootstrap](https://github.com/twbs/bootstrap/blob/main/LICENSE){:target="_blank"} (MIT License)
 * DemoPasswordSecurityProvider 플러그인 : [.NET Standard](https://github.com/dotnet/standard/blob/master/LICENSE.TXT){:target="_blank"} (MIT License)
 * DingTalkSecurityProvider 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
+* FilePreviewer 플러그인 : [Bootstrap](https://github.com/twbs/bootstrap/blob/main/LICENSE){:target="_blank"} (MIT License), [TencentCOS](https://github.com/tencentyun/cos-js-sdk-v5/blob/master/LICENSE){:target="_blank"} (MIT License), [PDF.js](https://github.com/mozilla/pdf.js/blob/master/LICENSE){:target="_blank"} (Apache License 2.0)
+* Forguncy.BulitinCellTypeBase 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
+* Forguncy.CellTypes 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
 * GCESSecurityProvider 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
+* GeneralSamlSecurityProvider 플러그인 : [Sustainsys/Saml2](https://github.com/Sustainsys/Saml2/blob/develop/LICENSE){:target="_blank"} (MIT License), [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
 * GrapeCity.Forguncy.SecurityProvider 플러그인 : [.NET Standard](https://github.com/dotnet/standard/blob/master/LICENSE.TXT){:target="_blank"} (MIT License)
+* HtmlRichEditor 플러그인 : [tinymce](https://github.com/tinymce/tinymce/blob/master/LICENSE.TXT){:target="_blank"} (LGPLv2.1)
+* Import And Export CSV File 플러그인 : [PapaParse](https://github.com/mholt/PapaParse/blob/master/LICENSE){:target="_blank"} (MIT License), [chardet](https://github.com/chardet/chardet/blob/master/LICENSE){:target="_blank"} (LGPLv2.1)
+* Menu 플러그인 : [zTree](https://github.com/zTree/zTree_v3){:target="_blank"} (MIT License), [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
 * Office365SecurityProvider_new 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
+* SendDingTalkMessage 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License), [Katana Project](https://github.com/aspnet/AspNetKatana/blob/dev/LICENSE.txt){:target="_blank"} (Apache License 2.0), [owin-hosting](https://github.com/owin-contrib/owin-hosting/blob/master/LICENSE.txt){:target="_blank"} (Apache License 2.0)
+* SendWeChatMessage 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License), [Katana Project](https://github.com/aspnet/AspNetKatana/blob/dev/LICENSE.txt){:target="_blank"} (Apache License 2.0), [owin-hosting](https://github.com/owin-contrib/owin-hosting/blob/master/LICENSE.txt){:target="_blank"} (Apache License 2.0)
+* Signature 플러그인 : [signature_pad](){:target="_blank"} (MIT License)
+* TabManager 플러그인 : [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License)
 
 <!-- * [](){:target="_blank"} -->
 <br />
@@ -91,11 +91,11 @@ Forguncy Plugin을 사용하셔서 신규 상용 서비스를 런칭하시려는
 
 그레이프시티 컴포넌트 제품을 이용하시면 Forguncy와 같이 사용자 편의성이 높은 새로운 애플리케이션을 개발하실 수 있습니다.
 
-* [SpreadJS](https://www.grapecity.co.kr/spreadjs){:target="_blank"}
-* [InputManJS](https://www.grapecity.co.jp/developer/inputmanjs){:target="_blank"}
-* [Spread for WPF](https://www.grapecity.co.kr/spreadstudio){:target="_blank"}
 * [ComponentOne for WPF](https://www.grapecity.co.kr/componentone-enterprise){:target="_blank"}
 * [GrapeCity Barcode](https://www.grapecity.co.kr/componentone-wpf/controls/barcode){:target="_blank"}
+* [InputManJS](https://www.grapecity.co.jp/developer/inputmanjs){:target="_blank"}
+* [SpreadJS](https://www.grapecity.co.kr/spreadjs){:target="_blank"}
+* [Spread for WPF](https://www.grapecity.co.kr/spreadstudio){:target="_blank"}
 
 <br /><br />
 
