@@ -3,19 +3,21 @@ title: Forguncy JavaScript API
 tags: [Forguncy, JavaScript, API]
 keywords: Forguncy API, JavaScript API, Web, JavaScript, API
 last_updated: Jan 7, 2020
-summary: "Forguncy API를 소개합니다. 구분의 링크를 클릭하시면 세부 페이지 내용을 보실 수 있습니다."
+summary: "Forguncy JavaScript API를 소개합니다."
 sidebar: forguncy5_sidebar
 permalink: fgc5jsapi_intro.html
 folder: forguncy5_03_javascript_api
 ---
 
-Forguncy는 Excel과 비슷한 환경으로 사용하기 위해 Forguncy 개발자들이 사용할 수 있는 API를 제공합니다. 
+Forguncy는 프로그래밍에 전문성을 갖추지 않은 비-개발자들도 손쉽게 웹서비스를 개발할 수 있도록 해 줍니다. 이런 손쉬운 개발이 가능한 이유는 사용자가 웹개발 시 사용하는 내용들을 API와 그레이프시티의 기술력으로 자동화 해 두었기 때문에 가능합니다. 
 
-Forguncy는 기본적으로 '웹개발 도구'라는 특성을 가지고 있기 때문에 Forguncy를 활용하여 웹 화면에 표시되는 각 항목들은 Properties, Method, Interface, Page object, Table object, Cell object 등 여러 종류의 세부 속성 값들을 가지게 됩니다. Forguncy API는 이런 속성 값들을 활용하여 더 유연한 웹개발을 할 수 있도록 도와줍니다.
+Forguncy는 Excel과 비슷한 환경으로 사용하기 위해 Forguncy는 C#과 JavaScript로 프로그래밍된 API를 제공하고 있으며, 전문 개발자들은 Forguncy API를 사용하여 더 편리한 기능들을 만들 수 있습니다. Forguncy는 기본적으로 '웹개발 도구'라는 특성을 가지고 있기 때문에 Forguncy를 활용하여 웹 화면에 표시되는 각 항목들은 Properties, Method, Interface, Page object, Table object, Cell object 등 여러 종류의 세부 속성 값들을 가지게 됩니다. Forguncy API는 이런 속성 값들을 활용하여 더 유연한 웹개발을 할 수 있도록 도와줍니다.
 
-Forguncy에 기본 탑재된 API는 JavaScript로 제공하고 있으며, 본 문서는 JavaScript API 사용 방법에 대해 설명합니다. 혹은 사용자 스스로 Plug-in을 작성하여 API처럼 Forguncy에 추가하셔서 사용하실 수도 있습니다.
+C# API를 이용하셔서 Forguncy Builder에서 작업하는 환경과 Forguncy Server에서 작동하는 기능을 만드실 수 있고, JavaScript API로는 웹브라우저에서 사용자에게 보이는 기능들을 프로그램하실 수 있습니다.
 
-<br /><br /><br />
+본 문서는 JavaScript API 사용 방법에 대해 설명합니다. 혹은 사용자 스스로 Plug-in을 작성하여 기본 제공되는 API처럼 Forguncy에 추가하셔서 사용하실 수 있습니다.
+
+<br /><br />
 
 ---
 
@@ -23,7 +25,7 @@ Forguncy에 기본 탑재된 API는 JavaScript로 제공하고 있으며, 본 �
 
 ---
 
-<br /><br /><br />
+<br /><br />
 
 Forguncy JavaScript API의 종류는 다음과 같습니다. 각 항목의 링크를 누르면 세부 내용을 보실 수 있습니다.
 
