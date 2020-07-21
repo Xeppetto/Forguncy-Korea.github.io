@@ -9,8 +9,6 @@ permalink: windows_iis_smtp.html
 folder: forguncy5_82_integration
 ---
 
-본 페이지에서는 포건시를 이용하여 메일을 보내는 방법을 설명합니다.
-
 <br />
 
 > ※ 중요 안내<br />
