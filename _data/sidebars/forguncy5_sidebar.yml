@@ -79,6 +79,13 @@ entries:
             url: /fgc5server_uninstallation.html
             output: web, pdf
 
+      - title: Forguncy Server 관련 설치
+        output: web, pdf
+        folderitems:
+          - title: IIS에 SMTP 설치
+            url: /windows_iis_smtp.html
+            output: web, pdf
+
       - title: Forguncy JavaScript API
         output: web, pdf
         folderitems:
@@ -87,6 +94,7 @@ entries:
             output: web, pdf
 
             subfolders:
+            #Forguncy JavaScript API - 기본 객체 - subfolders
             - title: JavaScript API - 기본 객체
               output: web, pdf
               subfolderitems:
@@ -99,7 +107,7 @@ entries:
                 url: /fgc5jsapi_page-variable.html
                 output: web, pdf
 
-            #Forguncy API - Page 클래스 - subfolders
+            #Forguncy JavaScript API - Page 클래스 - subfolders
             - title: JavaScript API - Page 클래스
               output: web, pdf
               subfolderitems:
@@ -188,7 +196,7 @@ entries:
                 url: /fgc5jsapi_page-class-resumecalc.html
                 output: web, pdf
 
-            #Forguncy API - Cell 클래스 - subfolders
+            #Forguncy JavaScript API - Cell 클래스 - subfolders
             - title: JavaScript API - Cell 클래스
               output: web, pdf
               subfolderitems:
@@ -269,7 +277,7 @@ entries:
                 url: /fgc5jsapi_cell-class-setforecolor.html
                 output: web, pdf
                 
-            #Forguncy API - CellEvent 클래스 - subfolders
+            #Forguncy JavaScript API - CellEvent 클래스 - subfolders
             - title: JavaScript API - CellEvent 클래스
               output: web, pdf
               subfolderitems:
@@ -302,7 +310,7 @@ entries:
                 url: /fgc5jsapi_cellevent-class-valuechanged.html
                 output: web, pdf
 
-            #Forguncy API - ListView 클래스 - subfolders
+            #Forguncy JavaScript API - ListView 클래스 - subfolders
             - title: JavaScript API - ListView 클래스
               output: web, pdf
               subfolderitems:
@@ -322,6 +330,8 @@ entries:
               - title: Page - addSelectedRow
                 url: /fgc5jsapi_listview-class-addselectedrow.html
                 output: web, pdf
+
+
 
       - title: Forguncy ListView
         output: web, pdf

@@ -23,6 +23,7 @@ allowed-tags:
   - Excel
   - FAQ
   - Github
+  - IIS
   - JavaScript
   - License
   - Mobile
@@ -32,6 +33,7 @@ allowed-tags:
   - Plugins
   - Programming
   - Release Notes
+  - Server
   - Troubleshooting
   - UpdateLogs
   - Updates
