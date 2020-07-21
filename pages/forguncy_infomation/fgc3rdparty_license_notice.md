@@ -31,6 +31,7 @@ Forguncy는 아래의 소프트웨어 목록에 나열된 오픈소스 소프트
 * [HTML5 Placeholder jQuery Plugin](https://github.com/mathiasbynens/jquery-placeholder/blob/master/LICENSE.txt){:target="_blank"} (MIT License)
 * [HTTP Server API Configuration](https://archive.codeplex.com/?p=httpsysmanager){:target="_blank"} (MIT License)
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md){:target="_blank"} (MIT License)
+* [jsencrypt](https://github.com/travist/jsencrypt/blob/master/LICENSE.txt){:target="_blank"} (MIT License)
 * [jQuery](https://github.com/jquery/jquery/blob/master/LICENSE.txt){:target="_blank"} (MIT License)
 * [jQuery.event.drag](http://threedubmedia.com/code/license){:target="_blank"} (MIT License)
 * [jQuery UI](https://github.com/jquery/jquery-ui/blob/master/LICENSE.txt){:target="_blank"} (MIT License)
@@ -42,6 +43,10 @@ Forguncy는 아래의 소프트웨어 목록에 나열된 오픈소스 소프트
 * [libgit2sharp.nativebinaries](https://github.com/libgit2/libgit2sharp.nativebinaries/blob/master/LICENSE.md){:target="_blank"} (MIT License)
 * [Lodash](https://github.com/lodash/lodash/blob/master/LICENSE){:target="_blank"} (MIT License)
 * [Microsoft.AspNet](https://www.microsoft.com/web/webpi/eula/net_library_eula_ENU.htm){:target="_blank"} (Microsoft Software License Terms)
+* [Microsoft.AspNet.Razor](https://www.nuget.org/packages/Microsoft.AspNet.Razor/){:target="_blank"} (Microsoft Software License Terms)
+* [Microsoft.AspNet.WebPages](https://www.nuget.org/packages/Microsoft.AspNet.WebPages/){:target="_blank"} (Microsoft Software License Terms)
+* [Microsoft.AspNet.WebPages.Data](https://www.nuget.org/packages/Microsoft.AspNet.WebPages.Data/){:target="_blank"} (Microsoft Software License Terms)
+* [Microsoft.AspNet.WebPages.WebData](https://www.nuget.org/packages/Microsoft.AspNet.WebPages.WebData/){:target="_blank"} (Microsoft Software License Terms)
 * [Microsoft Data Connection Dialog](https://www.nuget.org/packages/DataConnectionDialog){:target="_blank"} (MS-LPL License)
 * [MySqlConnector](https://github.com/mysql-net/MySqlConnector/blob/master/LICENSE){:target="_blank"} (MIT License)
 * [Newtonsoft.Json](https://licenses.nuget.org/MIT){:target="_blank"} (MIT License) (Apache License 2.0)
@@ -54,8 +59,10 @@ Forguncy는 아래의 소프트웨어 목록에 나열된 오픈소스 소프트
 * [Simple ScrollBar](https://github.com/Grsmto/simplebar/blob/master/LICENSE){:target="_blank"} (MIT License)
 * [Sqlite](https://www.sqlite.org/copyright.html){:target="_blank"} (Public Domain Dedication)
 * [SqlserverCE](https://www.ip2location.com/ip2location_redistribution_license.pdf){:target="_blank"} (Redistribution License Agreement)
+* [summernote](https://github.com/summernote/summernote/blob/develop/LICENSE){:target="_blank"} (MIT License)
 * [ude](https://github.com/errepi/ude){:target="_blank"} (Mozilla Public License Version 1.1)
 * [WPF Toolkit](https://archive.codeplex.com/?p=wpf){:target="_blank"} (Microsoft Public License)
+* [zTree](https://github.com/zTree/zTree_v3){:target="_blank"} (MIT License)
 
 <br />
 
@@ -93,6 +100,7 @@ Forguncy Plugin을 사용하셔서 신규 상용 서비스를 런칭하시려는
 
 그레이프시티 컴포넌트 제품을 이용하시면 Forguncy와 같이 사용자 편의성이 높은 새로운 애플리케이션을 개발하실 수 있습니다.
 
+* [ActiveReport](https://www.grapecity.co.kr/activereports){:target="_blank"}
 * [ComponentOne for WPF](https://www.grapecity.co.kr/componentone-enterprise){:target="_blank"}
 * [GrapeCity Barcode](https://www.grapecity.co.kr/componentone-wpf/controls/barcode){:target="_blank"}
 * [InputManJS](https://www.grapecity.co.jp/developer/inputmanjs){:target="_blank"}
